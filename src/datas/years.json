@@ -1,0 +1,27 @@
+{
+  "eventos_principais": [
+    { "id": 1, "CM": "-3500s", "EC": "-900s", "aprox": true, "evento": "A Árvore do Conhecimento é plantada em Ohara." },
+    { "id": 2, "CM": "-2500s", "EC": "100s", "aprox": true, "evento": "O Palácio de Alubarna é construído." },
+    { "id": 3, "CM": "-1500s", "EC": "1100s", "aprox": true, "evento": "Uma instalação é construída em Elbaph." },
+    { "id": 4, "CM": "0s", "EC": "2600s", "aprox": true, "evento": "Possível início da Era do Círculo do Mar (calendário do mar)." },
+
+    { "id": 5, "CM": 402, "EC": "3000s", "aprox": true, "evento": "Shandora (Cidade do Ouro) é construída e prospera." },
+
+    { "id": 6, "CM": "600s", "EC": "3200s", "aprox": true, "evento": "O Século Vazio começa (período de Joy Boy e grandes armas)." },
+    { "id": 7, "CM": "700s", "EC": "3300s", "aprox": true, "evento": "Fim do Século Vazio; 20 reinos formam o Governo Mundial e sobem para Mary Geoise." },
+    { "id": 8, "CM": "800s", "EC": "3400s", "aprox": true, "evento": "Começa a construção de Tequila Wolf (e outras 'Wolf')." },
+
+    { "id": 9, "CM": 882, "EC": 3472, "aprox": false, "evento": "Oars nasce." },
+
+    { "id": 10, "CM": 1120, "EC": "3700s", "aprox": true, "evento": "Noland parte de Vira (diário datado em CM 1120)." },
+    { "id": 11, "CM": 1122, "EC": "3700s", "aprox": true, "evento": "Noland chega a Jaya e encerra uma doença entre os Shandia." },
+    { "id": 12, "CM": 1127, "EC": "3700s", "aprox": true, "evento": "Noland retorna a Jaya; a Cidade do Ouro já não está lá; meses depois ele é executado." },
+
+    { "id": 13, "CM": "1300s", "EC": "3900s", "aprox": true, "evento": "Emet (Gigante de Ferro) ataca Mary Geoise e é estudado em segredo." },
+
+    { "id": 14, "CM": 1513, "EC": 4103, "aprox": false, "evento": "Gol D. Roger descobre que tem doença fatal e inicia sua última jornada." },
+    { "id": 15, "CM": 1516, "EC": 4106, "aprox": false, "evento": "Os Piratas do Roger chegam a Laugh Tale; Roger vira o Rei dos Piratas e dissolve a tripulação." },
+    { "id": 16, "CM": 1517, "EC": 4107, "aprox": false, "evento": "Roger se entrega, é sentenciado à morte e seu discurso inicia a Grande Era dos Piratas." },
+    { "id": 17, "CM": 1519, "EC": 4109, "aprox": false, "evento": "Incidente de Ohara: Buster Call destrói Ohara; Robin se torna fugitiva." }
+  ]
+}
