@@ -113,3 +113,12 @@
     }
   }
 }
+
+
+@media (max-width: 900px){
+  .header-container{
+    flex-direction: column;
+    height: 130px;
+    gap: 5px;
+  }
+}

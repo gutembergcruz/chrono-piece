@@ -233,3 +233,13 @@
     margin: 0;
   }
 }
+
+
+@media (max-width: 900px){
+  .main-content-container{
+    height: calc(100vh - 130px);
+  }
+  .event-sidebar-info{
+    flex-direction: column;
+  }
+}
