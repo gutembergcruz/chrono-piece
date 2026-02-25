@@ -1,0 +1,19 @@
+{
+  "id": "800-anos-elevacao-do-nivel-do-mar",
+  "year": {
+    "CM": 700,
+    "EC": 3300
+  },
+  "title": "Elevação do Nível do Mar",
+  "subtitle": "O mundo é inundado",
+  "whatHappened": "O mar subiu 200 metros, alterando drasticamente a geografia do mundo.",
+  "keyCharacters": [],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Linha do Tempo - One Piece Wiki",
+      "url": "https://onepiece.fandom.com/pt/wiki/Linha_do_Tempo_do_Mundo",
+      "type": "other"
+    }
+  ]
+}

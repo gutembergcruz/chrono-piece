@@ -1,0 +1,24 @@
+{
+  "id": "atual-viajantes-do-tempo-chegam-a-wano",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Viajantes do Tempo Chegam a Wano",
+  "subtitle": "Kin'emon e aliados do passado",
+  "whatHappened": "Kin'emon, Kiku, Raizo, Kanjuro e Kozuki Momonosuke chegam ao País de Wano deste ano vindos de 20 anos atrás, tendo sido enviados através do tempo pelos poderes da Toki Toki no Mi.",
+  "keyCharacters": [
+    "Kin'emon",
+    "Kiku",
+    "Raizo",
+    "Kanjuro",
+    "Kozuki Momonosuke"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 919",
+      "type": "manga"
+    }
+  ]
+}

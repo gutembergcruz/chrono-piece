@@ -1,0 +1,21 @@
+{
+  "id": "atual-derrota-de-kaidou",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Derrota de Kaidou",
+  "subtitle": "Luffy vence o Imperador",
+  "whatHappened": "O Imperador Kaidou é derrotado por Luffy.",
+  "keyCharacters": [
+    "Kaidou",
+    "Monkey D. Luffy"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1049",
+      "type": "manga"
+    }
+  ]
+}

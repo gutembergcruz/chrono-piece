@@ -1,0 +1,25 @@
+{
+  "id": "24-anos-execucao-de-gol-d-roger",
+  "year": {
+    "CM": 1517,
+    "EC": 4107
+  },
+  "title": "Execução de Gol D. Roger",
+  "subtitle": "Início da Grande Era dos Piratas",
+  "whatHappened": "O Rei dos Piratas Gol D. Roger se entrega à Marinha e é sentenciado à morte. O discurso de Roger antes de sua morte leva piratas à Grand Line para procurar seu tesouro escondido, apelidado de 'One Piece'. Este evento marca o início de uma era chamada 'Grande Era dos Piratas'.",
+  "keyCharacters": [
+    "Gol D. Roger",
+    "Marinha"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 1",
+      "type": "anime"
+    }
+  ]
+}

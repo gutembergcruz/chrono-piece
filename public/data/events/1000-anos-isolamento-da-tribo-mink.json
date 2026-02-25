@@ -1,0 +1,22 @@
+{
+  "id": "1000-anos-isolamento-da-tribo-mink",
+  "year": {
+    "CM": 500,
+    "EC": 3100
+  },
+  "title": "Isolamento da Tribo Mink",
+  "subtitle": "Zou se torna lar dos Minks",
+  "whatHappened": "A Tribo Mink isola-se do mundo exterior na ilha Zou, carregada nas costas de Zunesha, estabelecendo sua civilização única.",
+  "keyCharacters": [
+    "Tribo Mink",
+    "Zunesha"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Linha do Tempo - One Piece Wiki",
+      "url": "https://onepiece.fandom.com/pt/wiki/Linha_do_Tempo_do_Mundo",
+      "type": "other"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "441-anos-nascimentos-de-noland-e-kalgara",
+  "year": {
+    "CM": 1100,
+    "EC": 3690
+  },
+  "title": "Nascimentos de Noland e Kalgara",
+  "subtitle": "Futuros heróis de suas terras",
+  "whatHappened": "Mont Blanc Noland nasce em Lvneel, e Kalgara nasce em Jaya. Ambos estão destinados a se tornarem figuras lendárias.",
+  "keyCharacters": [
+    "Mont Blanc Noland",
+    "Kalgara"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "SBS Volume 50",
+      "type": "sbs"
+    }
+  ]
+}

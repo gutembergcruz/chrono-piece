@@ -1,0 +1,20 @@
+{
+  "id": "atual-abolicao-do-sistema-shichibukai",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Abolição do Sistema Shichibukai",
+  "subtitle": "Marinha ataca ex-Corsários",
+  "whatHappened": "O sistema Shichibukai é abolido e a Marinha começa a atacar os antigos Corsários.",
+  "keyCharacters": [
+    "Marinha"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 956",
+      "type": "manga"
+    }
+  ]
+}

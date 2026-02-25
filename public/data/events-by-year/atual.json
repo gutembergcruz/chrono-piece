@@ -1,0 +1,488 @@
+{
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "events": [
+    {
+      "id": "atual-morte-do-principe-e-rei-do-reino-de-goa",
+      "title": "Morte do Príncipe e Rei do Reino de Goa",
+      "subtitle": "Sterry ascende ao trono",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-viajantes-do-tempo-chegam-a-wano",
+      "title": "Viajantes do Tempo Chegam a Wano",
+      "subtitle": "Kin'emon e aliados do passado",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-momonosuke-come-akuma-no-mi-artificial",
+      "title": "Momonosuke Come Akuma no Mi Artificial",
+      "subtitle": "Fruta criada por Vegapunk",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-falsos-chapeus-de-palha-desmascarados",
+      "title": "Falsos Chapéus de Palha Desmascarados",
+      "subtitle": "Sentomaru promovido",
+      "importance": "local"
+    },
+    {
+      "id": "atual-reuniao-dos-chapeus-de-palha",
+      "title": "Reunião dos Chapéus de Palha",
+      "subtitle": "Retorno ao Arquipélago Sabaody",
+      "importance": "global"
+    },
+    {
+      "id": "atual-kuma-escravizado",
+      "title": "Kuma Escravizado",
+      "subtitle": "Punição por ajudar os Chapéus de Palha",
+      "importance": "global"
+    },
+    {
+      "id": "atual-profecia-de-shyarly",
+      "title": "Profecia de Shyarly",
+      "subtitle": "Destruição da Ilha dos Homens-Peixe",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-rebeliao-em-fish-man-island",
+      "title": "Rebelião em Fish-Man Island",
+      "subtitle": "Hody Jones e Vander Decken",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-shirahoshi-revela-ser-poseidon",
+      "title": "Shirahoshi Revela Ser Poseidon",
+      "subtitle": "Poder de invocar Reis do Mar",
+      "importance": "global"
+    },
+    {
+      "id": "atual-primeira-transfusao-humano-homem-peixe",
+      "title": "Primeira Transfusão Humano-Homem-Peixe",
+      "subtitle": "Jinbe doa sangue a Luffy",
+      "importance": "global"
+    },
+    {
+      "id": "atual-jinbe-promete-se-juntar-aos-chapeus-de-palha",
+      "title": "Jinbe Promete se Juntar aos Chapéus de Palha",
+      "subtitle": "Após cumprir seus deveres",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-desafio-a-big-mom",
+      "title": "Desafio a Big Mom",
+      "subtitle": "Luffy declara proteção à Fish-Man Island",
+      "importance": "global"
+    },
+    {
+      "id": "atual-entrada-no-novo-mundo",
+      "title": "Entrada no Novo Mundo",
+      "subtitle": "Chapéus de Palha cruzam a Red Line",
+      "importance": "global"
+    },
+    {
+      "id": "atual-alianca-law-luffy",
+      "title": "Aliança Law-Luffy",
+      "subtitle": "Plano para derrubar Kaidou",
+      "importance": "global"
+    },
+    {
+      "id": "atual-incidente-de-punk-hazard",
+      "title": "Incidente de Punk Hazard",
+      "subtitle": "Derrota de Caesar Clown",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-criancas-levadas-a-vegapunk",
+      "title": "Crianças Levadas a Vegapunk",
+      "subtitle": "G-5 resgata crianças",
+      "importance": "local"
+    },
+    {
+      "id": "atual-alianca-kid-on-air-hawkins",
+      "title": "Aliança Kid-On Air-Hawkins",
+      "subtitle": "Plano para depor Shanks",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-caribou-capturado",
+      "title": "Caribou Capturado",
+      "subtitle": "Levado por X Drake",
+      "importance": "local"
+    },
+    {
+      "id": "atual-invasao-de-zou",
+      "title": "Invasão de Zou",
+      "subtitle": "Jack ataca os Minks",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-brinquedos-voltam-ao-normal",
+      "title": "Brinquedos Voltam ao Normal",
+      "subtitle": "Sugar perde consciência",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-sabo-come-a-mera-mera-no-mi",
+      "title": "Sabo Come a Mera Mera no Mi",
+      "subtitle": "Poder de Ace herdado",
+      "importance": "global"
+    },
+    {
+      "id": "atual-derrota-de-doflamingo",
+      "title": "Derrota de Doflamingo",
+      "subtitle": "Libertação de Dressrosa",
+      "importance": "global"
+    },
+    {
+      "id": "atual-formacao-da-grande-frota-do-chapeu-de-palha",
+      "title": "Formação da Grande Frota do Chapéu de Palha",
+      "subtitle": "Sete tripulações juram lealdade",
+      "importance": "global"
+    },
+    {
+      "id": "atual-novas-recompensas-dos-chapeus-de-palha",
+      "title": "Novas Recompensas dos Chapéus de Palha",
+      "subtitle": "Fotos atualizadas",
+      "importance": "global"
+    },
+    {
+      "id": "atual-kid-e-hawkins-viram-subordinados",
+      "title": "Kid e Hawkins Viram Subordinados",
+      "subtitle": "Confronto com Kaidou",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-jack-ataca-escolta-de-doflamingo",
+      "title": "Jack Ataca Escolta de Doflamingo",
+      "subtitle": "Falsamente declarado morto",
+      "importance": "local"
+    },
+    {
+      "id": "atual-destruicao-de-baltigo",
+      "title": "Destruição de Baltigo",
+      "subtitle": "Base dos Revolucionários atacada",
+      "importance": "global"
+    },
+    {
+      "id": "atual-brook-copia-road-poneglyph",
+      "title": "Brook Copia Road Poneglyph",
+      "subtitle": "Infiltração no território de Big Mom",
+      "importance": "global"
+    },
+    {
+      "id": "atual-explosao-da-tamatebako",
+      "title": "Explosão da Tamatebako",
+      "subtitle": "Queda do Chateau Whole Cake",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-bartolomeo-queima-bandeira-de-shanks",
+      "title": "Bartolomeo Queima Bandeira de Shanks",
+      "subtitle": "Provocação em Gartel Island",
+      "importance": "local"
+    },
+    {
+      "id": "atual-sacrificio-de-pedro",
+      "title": "Sacrifício de Pedro",
+      "subtitle": "Explosão com dinamite",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-derrota-de-katakuri",
+      "title": "Derrota de Katakuri",
+      "subtitle": "Luffy vence o comandante",
+      "importance": "global"
+    },
+    {
+      "id": "atual-luffy-declarado-quinto-imperador",
+      "title": "Luffy Declarado Quinto Imperador",
+      "subtitle": "Notícias do ataque a Big Mom",
+      "importance": "global"
+    },
+    {
+      "id": "atual-reino-germa-expulso",
+      "title": "Reino Germa Expulso",
+      "subtitle": "Punição por aliança tentada",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-morte-de-absalom",
+      "title": "Morte de Absalom",
+      "subtitle": "Shiryu obtém Suke Suke no Mi",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-luffy-chega-a-wano",
+      "title": "Luffy Chega a Wano",
+      "subtitle": "3 de Março - Salvamento de Tama",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-execucao-de-shimotsuki-yasuie",
+      "title": "Execução de Shimotsuki Yasuie",
+      "subtitle": "Zoro recebe Enma",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-alianca-big-mom-e-kaidou",
+      "title": "Aliança Big Mom e Kaidou",
+      "subtitle": "Dois Imperadores se unem",
+      "importance": "global"
+    },
+    {
+      "id": "atual-resgate-de-kuma-no-levely",
+      "title": "Resgate de Kuma no Levely",
+      "subtitle": "Fujitora ajuda escravos",
+      "importance": "global"
+    },
+    {
+      "id": "atual-revelacao-de-imu-a-cobra",
+      "title": "Revelação de Imu a Cobra",
+      "subtitle": "Pergunta sobre Nefertari D. Lili",
+      "importance": "global"
+    },
+    {
+      "id": "atual-morte-de-nefertari-cobra",
+      "title": "Morte de Nefertari Cobra",
+      "subtitle": "Vivi sequestrada",
+      "importance": "global"
+    },
+    {
+      "id": "atual-abolicao-do-sistema-shichibukai",
+      "title": "Abolição do Sistema Shichibukai",
+      "subtitle": "Marinha ataca ex-Corsários",
+      "importance": "global"
+    },
+    {
+      "id": "atual-ataque-a-amazon-lily",
+      "title": "Ataque a Amazon Lily",
+      "subtitle": "Hancock vs Barba Negra e Marinha",
+      "importance": "global"
+    },
+    {
+      "id": "atual-festival-do-fogo-em-onigashima",
+      "title": "Festival do Fogo em Onigashima",
+      "subtitle": "17 de Março - Início do ataque",
+      "importance": "global"
+    },
+    {
+      "id": "atual-casamento-de-lola-e-gotti",
+      "title": "Casamento de Lola e Gotti",
+      "subtitle": "União celebrada",
+      "importance": "local"
+    },
+    {
+      "id": "atual-traicao-de-kanjuro-revelada",
+      "title": "Traição de Kanjuro Revelada",
+      "subtitle": "Pintura de Oden mata Ashura Doji",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-nascimento-de-hera",
+      "title": "Nascimento de Hera",
+      "subtitle": "Nova Homie de Big Mom",
+      "importance": "local"
+    },
+    {
+      "id": "atual-morte-de-kanjuro",
+      "title": "Morte de Kanjuro",
+      "subtitle": "Criação de Kazenbo",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-derrota-de-big-mom",
+      "title": "Derrota de Big Mom",
+      "subtitle": "Kid e Law vencem Imperatriz",
+      "importance": "global"
+    },
+    {
+      "id": "atual-morte-de-izo",
+      "title": "Morte de Izo",
+      "subtitle": "Morto pelo agente CP0",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-morte-de-orochi",
+      "title": "Morte de Orochi",
+      "subtitle": "Incinerado por Kazenbo e decapitado",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-morte-de-guernika",
+      "title": "Morte de Guernika",
+      "subtitle": "Agente CP0 morto por Kaidou",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-derrota-de-kaidou",
+      "title": "Derrota de Kaidou",
+      "subtitle": "Luffy vence o Imperador",
+      "importance": "global"
+    },
+    {
+      "id": "atual-vitoria-em-onigashima",
+      "title": "Vitória em Onigashima",
+      "subtitle": "Momonosuke se torna Xógum",
+      "importance": "global"
+    },
+    {
+      "id": "atual-novos-imperadores",
+      "title": "Novos Imperadores",
+      "subtitle": "Luffy e Buggy ascendem",
+      "importance": "global"
+    },
+    {
+      "id": "atual-ryokugyu-derrotado-por-shanks",
+      "title": "Ryokugyu Derrotado por Shanks",
+      "subtitle": "Almirante recua de Wano",
+      "importance": "global"
+    },
+    {
+      "id": "atual-aniquilacao-do-reino-lulusia",
+      "title": "Aniquilação do Reino Lulusia",
+      "subtitle": "Ordem de Imu",
+      "importance": "global"
+    },
+    {
+      "id": "atual-chegada-a-egghead",
+      "title": "Chegada a Egghead",
+      "subtitle": "Aliança com Vegapunk e Bonney",
+      "importance": "global"
+    },
+    {
+      "id": "atual-sequestro-de-charlotte-pudding",
+      "title": "Sequestro de Charlotte Pudding",
+      "subtitle": "Capturada por Kuzan",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-captura-de-edward-weevil",
+      "title": "Captura de Edward Weevil",
+      "subtitle": "Derrotado por Ryokugyu",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-formacao-da-neo-mads",
+      "title": "Formação da NEO MADS",
+      "subtitle": "Judge e Caesar se unem",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-derrota-de-eustass-kid",
+      "title": "Derrota de Eustass Kid",
+      "subtitle": "Shanks destrói Victoria Punk",
+      "importance": "global"
+    },
+    {
+      "id": "atual-derrota-de-trafalgar-law",
+      "title": "Derrota de Trafalgar Law",
+      "subtitle": "Polar Tang afundado",
+      "importance": "global"
+    },
+    {
+      "id": "atual-assassinato-de-t-bone",
+      "title": "Assassinato de T Bone",
+      "subtitle": "Morto por recompensa da Cross Guild",
+      "importance": "local"
+    },
+    {
+      "id": "atual-execucao-de-mjosgard",
+      "title": "Execução de Mjosgard",
+      "subtitle": "Morto por Figarland Garling",
+      "importance": "global"
+    },
+    {
+      "id": "atual-operacao-de-resgate-em-hachinosu",
+      "title": "Operação de Resgate em Hachinosu",
+      "subtitle": "Garp capturado",
+      "importance": "global"
+    },
+    {
+      "id": "atual-libertacao-de-moria",
+      "title": "Libertação de Moria",
+      "subtitle": "Perona resgata Moria",
+      "importance": "local"
+    },
+    {
+      "id": "atual-incidente-de-egghead",
+      "title": "Incidente de Egghead",
+      "subtitle": "Evento catastrófico",
+      "importance": "global"
+    },
+    {
+      "id": "atual-morte-de-vegapunk",
+      "title": "Morte de Vegapunk",
+      "subtitle": "Mensagem pré-gravada revelada",
+      "importance": "global"
+    },
+    {
+      "id": "atual-despertar-de-emet",
+      "title": "Despertar de Emet",
+      "subtitle": "200 anos de sono",
+      "importance": "global"
+    },
+    {
+      "id": "atual-explosao-de-tonalidade-regia",
+      "title": "Explosão de Tonalidade Régia",
+      "subtitle": "Emet libera poder de Joy Boy",
+      "importance": "global"
+    },
+    {
+      "id": "atual-punk-records-flutua",
+      "title": "Punk Records Flutua",
+      "subtitle": "Desconectado de Egghead",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-queda-de-jaygarcia-saturn",
+      "title": "Queda de Jaygarcia Saturn",
+      "subtitle": "Imu remove imortalidade",
+      "importance": "global"
+    },
+    {
+      "id": "atual-derrota-de-bartolomeo",
+      "title": "Derrota de Bartolomeo",
+      "subtitle": "Navio afundado por Yasopp",
+      "importance": "local"
+    },
+    {
+      "id": "atual-captura-pelo-muginn",
+      "title": "Captura pelo Muginn",
+      "subtitle": "Thousand Sunny levado a Road",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-luffy-mata-o-glutbunny",
+      "title": "Luffy Mata o Glutbunny",
+      "subtitle": "Encontro com Zoro e Sanji",
+      "importance": "local"
+    },
+    {
+      "id": "atual-escape-de-road",
+      "title": "Escape de Road",
+      "subtitle": "Luffy faz acordo com Loki",
+      "importance": "regional"
+    },
+    {
+      "id": "atual-road-dominado",
+      "title": "Road Dominado",
+      "subtitle": "Gerd e Goldberg assumem controle",
+      "importance": "local"
+    },
+    {
+      "id": "atual-reuniao-com-saul",
+      "title": "Reunião com Saul",
+      "subtitle": "Robin reencontra amigo após 22 anos",
+      "importance": "global"
+    },
+    {
+      "id": "atual-cavaleiros-de-deus-em-elbaph",
+      "title": "Cavaleiros de Deus em Elbaph",
+      "subtitle": "Contato estabelecido",
+      "importance": "global"
+    }
+  ]
+}

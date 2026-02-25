@@ -1,0 +1,14 @@
+{
+  "year": {
+    "CM": 1000,
+    "EC": 3600
+  },
+  "events": [
+    {
+      "id": "500-anos-morte-de-oars",
+      "title": "Morte de Oars",
+      "subtitle": "Congelado nas Terras do Norte",
+      "importance": "regional"
+    }
+  ]
+}

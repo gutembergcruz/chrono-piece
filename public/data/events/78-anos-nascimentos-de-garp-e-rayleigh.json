@@ -1,0 +1,21 @@
+{
+  "id": "78-anos-nascimentos-de-garp-e-rayleigh",
+  "year": {
+    "CM": 1463,
+    "EC": 4053
+  },
+  "title": "Nascimentos de Garp e Rayleigh",
+  "subtitle": "Lendas em formação",
+  "whatHappened": "Monkey D. Garp e Silvers Rayleigh nascem, futuros pilares da Marinha e dos Piratas respectivamente.",
+  "keyCharacters": [
+    "Monkey D. Garp",
+    "Silvers Rayleigh"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "SBS Volume 15",
+      "type": "sbs"
+    }
+  ]
+}

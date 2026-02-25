@@ -1,0 +1,20 @@
+{
+  "id": "460-anos-cura-da-febre-das-arvores",
+  "year": {
+    "CM": 1040,
+    "EC": 3640
+  },
+  "title": "Cura da Febre das Árvores",
+  "subtitle": "Salvação de Lvneel",
+  "whatHappened": "Uma cura é encontrada para a Febre das Árvores que assolou a terra de Lvneel, quase exterminando a maioria dos habitantes.",
+  "keyCharacters": [
+    "Povo de Lvneel"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 292",
+      "type": "manga"
+    }
+  ]
+}

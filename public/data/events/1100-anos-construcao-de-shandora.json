@@ -1,0 +1,24 @@
+{
+  "id": "1100-anos-construcao-de-shandora",
+  "year": {
+    "CM": 402,
+    "EC": 3002
+  },
+  "title": "Construção de Shandora",
+  "subtitle": "A Cidade do Ouro prospera",
+  "whatHappened": "Calendário do Círculo do Mar 402: A Cidade do Ouro, Shandora, é construída e prospera como um centro de civilização avançada.",
+  "keyCharacters": [
+    "Povo Shandia"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 261 - pág. 13",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 172",
+      "type": "anime"
+    }
+  ]
+}

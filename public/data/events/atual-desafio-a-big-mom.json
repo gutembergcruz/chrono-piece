@@ -1,0 +1,23 @@
+{
+  "id": "atual-desafio-a-big-mom",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Desafio a Big Mom",
+  "subtitle": "Luffy declara proteção à Fish-Man Island",
+  "whatHappened": "Os Piratas do Chapéu de Palha são alvos de Big Mom após Luffy desafiá-la e se declarar como o futuro protetor da Ilha dos Homens-Peixe. Luffy dá a Tamago e Pekoms o tesouro que Caribou roubou, incluindo a Tamate Box com um explosivo dentro.",
+  "keyCharacters": [
+    "Monkey D. Luffy",
+    "Charlotte Linlin",
+    "Tamago",
+    "Pekoms"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 651",
+      "type": "manga"
+    }
+  ]
+}

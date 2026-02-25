@@ -1,0 +1,21 @@
+{
+  "id": "atual-libertacao-de-moria",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Libertação de Moria",
+  "subtitle": "Perona resgata Moria",
+  "whatHappened": "Perona liberta Moria com sucesso de seu aprisionamento em Hachinosu.",
+  "keyCharacters": [
+    "Perona",
+    "Gecko Moria"
+  ],
+  "importance": "local",
+  "sources": [
+    {
+      "label": "Capítulo 1080",
+      "type": "manga"
+    }
+  ]
+}

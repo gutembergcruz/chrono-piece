@@ -1,0 +1,20 @@
+{
+  "id": "300-anos-imperio-germa",
+  "year": {
+    "CM": 1200,
+    "EC": 3800
+  },
+  "title": "Império Germa",
+  "subtitle": "66 dias de domínio",
+  "whatHappened": "O Reino Germa reina sobre o North Blue por 66 dias como o Império Germa.",
+  "keyCharacters": [
+    "Reino Germa"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 852",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2-anos-luffy-inicia-sua-jornada",
+  "year": {
+    "CM": 1539,
+    "EC": 4129
+  },
+  "title": "Luffy Inicia sua Jornada",
+  "subtitle": "Formação dos Chapéus de Palha",
+  "whatHappened": "Luffy deixa a Vila Foosha em sua busca para se tornar o Rei dos Piratas. Ele recruta Zoro, Nami, Usopp, Sanji e outros, formando os Piratas do Chapéu de Palha. A tripulação derrota Buggy, Kuro, Don Krieg e Arlong.",
+  "keyCharacters": [
+    "Monkey D. Luffy",
+    "Roronoa Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1-100",
+      "type": "manga"
+    }
+  ]
+}

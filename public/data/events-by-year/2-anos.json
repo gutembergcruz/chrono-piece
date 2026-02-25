@@ -1,0 +1,26 @@
+{
+  "year": {
+    "CM": 1539,
+    "EC": 4129
+  },
+  "events": [
+    {
+      "id": "2-anos-luffy-inicia-sua-jornada",
+      "title": "Luffy Inicia sua Jornada",
+      "subtitle": "Formação dos Chapéus de Palha",
+      "importance": "global"
+    },
+    {
+      "id": "2-anos-guerra-de-marineford",
+      "title": "Guerra de Marineford",
+      "subtitle": "Morte de Ace e Barba Branca",
+      "importance": "global"
+    },
+    {
+      "id": "2-anos-timeskip-de-dois-anos",
+      "title": "Timeskip de Dois Anos",
+      "subtitle": "Treinamento da tripulação",
+      "importance": "global"
+    }
+  ]
+}

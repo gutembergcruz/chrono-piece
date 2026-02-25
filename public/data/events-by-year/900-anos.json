@@ -1,0 +1,38 @@
+{
+  "year": {
+    "CM": 600,
+    "EC": 3200
+  },
+  "events": [
+    {
+      "id": "900-anos-perseguicao-aos-tontatta",
+      "title": "Perseguição aos Tontatta",
+      "subtitle": "Família Donquixote oprime os anões",
+      "importance": "regional"
+    },
+    {
+      "id": "900-anos-inicio-do-seculo-vazio",
+      "title": "Início do Século Vazio",
+      "subtitle": "Período apagado da história",
+      "importance": "global"
+    },
+    {
+      "id": "900-anos-grande-civilizacao",
+      "title": "Grande Civilização",
+      "subtitle": "Reino Antigo domina o mundo",
+      "importance": "global"
+    },
+    {
+      "id": "900-anos-construcao-de-emet",
+      "title": "Construção de Emet",
+      "subtitle": "O Gigante de Ferro é criado",
+      "importance": "global"
+    },
+    {
+      "id": "900-anos-promessa-quebrada-de-joy-boy",
+      "title": "Promessa Quebrada de Joy Boy",
+      "subtitle": "Noah não é submersa",
+      "importance": "global"
+    }
+  ]
+}

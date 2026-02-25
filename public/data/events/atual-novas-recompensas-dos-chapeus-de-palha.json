@@ -1,0 +1,21 @@
+{
+  "id": "atual-novas-recompensas-dos-chapeus-de-palha",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Novas Recompensas dos Chapéus de Palha",
+  "subtitle": "Fotos atualizadas",
+  "whatHappened": "Devido aos eventos desde sua reunião em Sabaody até Dressrosa, todos os Chapéus de Palha recebem novas recompensas, com fotos atualizadas em seus cartazes, e o status de Sanji é mudado para 'Procurado Apenas Vivo'.",
+  "keyCharacters": [
+    "Piratas do Chapéu de Palha",
+    "Sanji"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 801",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "atual-alianca-law-luffy",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Aliança Law-Luffy",
+  "subtitle": "Plano para derrubar Kaidou",
+  "whatHappened": "Os Chapéus de Palha formam uma aliança com os Piratas Heart para destronar Kaidou.",
+  "keyCharacters": [
+    "Monkey D. Luffy",
+    "Trafalgar Law"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 668",
+      "type": "manga"
+    }
+  ]
+}

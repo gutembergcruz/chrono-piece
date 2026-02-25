@@ -1,0 +1,14 @@
+{
+  "year": {
+    "CM": 1200,
+    "EC": 3800
+  },
+  "events": [
+    {
+      "id": "300-anos-imperio-germa",
+      "title": "Império Germa",
+      "subtitle": "66 dias de domínio",
+      "importance": "regional"
+    }
+  ]
+}

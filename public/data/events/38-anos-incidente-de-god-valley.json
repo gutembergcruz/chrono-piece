@@ -1,0 +1,28 @@
+{
+  "id": "38-anos-incidente-de-god-valley",
+  "year": {
+    "CM": 1503,
+    "EC": 4093
+  },
+  "title": "Incidente de God Valley",
+  "subtitle": "Derrota dos Piratas Rocks",
+  "whatHappened": "Os Nobres Mundiais realizam a Competição de Caça Nativa em God Valley. Os Piratas Rocks atacam a ilha. Monkey D. Garp e Gol D. Roger se unem para derrotá-los, com Garp ganhando o título de 'Herói da Marinha'. Durante o caos, Bartholomew Kuma come a Nikyu Nikyu no Mi e salva vários escravos. Shanks é encontrado como bebê pelos Piratas de Roger.",
+  "keyCharacters": [
+    "Monkey D. Garp",
+    "Gol D. Roger",
+    "Rocks D. Xebec",
+    "Bartholomew Kuma",
+    "Shanks"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 957",
+      "type": "manga"
+    },
+    {
+      "label": "Capítulo 1096",
+      "type": "manga"
+    }
+  ]
+}

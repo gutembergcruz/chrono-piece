@@ -1,0 +1,23 @@
+{
+  "id": "atual-morte-de-nefertari-cobra",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Morte de Nefertari Cobra",
+  "subtitle": "Vivi sequestrada",
+  "whatHappened": "Nefertari Cobra morre devido aos ferimentos de Imu e sua filha Vivi é sequestrada pela CP0, mas ela é resgatada involuntariamente por Wapol. Publicamente, a morte de Cobra é atribuída a Sabo e Vivi é declarada desaparecida.",
+  "keyCharacters": [
+    "Nefertari Cobra",
+    "Nefertari Vivi",
+    "Wapol",
+    "Sabo"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1085-1086",
+      "type": "manga"
+    }
+  ]
+}

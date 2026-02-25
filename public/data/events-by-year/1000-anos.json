@@ -1,0 +1,26 @@
+{
+  "year": {
+    "CM": 500,
+    "EC": 3100
+  },
+  "events": [
+    {
+      "id": "1000-anos-nascimento-de-zunesha",
+      "title": "Nascimento de Zunesha",
+      "subtitle": "O elefante milenar surge",
+      "importance": "global"
+    },
+    {
+      "id": "1000-anos-isolamento-da-tribo-mink",
+      "title": "Isolamento da Tribo Mink",
+      "subtitle": "Zou se torna lar dos Minks",
+      "importance": "regional"
+    },
+    {
+      "id": "1000-anos-conflito-entre-tribos",
+      "title": "Conflito entre Tribos",
+      "subtitle": "Braços Longos vs Pernas Longas",
+      "importance": "regional"
+    }
+  ]
+}

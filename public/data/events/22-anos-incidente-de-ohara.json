@@ -1,0 +1,28 @@
+{
+  "id": "22-anos-incidente-de-ohara",
+  "year": {
+    "CM": 1519,
+    "EC": 4109
+  },
+  "title": "Incidente de Ohara",
+  "subtitle": "Destruição da ilha dos estudiosos",
+  "whatHappened": "Ohara é queimada até o chão por um Buster Call convocado pela CP9. Professor Clover, Olvia e todos os cidadãos de Ohara são mortos. Nico Robin, a única sobrevivente, começa sua vida fugindo do Governo Mundial com uma recompensa de 79.000.000 de berries. Jaguar D. Saul é congelado por Kuzan.",
+  "keyCharacters": [
+    "Nico Robin",
+    "Professor Clover",
+    "Nico Olvia",
+    "Jaguar D. Saul",
+    "Kuzan"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 397",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 277",
+      "type": "anime"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "atual-reuniao-dos-chapeus-de-palha",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Reunião dos Chapéus de Palha",
+  "subtitle": "Retorno ao Arquipélago Sabaody",
+  "whatHappened": "Os verdadeiros Piratas do Chapéu de Palha se reúnem no Arquipélago Sabaody e a notícia se espalha que eles estão de volta em ação. Sob perseguição dos marinheiros, eles escapam com seu navio revestido para o mar.",
+  "keyCharacters": [
+    "Piratas do Chapéu de Palha"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 598-603",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "800-anos-destruicao-de-shandora",
+  "year": {
+    "CM": 700,
+    "EC": 3300
+  },
+  "title": "Destruição de Shandora",
+  "subtitle": "A Cidade do Ouro cai",
+  "whatHappened": "Após uma grande guerra, Shandora é destruída, encerrando a era dourada da civilização Shandia.",
+  "keyCharacters": [
+    "Povo Shandia"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 261 - pág. 13",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 172",
+      "type": "anime"
+    }
+  ]
+}

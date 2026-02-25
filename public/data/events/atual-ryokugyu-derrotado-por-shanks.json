@@ -1,0 +1,23 @@
+{
+  "id": "atual-ryokugyu-derrotado-por-shanks",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Ryokugyu Derrotado por Shanks",
+  "subtitle": "Almirante recua de Wano",
+  "whatHappened": "O Almirante Ryokugyu derrota e detém King e Queen e é impedido de matar o recém-eleito Imperador Luffy devido a Shanks e recua.",
+  "keyCharacters": [
+    "Ryokugyu",
+    "Shanks",
+    "King",
+    "Queen"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1055",
+      "type": "manga"
+    }
+  ]
+}

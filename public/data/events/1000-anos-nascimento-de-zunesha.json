@@ -1,0 +1,24 @@
+{
+  "id": "1000-anos-nascimento-de-zunesha",
+  "year": {
+    "CM": 500,
+    "EC": 3100
+  },
+  "title": "Nascimento de Zunesha",
+  "subtitle": "O elefante milenar surge",
+  "whatHappened": "Zunesha nasce por volta dessa época. O primeiro avistamento conhecido do elefante gigante é registrado, iniciando sua longa jornada pelos mares.",
+  "keyCharacters": [
+    "Zunesha"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 802 - pág. 16-17",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 751",
+      "type": "anime"
+    }
+  ]
+}

@@ -1,0 +1,1232 @@
+{{Para|a linha cronológica que exibe a história da série|Linha do Tempo da Vida Real}}
+
+Esta é uma lista abrangente de todos os eventos, nascimentos e mortes conhecidos e datados que ocorreram no [[Planeta Azul]], o mundo que serve de cenário para ''[[One Piece (Mangá)|One Piece]]''.
+
+==Calendários==
+Sabe-se que existem dois sistemas de calendário no [[Planeta Azul]]. Estes são a Era do Círculo Marítimo e a Era do Céu.
+
+Como não há um calendário oficial ou universal estabelecido, a maioria dos eventos nesta linha do tempo são datados usando referências gerais aos dias atuais, embora eventos com datas específicas nos calendários seguintes tenham essas datas mencionadas.
+
+===Era do Círculo Marítimo===
+A {{Nihongo|'''Era do Círculo Marítimo'''|海円暦|Kaienreki|Panini: Era do Mar Redondo; Crunchyroll: Mar Efêmero}} é o calendário usado por [[Mont Blanc Noland]] em seu [[diário de bordo]] há cerca de 400 anos, que foi datado do ano 1120. Usando o diário de bordo de Noland como guia, é possível descobrir que o enredo atual de ''One Piece'' se passa no século XVI dentro do Calendário do Círculo Marítimo.{{Cref|nome=c228|cap=228|pág=17-18|ep=148|Nami lê o diário de bordo do Noland.}} Com base nas datas exatas fornecidas por Noland, a divisão mês-dia neste calendário parece corresponder ao {{W|calendário gregoriano}}.
+
+Tanto na dublagem quanto nas legendas da Netflix, o nome do calendário é tratado como descartável, com [[Nami]] lendo o diário de bordo de Noland como "Dia 21 de junho do ano de 1120. Partimos de Vila, uma cidade um tanto quanto simpática,...".
+
+===Era do Céu===
+A {{Nihongo|'''Era do Céu'''|天暦|Tenreki|Panini: ?; Netflix: Tenryaku; Crunchyroll: Efeméride Celeste}} é o calendário que foi usado quando [[Nico Robin]] fingiu recitar a história do [[Reino de Alabasta]] do [[Poneglyph]] no [[Túmulo dos Reis]].{{Cref|nome=De acordo com a verdadeira história|cap=203|ep=123|Nico Robin fala sobre a verdadeira história de Alabasta. Observação: Esta informação pode ser falsa devido às circunstâncias no momento em que Robin a recontou.}} Na realidade, o Poneglyph continha informações sobre [[Pluton]]. Devido às circunstâncias, não está claro se as informações que ela forneceu eram precisas. Não se sabe como os meses e os dias foram divididos neste calendário, e ele não pode ser correspondido com a linha do tempo mundial, pois nenhum ponto de referência foi fornecido.
+
+{| class="wikitable"
+|- style="background:gray;"
+! style="width:50%;" |Ano no Mundo de One Piece!!Quando aconteceu? (Anos Atrás)
+|- style="background:silver;"
+| {{Âncora|239|AOS}}'''''239 Era do Céu'''''||'''''???'''''
+|-
+| colspan="2" style="border-bottom: 3px solid;" |Kahira conquista [[Alabasta]].{{Cref|nome=De acordo com a verdadeira história}}
+|- style="background:silver;"
+| {{Âncora|260}}'''''260 Era do Céu'''''||'''''???'''''
+|-
+| colspan="2" style="border-bottom: 3px solid;" |A Dinastia Bitein de Taymar inicia seu governo.{{Cref|nome=De acordo com a verdadeira história}}
+|- style="background:silver;"
+| {{Âncora|306}}'''''306 Era do Céu'''''||'''''???'''''
+|-
+| colspan="2" style="border-bottom: 3px solid;" |Grande Templo Taph concluído em [[Erumalu]].{{Cref|nome=De acordo com a verdadeira história}}
+|- style="background:silver;"
+| {{Âncora|325}}'''''325 Era do Céu'''''||'''''???'''''
+|-
+| colspan="2" style="border-bottom: 3px solid;" |O Herói de Oltea, Mamudin... (Robin não teve permissão para terminar a frase.){{Cref|nome=De acordo com a verdadeira história}}
+|}
+
+==Linha do Tempo==
+{{Spoiler}}
+===Antes da Grande Era Pirata===
+{{Linha do Tempo|TOPO}}
+{{Linha do Tempo|~5000|eventos=
+A [[Árvore do Conhecimento]] foi plantada pelo antigo povo de [[Ohara]].{{Cref|dados=yellow|pág=233|Descrição da Árvore do Conhecimento.}}
+}}
+{{Linha do Tempo|~4000|eventos=
+Foi construído o Palácio de [[Alubarna]].{{Cref|volume=21|cap=188|pág=2|ep=115|Um soldado afirma que o Palácio de Alubarna foi construído há 4.000 anos.}}
+}}
+{{Linha do Tempo|~3000|eventos=
+Uma [[Elbaph#Instalação Antiga|instalação]] foi construída em [[Elbaph]].{{Cref|cap=1144|pág=2-3|Lilith estima a idade da instalação.}}
+}}
+{{Linha do Tempo|~1500|eventos=
+Este é o possível início da Era do Círculo do Mar.{{Cref|nome=c228}}
+}}
+{{Linha do Tempo|~1100|eventos=
+Calendário do Círculo do Mar 402: A Cidade do Ouro, [[Shandora]], é construída e prospera.{{Cref|nome=shandora|cap=261|pág=13|ep=172|Nico Robin lê sobre a história de Shandora.}}
+}}
+{{Linha do Tempo|~1000|eventos=
+[[Zunesha]] nasce por volta dessa época. O primeiro avistamento conhecido do elefante é registrado.{{Cref|cap=802|pág=16-17|ep=751|Luffy percebe que Zunesha está viva há 1000 anos.}}
+
+
+A [[Tribo Mink]] isola-se do mundo exterior na ilha [[Zou]] carregada nas costas de Zunesha.
+
+Um conflito entre a [[Tribo dos Braços Longos]] e a [[Tribo dos Pernas Longas]] começa.{{Cref|capa=884}}
+}}
+{{Linha do Tempo|~900|eventos=
+A [[Família Donquixote]] persegue a [[Tribo Tontatta]].{{Cref|cap=718|pág=7|ep=648|Gancho revela a história de 900 anos dos Tontatta.}}
+
+
+O [[Século Vazio]] começa.{{Cref|cap=392|pág=4|ep=275}}
+
+Neste período, [[Joy Boy]] comeu a [[Gomu Gomu no Mi|Hito Hito no Mi, Modelo: Nika]], e se tornou o primeiro [[Pirata]] da história.{{Cref|cap=1114|pág=14-15|ep=|Joy Boy é revelado como o primeiro pirata.}}
+
+Uma [[Grande Reino|grande civilização]] domina o planeta de um canto a outro, e [[Armas Antigas|grandes armas de destruição em massa]] são construídas.{{Cref|nome=c395|cap=395|ep=277|A história do Governo Mundial.}}
+
+O Gigante de Ferro [[Emet]] é construído.{{Cref|nome=c1067|cap=1067|pág=9-11|Vegapunk fala sobre o Gigante de Ferro.}}
+
+Joy Boy tenta submergir [[Noah]] com a ajuda da [[Poseidon]], mas ele quebra sua parte do acordo com a [[Ilha dos Homens-Peixe]] e Noah nunca foi submergido, deixando para esperar o dia em que poderia ser usado.{{Cref|cap=649|pág=16-18|ep=569}}
+}}
+{{Linha do Tempo|~830|eventos=
+[[Kozuki Toki|Amatsuki Toki]] nasce.{{Cref|cap=964|pág=17|ep=964|30 anos atrás, Toki revela que tem 26 anos, mas nasceu h�� 800 anos.}}
+}}
+{{Linha do Tempo|~800|eventos=
+Após uma grande guerra, [[Shandora]] é destruída.{{Cref|nome=shandora}}
+
+
+[[Joy Boy]] armazena um tesouro mítico apelidado de '[[One Piece]]' na [[Laugh Tale|última ilha]] da [[Grand Line]].{{Cref|cap=967|pág=18-19|ep=968|Roger afirma que ninguém pisou na ilha em 800 anos.}}
+
+Uma organização de [[Vinte Primeiros|vinte membros da realeza]] forma uma aliança contra o Grande Reino e Joy Boy, derrotando-o em uma [[Grande Guerra|grande guerra]] e marcando o fim do [[Século Vazio]].{{Cref|cap=1115|pág=3-5|Vegapunk fala sobre a Grande Guerra.}}
+
+O [[Mar Azul|mar]] subiu 200 metros.
+
+No mesmo século, as armas antigas também desaparecem sob circunstâncias misteriosas. Os únicos vestígios deixados para trás de sua civilização são os [[Poneglyph]]s construídos pela [[Família Kozuki]].{{Cref|cap=818|pág=13|ep=770}}
+
+Os Vinte membros da realeza criam o [[Governo Mundial]] e se mudam para [[Mary Geoise]].{{Cref|cap=497|ep=391|Pappag revela a história do Governo Mundial.}} Conforme chegam ao poder, eles controlam e censuram tudo o que aconteceu nos últimos 100 anos, ao mesmo tempo em que proíbem mundialmente a capacidade de pesquisar e ler os Poneglyphs.{{Cref|nome=c395}}
+
+A [[Família Riku]] se torna a nova governante do [[Dressrosa|Reino de Dressrosa]] depois que a [[Família Donquixote]] deixa o país para viver em Mary Geoise, e pede desculpas sinceras aos [[Anões]] que sofreram sob a [[escravidão]] nas mãos da Família Donquixote.{{Cref|nome=c722|cap=722|ep=653|Doflamingo revela que a Família Riku se tornou a nova realeza de Dressrosa depois que a Família Donquixote partiu para Mary Geoise.}}{{Cref|cap=726|ep=658|Gancho conta aos Chapéus de Palha sobre a história dos anões e da Família Riku.}}
+
+[[Zunesha]] comete um crime e é sentenciada a andar pelos mares pela eternidade.{{Cref|nome=c1040|cap=1040|pág=15|ep=}}
+
+[[Pluton]] está escondido sob as cavernas subterrâneas de Wano.{{Cref|nome=c1055|cap=1055|pág=10-11|Sukiyaki discute sobre o estado atual da antiga Wano e o significado da mensagem do Oden para abrir as fronteiras.}}
+
+[[Nefertari D. Lili]] desaparece em seu caminho de Mary Geoise para o [[Reino de Alabasta]].{{Cref|nome=c1084|cap=1084|pág=6-8|Cobra fala sobre a Lili.}}
+
+A [[Cipher Pol]] é estabelecida e está estacionada em [[Enies Lobby]] para protegê-la.{{Cref|cap=426|pág=6|ep=308|Um Marinheiro menciona como Enies Lobby foi protegida pelo Cipher Pol por 800 anos.}}
+}}
+{{Linha do Tempo|~700|eventos=
+A construção da [[Tequila Wolf]] começa em algum lugar no [[East Blue]], para a segurança dos Nobres Mundiais contra o aumento do nível do mar, juntamente com a Vodka Wolf, a Rum Wolf e a Bourbon Wolf ao redor do mundo.{{Cref|cap=1125|pág=17}}
+}}
+{{Linha do Tempo|659|eventos=
+[[Oars]] nasce.{{Cref|nome=vc|dados=vivre card}}
+}}
+{{Linha do Tempo|~500|eventos=
+Oars, um governante de uma nação de bandidos de todo o mundo, morre de congelamento viajando pelas Terras do Norte e permanece preservado no gelo.{{Cref|cap=477|ep=371|Chopper registra a causa da morte do Oars.}}
+}}
+{{Linha do Tempo|~460|eventos=
+Uma cura é encontrada para a [[Febre das Árvores]] que assolou a terra de [[Lvneel]], quase exterminando a maioria dos habitantes.{{Cref|cap=289|pág=15}}
+}}
+{{Linha do Tempo|441|eventos=
+Nascimentos: [[Mont Blanc Noland]], [[Kalgara]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|408|eventos=
+[[Jarul]] nasce.{{Cref|cap=866|ep=836|Jarul é apresentado.}}
+}}
+{{Linha do Tempo|407|eventos=
+[[Jorul]] nasce.{{Cref|cap=866|ep=836|Jorul é apresentado.}}
+}}
+{{Linha do Tempo|~400|eventos=
+Calendário do Círculo do Mar 1120, 21 de Junho: [[Mont Blanc Noland|Noland]] parte de [[Vira]] com sua tripulação. Seguindo o [[Log Pose]], eles encontram um mercador vendendo um artefato incomum de [[Skypiea]] chamado de "[[waver]]".{{Cref|nome=c228}}
+
+
+Durante suas jornadas, Noland chega em [[Green Bit]], onde ele protege os [[anões]] dos humanos; ele é feito um herói e uma estátua é erguida em sua homenagem.{{Cref|nome=c713|cap=713|ep=643}}
+
+Calendário do Círculo do Mar 1122, 21 de Maio: [[Mont Blanc Noland|Noland]] chega à [[Jaya|ilha de Jaya]] e traz o fim de uma doença horrível que deixou os [[Shandia]] doentes.
+
+[[Nola]] nasce.{{Cref|cap=290|ep=188|Nola seguindo Kalgara e Noland por aí.}}
+
+4 anos depois, uma grande parte de [[Jaya]] é atirada no ar pela [[Knock Up Stream]]. A guerra entre os [[Skypieans]] e os Shandia começa.{{Cref|nome=c292|cap=292|ep=189|Conto do Noland.}}
+
+Calendário do Círculo do Mar 1127, 16 de Novembro: Noland traz o Rei de Lvneel para Jaya para mostrar a ele os tesouros do povo de lá. Ele zarpa com 3 navios; no entanto, devido a uma tempestade, dois são sacrificados para proteger o Rei. Quando eles chegam em Jaya (16 de Novembro), não há ninguém morando lá e a Cidade do Ouro desapareceu.{{Cref|nome=c292}}
+
+6 meses depois, Noland é executado por suas "mentiras" sobre a Cidade do Ouro. Ele morre alegando que a cidade caiu no oceano.{{Cref|nome=c292}}
+}}
+{{Linha do Tempo|~300|eventos=
+O [[Reino Germa]] reina sobre o [[North Blue]] por 66 dias como o Império Germa.{{Cref|cap=871|pág=10|ep=841}}
+}}
+{{Linha do Tempo|~200|eventos=
+O [[St. Briss]] parte do [[Reino Briss]] levando uma tripulação em direção à [[Grand Line]]. A tripulação chega a [[Skypiea]], mas então desaparece sem deixar rastros.{{Cref|cap=219|ep=144|Robin dá detalhes sobre o Reino Briss.}}
+
+
+A [[Loguetown#Loja de Armas|Loja de Armas]] é construída em Loguetown.{{Cref|nome=vc}}
+
+O Governo Mundial faz uma aliança com a [[Ilha dos Homens-Peixe]] após séculos de discriminação. A instituição da escravidão é proibida pelo Governo Mundial para garantir um acordo de paz. O Reino Ryugu também participou de seu primeiro Levely, ao qual não participa de outro até 200 anos depois.{{Cref|cap=620|pág=13}}
+
+The [[Fighting Fish]] appear near [[Green Bit]].{{Cref|cap=705|ep=635|A cafe owner explains when the fighting fish appeared.}}
+
+[[Emet]] aparece e ataca [[Mary Geoise]], mas fica sem energia antes de causar dano.{{Cref|nome=c1067}} [[Jaygarcia Saturn]] dos [[Cinco Anciões]] ordena que pesquisadores o estudem em segredo.{{Cref|cap=1125|pág=4-5|Saturn é visto há 200 anos.}}
+}}
+{{Linha do Tempo|188|eventos=
+[[Hatcha]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|160|eventos=
+Nascimentos: [[Brogy]], [[Dorry]]{{Cref|sbs=19|pág=46|Fan Question: How old are Dorry and Brogy?}}, [[Morley]],{{Cref|nome=sbs91|sbs=91|pág=176|Morley's age is revealed}}
+}}
+{{Linha do Tempo|156|eventos=
+[[Kashii]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|153|eventos=
+[[Oimo]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|143|eventos=
+[[Carmel]] nasce.{{Cref|nome=c866|cap=866|pág=4-6|ep=836|}}
+}}
+{{Linha do Tempo|141|eventos=
+Dra. [[Kureha]] nasce.{{Cref|nome=Idade|cap=134|pág=14|ep=81}}
+}}
+{{Linha do Tempo|127|eventos=
+[[Jaguar D. Saul]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|120|eventos=
+[[Surume]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|116|eventos=
+The people of [[Flevance]] discovers [[Amber Lead]]. The World Government realizes that it is poisonous to the human body, but keep their research a secret for sake of profit.{{Cref|cap=762|pág=6-9|ep=701}}
+}}
+{{Linha do Tempo|113|eventos=
+Carmel começa seu trabalho como traficante de crianças escravas sob o nome de "Bruxa da Montanha".{{Cref|cap=867|pág=11-12|ep=837}}
+}}
+{{Linha do Tempo|107|eventos=
+[[Clou D. Clover]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|105|eventos=
+[[Kurozumi Higurashi]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|~103|eventos=
+[[Kurozumi Semimaru]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|~100|eventos=
+[[Dorry]] e [[Brogy]] começam seu duelo em [[Little Garden]].{{Cref|cap=116|ep=71}}
+
+Acredita-se que a espécie transmissora da doença [[Kestia]] esteja extinta.{{Cref|cap=139|pág=13-14}}
+
+[[Morley]] was imprisoned at [[Impel Down]]. She later digs tunnels there and created Level 5.5.{{Cref|sbs=91|pág=176|Morley's Devil Fruit and past are explained.}}
+
+Without their two captains, the remnants of the [[Giant Warrior Pirates]] are captured and set to be executed by the [[Marines]]. However, [[Carmel]] convinces the Marines to let them go and she joins them on their way back to [[Elbaph]]. Shortly thereafter, she opens the [[Sheep's House]] orphanage and begins to watch over abandoned children. Unbeknownst to the children, however, she uses the orphanage as a front to enhance her slavery ring and continues to do so for the next 37 years.{{Cref|cap=866|pág=4-6|ep=836|Carmel strikes a deal with the Marines and the giants.}}
+}}
+{{Linha do Tempo|99|eventos=
+[[Sanjuan Wolf]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|97|eventos=
+[[Haredas]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|92|eventos=
+[[Streusen]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|90|eventos=
+[[Brook]] nasce.{{Cref|nome=Brook vivo|cap=487|pág=2|ep=379|A idade de Brook é revelada.}}
+}}
+{{Linha do Tempo|88|eventos=
+Nasce uma mulher idosa de [[Dressrosa]].{{Cref|nome=sbs85|sbs=85|pág=114}}
+}}
+{{Linha do Tempo|82|eventos=
+Haredas deixou [[Birka]] para estudar o clima.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|81|eventos=
+Nascimentos: [[Hajrudin]]{{Cref|nome=sbs83|sbs=83|pág=190}}, [[Shimotsuki Kouzaburou]]{{Cref|nome=vc}}
+
+The daimyo of the [[Kurozumi Family]] poisoned the other four daimyos to try to gain the position of shogun. However, [[Kozuki Sukiyaki]] is born,{{Cref|nome=vc}} becoming the new heir of the shogun, causing the Kurozumi Family to lose its power. The head of the family committed seppuku as punishment and the other members of the family began to be hunted down.
+}}
+{{Linha do Tempo|80|eventos=
+[[Ripley]] nasce.{{Cref|nome=c1139|cap=1139|pág=7|As idades de Ripley e Colon são reveladas.}}
+}}
+{{Linha do Tempo|79|eventos=
+Nascimentos: [[Sengoku]],{{Cref|nome=sbs82|sbs=82|pág=64|Sengoku, Garp, Rayleigh, Roger, and Tsuru's ages are revealed.}} [[Amazon]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|78|eventos=
+Nascimentos: [[Monkey D. Garp]], [[Silvers Rayleigh]],{{Cref|nome=sbs82}} [[Chinjao]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|77|eventos=
+Nascimentos: [[Gol D. Roger]],{{Cref|nome=sbs82}} [[Tom]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|76|eventos=
+Nascimentos: [[Tsuru]],{{Cref|nome=sbs82}} [[Buckingham Stussy]], [[Conney]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|75|eventos=
+Nascimentos: [[Boodle]],[[Hiriluk]]{{Cref|nome=vc}} [[Gerd]]{{Cref|nome=sbs90|sbs=90|pág=102|}}
+}}
+{{Linha do Tempo|74|eventos=
+[[Edward Newgate]] nasce.{{Cref|cap=577|ep=486|pág=3|Newgate's age is revealed.}}
+}}
+{{Linha do Tempo|73|eventos=
+A famous pirate crew entered [[Swallow Island]] and they all died from disease, leaving their treasure behind.{{Cref|nome=lawnovel|novel=law}}
+
+[[Crocus]] nasce.{{Cref|nome=c103p4|cap=103|pág=4|ep=62|Crocus gives trivia about himself to the Straw Hats.}}
+}}
+{{Linha do Tempo|72|eventos=
+Nascimentos: [[Little Oars Jr.]], [[Kokoro]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|71|eventos=
+[[Shimotsuki Yasuie]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|70|eventos=
+Nascimentos: [[Lao G]],{{Cref|nome=sbs75|sbs=75|pág=162|Fan Question: "What are the ages of the Donquixote Pirates?"}} [[Neptune]], [[Hyogoro]],[[Shimotsuki Ushimaru]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|69|eventos=
+[[Onimaru]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|68|eventos=
+Nascimentos: [[Charlotte Linlin]],{{Cref|sbs=85|pág=150|Linlin's age is revealed.}} [[Gan Fall]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|67|eventos=
+Haredas and his colleagues have completed the construction of [[Weatheria]].{{Cref|nome=vc}}<br />
+[[Zeff]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|66|eventos=
+Haredas and his colleagues start to study the weather across the [[world]].{{Cref|nome=vc}}<br />
+[[Spandine]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|65|eventos=
+Nascimentos: [[Shandia Chief]], [[Uzuki Tempura]],{{Cref|nome=vc}} [[Vegapunk]]{{Cref|cap=1066|pág=11|Vegapunk was 43 years old 22 years ago.}}
+}}
+{{Linha do Tempo|64|eventos=
+Nascimentos: [[Shakuyaku]], [[Fugetsu Omusubi]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|63|eventos=
+Nascimentos: [[Tonjit]],{{Cref|nome=vc}} [[Loki]], [[Road]], [[Goldberg]]{{Cref|nome=intro|cap=866|pág=14|ep=836}}
+
+
+[[Charlotte Linlin]] was dropped off at [[Elbaph]] by her birth parents to never return.{{Cref|cap=866|pág=2-3|vol=86|ep=836|Charlotte Linlin was dropped off at Elbaph by her birth parents to never return.}} She gets taken care of by [[Carmel|Mother Carmel]].{{Cref|cap=866|pág=6-7|vol=86|ep=836|Linlin gets taken care of by Mother Carmel.}}
+
+Shortly after his birth, Loki kills the royal family's lucky horse.{{Cref|nome=História do Loki|cap=1136|pág=9|Loki's history is revealed}}
+
+On the seventh day of fasting, five days before the [[Winter Solstice Festival]], Linlin destroys a village on Elbaph over a craving of [[Foods#Semla|semla]],{{Cref|cap=866|pág=16-17|vol=86|ep=836|Linlin destroys a village on Elbaph.}} killing [[Jorul]] in the process.{{Cref|cap=867|pág=2-3|vol=86|ep=837|Linlin kills Jorul.}} The [[Sheep's House]] leaves Elbaph.{{Cref|cap=867|pág=9-10|vol=86|ep=837|The Sheep's House leaves Elbaph.}}
+
+February 15th{{Cref|dados=vivre card|card=0996}}: Sometime after the Sheep's House celebrates Linlin's "sixth birthday", Linlin was left alone.{{Cref|cap=867|pág=13-15|vol=86|ep=837|Linlin's "sixth birthday".}} Elbaph became so repugnant of Linlin that they refrain from saying her name.{{Cref|cap=868|pág=3|vol=86|ep=838|Elbaph became so repugnant of Linlin that they refrain from saying her name.}}
+
+[[Streusen]] joins with Linlin to create a "dream country" on the island at the center they were in which eventually came to be [[Whole Cake Island]] and the rest of the surrounding islands, to be named [[Totto Land]].{{Cref|cap=868|pág=8-10|vol=86|ep=838|Streusen joins with Linlin to create a "dream country".}}
+}}
+{{Linha do Tempo|62|eventos=
+The [[Queen (Title)|Queen]] of Elbaph dies a year after giving birth to Loki, natural disasters occur around the same time.{{Cref|nome=História do Loki}}
+Nascimentos: [[Minister of the Left]], [[Den]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|61|eventos=
+Nascimentos: [[Giolla]]{{Cref|nome=sbs75}}, [[Fukurokuju]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|60|eventos=
+Nascimentos: [[Fisher Tiger]], [[Riku Doldo III]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|59|eventos=
+[[Kozuki Oden]] nasce. Sometime later, he was able to fling his wet nurse.{{Cref|cap=960|pág=9|ep=960|41 years ago, Oden was 18.}}
+[[Kaidou]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|58|eventos=
+Nascimentos: [[Borsalino]],{{Cref|nome=v1000|outro=1000|Borsalino, Sazazuki, and Kuzan's ages are revealed.}} [[Higuma]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|57|eventos=
+[[Elizabello II]] nasce.{{Cref|nome=vc}}<br />
+Oden caught two rabbits with his bare hands.{{Cref|nome=c960p7-9|cap=960|pág=7-9|ep=960|Oden's tales.}}
+}}
+{{Linha do Tempo|56|eventos=
+[[Sengoku]], [[Monkey D. Garp]], and [[Tsuru]] join the Marines.{{Cref|dados=vivre card|card=0262}}
+
+Nascimentos: [[Mukkashimi Tower]],{{Cref|sbs=75|pág=106}} [[Brannew]], [[Kin'emon]], [[Vinsmoke Judge]], [[Scien]], [[Ashura Doji]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|55|eventos=
+Oden throws a large boulder at a bear, crushing it to death.{{Cref|nome=c960p7-9}}
+
+
+[[Shimotsuki Kouzaburou]], [[Shimotsuki Furiko]], [[Minatomo (East Blue)|Minatomo]], and 22 other people from [[País de Wano]] set sail to the [[East Blue]]. Kouzaburou saves locals from [[bandits]] and found a village, which he called [[Shimotsuki Village]].{{Cref|sbs=96|pág=80}}{{Cref|sbs=105|pág=132}}
+{{br}}
+Nascimentos: [[Sakazuki]],{{Cref|nome=v1000}} [[Monkey D. Dragon]], [[Curly Dadan]], [[Minister of the Right]], [[Rosward]], [[Nico Olvia]], [[Raizo]], [[Tsurujo]],{{Cref|nome=vc}} [[Caesar Clown]]{{Cref|texto=[https://one-piece.com/vivre/revision.php One Piece.com] — Caesar's age is revised from 40 to 55}}
+}}
+{{Linha do Tempo|54|eventos=
+Nascimentos: [[Kurozumi Orochi]], [[Pagaya]], [[Issho]], [[Bluejam]]{{Cref|nome=vc}}, [[Kurozumi Kanjuro]]{{Cref|texto=[https://one-piece.com/vivre/revision.php One Piece.com] — Kanjuro's age was revised from 39 to 34}}
+}}
+{{Linha do Tempo|53|eventos=
+Oden wasted royal funds in the Red-Light District.{{Cref|nome=c960p7-9}}
+
+[[Loki]] makes Elbaph's underworld his personal playground, lording over the animals and setting them loose on the villages.{{Cref|nome=História do Loki}}
+
+Nascimentos: [[Emporio Ivankov]], [[T Bone]], [[Baskerville|And]], [[Morgans]],{{Cref|nome=vc}} [[Laboon]]{{Cref|cap=486|ep=378}}
+}}
+{{Linha do Tempo|52|eventos=
+
+[[Laboon]] arrives at [[Reverse Mountain]] with the [[Rumbar Pirates]]. He is left behind with [[Crocus]] at the [[Twin Cape]]s to wait for them.
+
+[[Gol D. Roger]] is a recognized as a rookie.{{Cref|cap=506|pág=9|ep=400|Brook recalls hearing of Roger as a "rookie" when he was still alive 50 years ago.}}{{Cref|nome=vivre card|card=0014}}
+
+[[Oimo]] and [[Kashii]] are tricked into working for the World Government.{{Cref|cap=384|pág=4-7}}
+<br>
+Nascimentos: [[Machvise]],{{Cref|nome=sbs75}} [[Squard]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|51|eventos=
+Oden gets in a fight with gamblers while drunk.{{Cref|nome=c960p7-9}}
+
+Nascimentos: [[Shimotsuki Koushirou]], [[Drophy]], [[Heracles]]{{Cref|nome=vc}},[[Ginny]]{{Cref|cap=1097|pág=3|Ginny was 21 years old 30 years ago.}}
+}}
+{{Linha do Tempo|50|eventos=
+The Rumbar Pirates are forced to split in two after half the crew, including captain [[Yorki]], contract an incurable disease. [[Brook]] takes control over the healthy half of the crew.{{Cref|nome=O passado do Brook|cap=487|pág=1-19|Brooks past.}}
+
+The Rumbar Pirates are annihilated by an unknown assailant in the [[Florian Triangle]], leaving no survivors.{{Cref|nome=O passado do Brook}}
+Oden set a casino on fire after getting blacklisted and banned from it.{{Cref|nome=c960p7-9}}
+
+Nascimentos: [[Gecko Moria]],{{Cref|nome=sbs58|sbs=58|pág=100|Fan Question: What are the ages and heights of the Seven Warlords of the Sea?}} [[Charlotte Perospero]],{{Cref|nome=sbs88|sbs=88|pág=42|Perospero, Cracker, and Smoothie's ages are revealed.}} [[Benn Beckman]], [[Igaram]], [[Nefertari Cobra]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|49|eventos=
+Brook's soul (thanks to the [[Yomi Yomi no Mi]]) finds his body, only to realize that it has rotted away, leaving only his skeleton and afro intact.{{Cref|cap=487|ep=380}}
+
+Oden killed someone and was sentenced to hard labor in the stone quarry. He later climbed the ranks until he ran the place.{{Cref|nome=c960p7-9}}
+
+[[Kaidou]] is revered as the ultimate soldier.{{Cref|nome=c1049|cap=1049|pág=3-5|ep=1076}}
+
+Nascimentos: [[Trebol]],{{Cref|nome=sbs75}} [[Kuzan]],{{Cref|nome=v1000}} [[Charlotte Compote]],{{Cref|nome=opmagazine|revista=5|pág=|Charlotte family ages are revealed.}} [[Shinobu]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|48|eventos=
+Nascimentos: [[Charlotte Katakuri]], [[Charlotte Daifuku]], [[Charlotte Oven]],{{Cref|nome=sbs87|sbs=87|pág=100|Katakuri, Daifuku, and Oven's ages are revealed.}} [[Genzo]], [[Momonga]], [[Pound]], [[Baskerville|Bas]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|47|eventos=
+[[Bartholomew Kuma]] is born in the [[Sorbet Kingdom]] to his father [[Clapp]] and an Unnamed Woman.{{Cref|nome=sbs58}}{{Cref|cap=1095|pág=10|Kuma's birth is shown}}
+
+Nascimentos: [[Urouge]],{{Cref|nome=sbs68|sbs=68|pág=82|The Supernovas' pre-timeskip ages and heights are revealed.}} [[Charlotte Mondée]], [[Charlotte Amande]], [[Charlotte Hachée]], [[Charlotte Effilée]],{{Cref|nome=opmagazine}} [[Vista]], [[Yasopp]], [[Magellan]], [[Hogback]], [[Karasu]], [[Denjiro]], [[King|Arber]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|46|eventos=
+[[Charlotte Katakuri]] starts to eat donuts for the first time.{{Cref|nome=vc}}
+
+The [[Vodka Kingdom]] tries to enlist [[Kaidou]] into the Marines to join the next [[Levely]].  However he escapes.{{Cref|nome=c1049}}
+
+Nascimentos: [[Jinbe]],{{Cref|nome=sbs58}} [[Senor Pink]],{{Cref|nome=sbs75}} [[Crocodile]],{{Cref|nome=sbs58}} [[Charlotte Opera]], [[Charlotte Counter]], [[Charlotte Cadenza]], [[Charlotte Cabaletta]], [[Charlotte Gala]],{{Cref|nome=opmagazine}} [[Otohime]], [[Aladine]], [[Tamago]], [[Jerry]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|45|eventos=
+Charlotte Katakuri filled his mouth with too much stuff and it ripped open after eating donuts.{{Cref|nome=vc}}
+
+[[Flower Capital|The Royal Capital]] experiences a drought. After [[Kozuki Oden]] diverts a river straight to the Capital, it gets flooded. He uses the route to escape to sea. However, the voyage is short-lived.{{Cref|nome=c960p7-9}}
+
+Nascimentos: [[Negikuma Maria]],{{Cref|sbs=16|pág=48}} [[Charlotte Cracker]],{{Cref|nome=sbs88}} [[Diamante]],{{Cref|nome=sbs75}} [[Charlotte Custard]], [[Charlotte Angel]],{{Cref|nome=opmagazine}} [[Marco]], [[Turco]], [[Yama]], [[Chadros Higelyges]], [[Izo]], [[Sarutobi]],[[Fujin]], [[Raijin]], [[Gaimon]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|44|eventos=
+Oden kidnaps women from the capital each night and forms a harem. The girls follow him of their own free will, but their lovers still try to get them back. The fighting escalates. At one point, the Hyogoro Family tries to stop the fight, but fails.{{Cref|nome=c960p7-9}}
+
+[[Kaidou]] joins the [[Rocks Pirates]].{{Cref|nome=c1049}}
+
+Nascimentos: [[Krieg]],{{Cref|nome=sbs84p60|sbs=84|pág=60}} [[Kyros]] ,[[Morgan]], [[Shiryu]],{{Cref|nome=vc}} [[Charlotte Zuccotto]]{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|43|eventos=
+Due to being part of the [[Buccaneers|Buccaneer race]], Clapp, his wife, and Kuma are captured by Government agents and enslaved to the World Nobles.{{Cref|cap=1096|pág=17|Kuma reveals he was enslaved when he was 4 years old}}
+
+Charlotte Katakuri eats the [[Mochi Mochi no Mi]] and becomes a [[Devil Fruit]] user.{{Cref|nome=vc}}
+
+Nascimentos: [[Dracule Mihawk]],{{Cref|nome=sbs58}} [[Charlotte Brûlée]], [[Charlotte Broyé]],{{Cref|nome=opmagazine}} [[Mont Blanc Cricket]], [[Kazekage]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|42|eventos=
+[[Boodle]] and his followers flee to [[Organ Island]] from [[pirate]] attacks and set up [[Orange Town]].{{Cref|cap=14|pág=8-9|ep=6}}
+
+[[Kokoro]]'s tail fin splits into two legs.{{Cref|cap=424|ep=307}}
+
+[[Marilyn]] wins the miss Skypeia title.{{Cref|nome=sbs35|sbs=35|pág=26}}
+
+[[Shakuyaku]] gives up pirating to open a bar on the [[Sabaody Archipelago]].{{Cref|cap=498|pág=9|ep=392|Shakuyaku tells Luffy she gave up pirating 40 years ago.}}
+
+Nascimentos: [[Capone Bege]],{{Cref|nome=sbs68}} [[Orlumbus]],{{Cref|nome=sbs83}} [[Charlotte Nusstorte]], [[Charlotte Basskarte]], [[Charlotte Dosmarche]],{{Cref|nome=opmagazine}} [[Baskerville|Kerville]], [[Avalo Pizarro]], [[Jozu]], [[Kikunojo]], [[Daikoku]], [[Hanzo]],[[Guernika]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|41|eventos=
+[[Katsuzo]] dies and his body gets cremated. However, [[Kozuki Oden]] uses the cremation to cook up oden.
+
+[[Mountain God Incident]]: The [[Mountain God]] invades the capital of [[Wano Country|Wano]]. Oden slices the boar down and immediately gets exiled by [[Kozuki Sukiyaki|his father]] from the Flower Capital afterwards.{{Cref|cap=961|pág=2-15|ep=961}}
+
+[[Kurozumi Higurashi]] conspires with [[Kurozumi Orochi|Orochi.]]{{Cref|cap=965|pág=7-12|ep=965}}
+
+Nascimentos: [[Spandam]],{{Cref|sbs=47|Fan question: What are the ages of the eight members of CP9?}} [[Arlong]],{{Cref|nome=sbs67|sbs=67|pág=44|Arlong and Shyarly's ages and past is revealed.}} [[Vergo]],{{Cref|nome=sbs75}} [[Donquixote Doflamingo]],{{Cref|nome=sbs58}} [[Charlotte Noisette]],{{Cref|nome=opmagazine}} [[Chaka]], [[Laffitte]], [[Kawamatsu]], [[Aramaki]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|40|eventos=
+Nascimentos: [[Iceburg]],{{Cref|cap=353|ep=248|}}, [[Marshall D. Teach]],{{Cref|nome=sbs58}} [[Bell-mère]],{{Cref|cap=77|ep=35|Bell-mère: ''Thanks to these tangerines, I'm still looking beautiful even at the age of 30''. Plus ten years have passed since Arlong's invasion.}} [[Pica]],{{Cref|nome=sbs75}},[[Tomato Gang]],{{Cref|sbs=27|pág=66|Tomato Gang's age is revealed.}}[[Charlotte Moscato]], [[Charlotte Mash]], [[Charlotte Cornstarch]],{{Cref|nome=opmagazine}} [[Ipponmatsu]], [[Suleiman]], [[Inuarashi]], [[Nekomamushi]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|39|eventos=
+After [[Kozuki Oden]] defeats [[Ashura Doji]] in Kuri and rounds the ruffians to be workers to make the town a prosperous place with the farm and village. Sukiyaki decides to make his son the daimyo of the region, in which his followers became his retainers.{{Cref|cap=962|pág=10|ep=962}}{{Cref|cap=920|pág=3|ep=910}}
+
+Vegapunk becomes a founding member of [[MADS]] alongside [[Scien]].{{Cref|nome=vc}}
+
+[[Gol D. Roger]] and his crew became the first to reach [[Lodestar Island]]: the island at the end of the Log Pose.{{Cref|cap=966|ep=966}}
+ 
+Nascimentos: [[Figarland Shamrock]],{{Cref|cap=1138|pág=3|ep=}} [[Shanks]],{{Cref|nome=sbs4|sbs=4|pág=28|Ages Revealed: Shanks, Luffy, Zoro, Nami, and Usopp.}} [[Donquixote Rosinante]],{{Cref|nome=sbs77p116|sbs=77|pág=116}} [[Buggy]],{{Cref|nome=sbs84p60}} [[Charlotte Compo]], [[Charlotte Laurin]],{{Cref|nome=opmagazine}} [[Hyouzou]], [[Enel]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|38|eventos=
+[[God Valley Incident]]: The [[World Noble]]s host their triennial [[Native Hunting Competition]] on [[God Valley]]. The competition is interrupted by the arrival of the [[Rocks Pirates]], who are seeking to reclaim a treasure that the World Nobles stole from [[Hachinosu]].{{Cref|cap=1096|ep=|The Rocks Pirates interrupt the Native Hunting Competition.}} [[Monkey D. Garp]] and [[Gol D. Roger]] end up teaming up to defeat them and their [[Rocks D. Xebec|captain]], which earned Garp his title as {{Nihongo|"Hero of the Marines"|海軍の英雄|Kaigun no Eiyū}}.{{Cref|cap=957|ep=958|God Valley and the God Valley Incident are revealed.}} During the chaos of the battle [[Bartholomew Kuma]] eats the [[Nikyu Nikyu no Mi]] and uses it to save himself and several other slaves, including [[Emporio Ivankov]] and [[Ginny]].{{Cref|cap=1096|ep=|Bartholomew Kuma eats the Nikyu Nikyu no Mi.}}
+
+As a baby, [[Shanks]] is found by the [[Roger Pirates]] inside a treasure chest at God Valley.{{Cref|nome=4billion|outro=4B}}
+
+[[Figarland Garling]], of the [[God's Knights]] is crowned a champion following the God Valley incident.{{Cref|cap=1095|cap2=1096}}{{Cref|nome=Garling|cap=1086|pág=15|ep=1120}}
+
+Some thugs wounded [[Charlotte Brûlée]], causing Katakuri to make a vow to hide his mouth.{{Cref|nome=vc}}
+
+Nascimentos: [[Foxy]],{{Cref|nome=sbs84p60}} [[Bastille]], [[Kuroobi]], [[Vasco Shot]], [[Hatchan]],{{Cref|nome=vc}} [[Charlotte Mont-d'Or]],{{Cref|nome=opmagazine}} [[Hack]],{{Cref|nome=sbs77p154|sbs=77|pág=154|Hack,Koala, and Sabo's ages are revealed}} [[Who's Who]]{{Cref|nome=sbs97|sbs=97|pág=154|The Tobiroppo's ages are revealed}}
+}}
+{{Linha do Tempo|37|eventos=
+[[Hiriluk|Doctor Hiriluk]] returns to [[Drum Island]] and begins his research into finding a cure for the sickness that plagues his homeland.{{Cref|nome=Drum|cap=141|cap2=145|ep=84|ep2=86|Chopper's story.}}
+
+Nascimentos: [[Jabra]],{{Cref|nome=sbs47|sbs=47|pág=26|Fan Question: What are the ages of the eight members of CP9?}} [[Galdino]], [[Porchemy]], [[Lindbergh]],{{Cref|nome=vc}} [[Charlotte Mozart]], [[Charlotte Marnier]]{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|36|eventos=
+Vegapunk's discovery of the of the [[Lineage Factor]] is published in the [[World Economy News Paper|WENP]]. [[Scien]] fathers a child.{{Cref|nome=vc}}
+
+Nascimentos: [[Kumadori]],{{Cref|nome=sbs47}} [[Franky|Cutty Flam]],{{Cref|cap=353|ep=248|}} [[Smoker]],{{Cref|nome=sbs27|sbs=27|pág=46|Fan Question: What are the profiles of Smoker and Hina?}} [[Charlotte High-Fat]], [[Charlotte Tablet]],{{Cref|nome=opmagazine}} [[Demalo Black]], [[Nezumi]], [[Catarina Devon]], [[Kelly Funk]], [[Absalom]], [[Victoria Cindry]], [[Vito]], [[Stussy]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|35|eventos=
+[[Artur Bacca]] and [[Wolf (Scientist)|Wolf]] set out to sea.{{Cref|nome=lawnovel}}
+
+Nascimentos: [[Kuro]],{{Cref|nome=sbs84p60}} [[Charlotte Smoothie]],{{Cref|nome=sbs88}} [[Scarlett]],{{Cref|nome=c742|cap=742|ep=675|Scarlett is 6 years older than Viola.}}  [[Lucky Roux]], [[Chew]], [[Hannyabal]], [[Dalton]], [[Pell]], [[Vander Decken IX]], [[Zambai]], [[Tilestone]], [[Edward Weevil]],[[Donquixote Mjosgard]]{{Cref|nome=vc}} [[Charlotte Citron]], [[Charlotte Cinnamon]]{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|34|eventos=
+[[Kaidou]] free's Arber from the [[Third Research Institute]] and recruits him into his [[Beasts Pirates|pirate crew]], Arber takes the name [[King]] as a result.{{Cref|nome=vc}}
+
+Nascimentos: [[Hina]],{{Cref|nome=sbs27}} [[Charlotte Saint-Marc]], [[Charlotte Basans]],{{Cref|nome=opmagazine}} [[Sasaki]],{{Cref|nome=sbs97}} [[Cabaji]], [[Carne]], [[Sentomaru]], [[Shishilian]], [[Belo Betty]],{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|33|eventos=
+
+[[Donquixote Homing]] decides to give up his divine position as a Celestial Dragon, which also lowers the status of his immediate family.{{Cref|cap=763|ep=702|Homing gives up his position as a Celestial Dragon.}} 
+
+[[Donquixote Doflamingo]] and [[Donquixote Rosinante|Rosinante]]'s mother dies.{{Cref|nome=c763|cap=763|ep=702|Doflamingo and Rosinante react to their mothers death.}}
+
+[[Swallow Island|Pleasure Town]] was destroyed by pirates. Since then, the town made a rule of "Make everyone happy and be gentle to everyone".{{Cref|nome=lawnovel}}
+
+Survivors of the [[Rocks Pirates]] started recruiting their own crewmembers.{{Cref|nome=c962|cap=962|pág=13|ep=962}}
+
+[[Kaidou]] asks [[Scien]] to join his crew.{{Cref|nome=vc}}
+
+[[Inuarashi]] and [[Nekomamushi]] wash up on Wano's shores after leaving Zou, where they, along with [[Kawamatsu]], are tortured by locals, with Oden saving and then recruiting them as his retainers.{{Cref|nome=c962}}
+
+[[Shimotsuki Yasuie]] has Oden's samurai trained to be proper.{{Cref|cap=943|pág=2-3|ep=940}}
+
+Nascimentos: [[Gladius]],{{Cref|nome=sbs75}} [[X Drake]],{{Cref|nome=sbs68}} [[Charlotte Melise]],{{Cref|nome=mag4|revista=4|pág=125}} [[Pappag]], [[Shura]], [[Peepley Lulu]], [[Bobby Funk]], [[Gotti]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|32|eventos=
+[[Borsalino]], age 26, and [[Sakazuki]] age 23, join the Marines.{{Cref|nome=v1000}}
+
+[[Franky|Cutty Flam]] and his parents enter the [[Grand Line]].{{Cref|cap=490|pág=10-11|ep=385|Franky claimed to have entered the Grand Line over 30 years ago.}}
+
+Nascimentos: [[Blueno]],{{Cref|nome=sbs47}} [[Pedro]],{{Cref|cap=878|pág=3|ep=849}} [[Charlotte Dacquoise]],{{Cref|nome=opmagazine}} [[Chess]], [[Bentham]], [[Caribou]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|31|eventos=
+[[Donquixote Doflamingo]] kills his father.{{Cref|nome=c767|cap=767|ep=706|Doflamingo shoots his father.}}
+
+Nascimentos: [[Scratchmen Apoo]],{{Cref|nome=sbs68}} [[Fukurou]],{{Cref|nome=sbs47}} [[Boa Hancock]]{{Cref|nome=sbs58}} [[Basil Hawkins]],{{Cref|nome=sbs68}} [[Charlotte Galette]], [[Charlotte Poire]],{{Cref|nome=opmagazine}} [[Makino]], [[Daz Bonez]], [[Gedatsu]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|30|eventos=
+In the [[Sorbet Kingdom]] [[Bekori|King Bekori]] begins implementing corrupt policies that target the elderly forcing them to work to pay the heavenly tributes or face imprisonment without food. This leads to [[Bartholomew Kuma|Kuma]] and [[Ginny]] to hold Sunday [[Nikyu Nikyu no Mi|healing's]] to relieve their pain free of charge.{{Cref|cap=1097|pág=1-6|ep=}}
+
+
+[[Chinjao]] engages in a fight with Monkey D. Garp and ends up getting his pointy head blunted, preventing him from reaching his treasures and leading him to hold a grudge against Garp.{{Cref|cap=719|ep=649|Chinjao gets his head stumped by Garp.}}
+
+[[Kuzan]] begins training with the [[Marine Ships#Battleship Bags|Battleship Bags]] along with Garp.{{Cref|nome=vc}}
+
+After failing to challenge the Grand Line, resulting many of the crew members being killed or injured, [[Artur Bacca]] returns to [[Swallow Island]] and sets fire to his hometown to find treasure buried on the island.{{Cref|nome=ch2|novel=law|ncap=2|Wolf mentions the near destruction of Pleasure Town.}}
+
+[[Kozuki Oden]] leaves [[País de Wano]]; along with [[Izo]], [[Nekomamushi]], and [[Inuarashi]]; and takes a trial to join the [[Whitebeard Pirates]]. Despite failing it, Oden saving [[Kozuki Toki|Amatsuki Toki]] from trouble was enough to join the crew.{{Cref|cap=964|pág=4-17|ep=964}}
+
+Nascimentos: [[Nico Robin]],{{Cref|cap=218|pág=9|ep=130}}, [[Mizuira]],{{Cref|nome=c393|cap=393|pág=14|ep=276}}, [[Buffalo]],{{Cref|nome=sbs75}} [[Hody Jones]],{{Cref|sbs=67|pág=44|Hody's age is revealed.}},[[Rob Lucci]],{{Cref|nome=sbs47}} [[Monet]],{{Cref|nome=sbs75}} [[Charlotte Snack]], [[Charlotte Bavarois]],{{Cref|nome=opmagazine}} [[Mounblutain]], [[Kuromarimo]], [[Boa Sandersonia]], [[Babe]], [[Dosun]], [[Zeo]], [[Daruma]], [[Ikaros Much]], [[Giovanni]], [[Holed'em]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|29|eventos=
+Scien leaves [[MADS]].{{Cref|nome=vc}}
+
+Nascimentos: [[Viola]],{{Cref|nome=sbs75}} [[Wapol]],{{Cref|nome=sbs84p60}} [[Shyarly]],{{Cref|nome=sbs67}} [[Charlotte Prim]], [[Charlotte Praline]],{{Cref|nome=opmagazine}} [[Mohji]], [[Jango]], [[Patty]], [[Inazuma]], [[Jesus Burgess]], [[Coribou]], [[Ohm]], [[Concelot]],{{Cref|nome=vc}} [[Black Maria]]{{Cref|nome=sbs97}}, [[Prince Grus]]{{Cref|nome=sbs110|pág=66|sbs=110|The SWORD members' ages are revealed.}}
+}}
+{{Linha do Tempo|28|eventos=
+[[Gol D. Roger]] discovers he has a fatal disease. Preparing for what would be his greatest journey, he enters the Grand Line and recruits [[Crocus]] as ship doctor.{{Cref|cap=506|pág=10-15|ep=400|Rayleigh tells the history of Roger.}}
+
+Kaidou arrives at Wano and conspires with [[Kurozumi Higurashi]].{{Cref|nome=vc}}
+
+[[Nico Olvia]] leaves [[Ohara]] and her daughter Robin to embark on a Poneglyph expedition.{{Cref|cap=393|ep=246|Robin is left behind.}}
+
+[[Heracles]] sets out to sea to expand his notions as a botanist.{{Cref|nome=vc}}
+
+Nascimentos: [[Penguin]],{{Cref|nome=sbs84p42|sbs=84|pág=42}} [[Sai]],{{Cref|nome=sbs83}} [[Charlotte Kanten]], [[Charlotte Montb]], [[Charlotte Kato]],{{Cref|nome=opmagazine}} [[Kozuki Momonosuke]],{{Cref|cap=965|pág=4|ep=964}} [[Boa Marigold]], [[Fullbody]], [[Zala]], [[Doc Q]], [[Wanze]], [[Wanda]], [[Jack]],[[Bishamon]],{{Cref|nome=vc}} [[Yamato]],{{Cref|cap=985|pág=9-10}}
+}}
+{{Linha do Tempo|27|eventos=
+The [[Roger Pirates]] face off against pirate [[Shiki]] in the battle of Edd War. Roger escapes, while Shiki suffers massive losses and gets a steering wheel implanted into his head.{{Cref|nome=zero|cap=0|ep=0}}
+
+Nascimentos: [[Killer]],{{Cref|nome=sbs68}} [[Shachi]],{{Cref|nome=sbs84p42}} [[Kalifa]],{{Cref|nome=sbs47}} [[Wicca]],{{Cref|cap=722|ep=652|Wicca's age is given}} [[Shoujou]],{{Cref|cap=226|pág=13|ep=147}} [[Byron]],{{Cref|cap=501|ep=395}} [[Charlotte Chiboust]],{{Cref|nome=opmagazine}} [[Alvida]], [[Cocoa]], [[Gin]], [[Bellamy]], [[Sarquiss]], [[Pekoms]], [[Satori]], [[Hotori and Kotori]], [[Van Augur]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|26|eventos=
+
+Neptune becomes king of the [[Ryugu Kingdom]].{{Cref|cap=967|ep=967}}
+
+[[Shyarly]] is left in the care of a then 15-year old [[Arlong]] by her father.{{Cref|nome=sbs67}}
+
+Twin sisters [[Charlotte Lola]] and [[Charlotte Chiffon|Chiffon]] are born to [[Charlotte Linlin]].{{Cref|cap=887|pág=15|ep=861}} Immediately after their birth, Linlin casts their father [[Pound]] out of her [[Totto Land|kingdom]].
+
+[[Scien]] abandons his child and takes Kaidou's offer to join the [[Beasts Pirates]] and adopts the name Queen.{{Cref|nome=vc}}
+
+Nascimentos: [[Cavendish]],{{Cref|nome=sbs83}} [[Trafalgar D. Water Law|Trafalgar Law]],{{Cref|nome=sbs68}} [[Kozuki Hiyori]],{{Cref|cap=928|pág=17|ep=922|Momonosuke reveals that Hiyori is 26 in the present day.}} [[Chocolat]], [[Gem]], [[Paulie]],[[Yosaku]]{{Cref|nome=vc}}, [[Kujaku]]{{Cref|nome=sbs110}}
+
+[[Franky|Cutty Flam]] is abandoned at [[Scrap Island]]{{Cref|cap=354|ep=248}}
+
+[[Roger Pirates]] and [[Whitebeard Pirates]] have a battle in a fight that took 3 days and 3 nights. But everybody make peace in the fourth day.{{Cref|nome=c966|cap=966|pág=7-8|ep=966}}
+
+[[Kozuki Oden]] joins [[Roger Pirates]]. [[Inuarashi]] and [[Nekomamushi]] tag along once again.{{Cref|nome=c966}}
+
+[[Gol D. Roger]] arrives in Skypiea and makes Oden engrave the message near the Poneglyph.{{Cref|cap=966|pág=17|ep=967}}
+
+[[Shyarly]] predicts the [[Mermaid Princess]] will be born in 10 years.{{Cref|cap=967|pág=9|ep=967}}
+
+Roger is shown the [[Poneglyph#List of Known Poneglyphs:|Road Poneglyph]] residing on [[Zou]].{{Cref|cap=830|pág=14|ep=790}}
+
+The research institute [[MADS]] is dissolved and its members absorbed by the [[World Government]] following the arrest of [[Vegapunk]].{{Cref|nome=vc}} During his arrest Vegapunk becomes acquainted with [[Borsalino]].{{Cref|cap=1124|pág=6|ep=}}
+
+[[Clou D. Clover|Clover]] travels to [[Punk Hazard]] to speak with Vegapunk, requesting him to help study the void century with the other scholars though the latter refused. Clover reveals his [[Will of D.|D. lineage]] to Vegapunk and vows that the voices of the past will be heard.{{Cref|cap=1120|pág=2-3|ep=}}
+
+}}
+{{Linha do Tempo|25|eventos=
+[[Monkey D. Dragon]] gains notoriety as a captain of the [[Freedom Fighters]] as he was covered in newspapers and labeled a wanted man, causing Kuma to be inspired by him.{{Cref|cap=1097|pág=7|ep=|}} 
+
+A man refused to work in the weapon factory, causing him to be executed. This caused Oden's samurai to attack the Flower Capital in rage. However, the Beasts Pirates raided Oden's castle in Kuri, but failed their mission to kill [[Kozuki Momonosuke]] as Kawamatsu and Inuarashi repelled their forces while Toki was struck in the leg by an arrow.{{Cref|cap=968|ep=969}}
+
+The Roger Pirates complete their journey to [[Laugh Tale]]. Having conquered the entire [[Grand Line]], [[Gol D. Roger|Roger]] becomes known as the [[Pirate#Pirate King|Pirate King]]. Shortly afterwards, Roger disbands his pirate crew, allowing them to return to peaceful lives of their choosing.{{Cref|nome=vc}} [[Kozuki Oden]] dreams of opening the borders of Wano Country in 20 years time.{{Cref|cap=958|ep=959}}
+
+[[Shyarly]] predicts the coming of the Great Pirate Era that comes a year later.{{Cref|nome=sbs67}}
+
+[[Heracles]] and his friends arrive at [[Boin Archipelago]], and study the plants there.{{Cref|nome=vc}}
+
+After hearing about [[Kurozumi Orochi]]'s rule in Wano and the raid six months, Oden tries to go after Orochi as others believed in him. However, Oden at some point decides to dance naked and make a fool of himself for 5 years, as the desperation of people turned into anger.{{Cref|cap=969|ep=970|ep2=971}}
+
+Nascimentos: [[Perona]],{{Cref|sbs=82|pág=102|Perona's age and height are revealed.}} [[Leo]],{{Cref|nome=sbs83}} [[Kaku]],{{Cref|nome=sbs47}} [[Charlotte Mobile]], [[Charlotte Marble]], [[Charlotte Myukuru]], [[Charlotte Maple]],{{Cref|nome=opmagazine}} [[Yeti Cool Brothers]],{{Cref|cap=666|pág=11|ep=592}} [[Manjaro]], [[Pearl]], [[Duval]], [[Masira]], [[Wadatsumi]], [[Genbo]], [[Mansherry]], [[Johnny]]{{Cref|nome=vc}}
+}}{{Linha do Tempo|BASE}}
+
+===Great Pirate Era===
+{{Linha do Tempo|TOPO}}
+{{Linha do Tempo|24|eventos=
+The Pirate King [[Gol D. Roger]] turns himself in to the Marines and is sentenced to death. Roger's speech before his death leads pirates to the [[Grand Line]] to seek out his hidden treasure, dubbed '[[One Piece]]'. This event marks the beginning of an era called the {{Nihongo|"Great Pirate Era"|大海賊時代|Daikaizokujidai}}.
+
+Upon hearing of the capture of Roger, and that Roger will be executed within a week, Shiki goes on a rampage throughout [[Marineford]] before being brought down by [[Sengoku]] and [[Monkey D. Garp]]. He is sent to Level 6 of [[Impel Down]] for his actions.{{Cref|nome=zero}}
+
+Shanks begins his journey as a pirate captain by asking [[Buggy]] to join his crew but he declines and runs off.{{Cref|cap=434|pág=10}}{{Cref|cap=1082|pág=4-11|Buggy thinks back to when he and Shanks split paths}} 
+
+The legendary [[Shipwright]] [[Tom]] is put on trial for building Gol D. Roger's ship, the [[Oro Jackson]]. He is given a ten-year stay of execution to complete his idea of a [[Sea Train]] and be exonerated of his crime.{{Cref|cap=354|pág=|ep=248}}
+
+[[Heracles]] loses all of his friends due to the dangers of the [[Boin Archipelago]].{{Cref|nome=vc}}
+
+Nascimentos: [[Baby 5]],{{Cref|nome=sbs75}},[[Bartolomeo]],{{Cref|sbs=72|pág=66}} [[Vinsmoke Reiju]],{{Cref|sbs=84|pág=150|Reiju's age is revealed.}} [[Charlotte Brownie]],{{Cref|nome=opmagazine}} [[Drip]], [[Mikita]], [[Fukaboshi]], [[Charlos]], [[Wyper]], [[Kamakiri]], [[Braham]], [[Blue Gilly]], [[Sheepshead]], [[Speed]],[[Yazaemon]]{{Cref|nome=vc}} [[Iyan'eno Chinode]]{{Cref|nome=sbs107|sbs=107|Chinode's name and age is revealed.}}
+}}
+{{Linha do Tempo|23|eventos=
+[[Shimotsuki Ryuma]]'s grave is robbed by [[Gecko Moria]] and his corpse along with [[Shusui]] are stolen.{{Cref|cap=909|ep=892}}
+
+Moria and his [[Gecko Pirates|crew]] fight the Beasts Pirates and are subsequently massacred, leaving Moria as the lone survivor.{{Cref|cap=456|pág=10|ep=350}}
+
+Nascimentos: [[Eustass Kid]],{{Cref|nome=sbs68}} [[Tashigi]],{{Cref|sbs=20|pág=66}} [[Koala]],{{Cref|nome=sbs77p154}} [[Buchi]], [[Sham]], [[Sadi]], [[Ryuboshi]],{{Cref|nome=vc}} [[Charlotte Joconde]]{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|22|eventos=
+[[Nico Olvia]] is captured by the [[Marines]] and her comrades are killed. [[Jaguar D. Saul]] frees her and deserts the Marines. Nico Olvia returns to [[Ohara]]. Her daughter [[Nico Robin]] meets Saul.
+
+[[Ohara Incident]]: Ohara is burned to the ground by a [[Buster Call]] summoned by the [[CP9]]. Professor [[Clou D. Clover|Clover]], Olvia and all of the citizens of Ohara are killed. Nico Robin, the sole survivor, begins her life on the run from the [[World Government]] with a {{B}}79,000,000 bounty.{{Cref|cap=397|ep=278}} Jaguar D. Saul is frozen by [[Kuzan]], but is eventually thawed out by the raging fires.
+
+
+[[Gaimon]] arrives at the [[Island of Rare Animals]] and through a mishap is trapped inside a treasure chest. He is left behind by his crew.{{Cref|nome=c22p20|cap=22|pág=20|ep=18}}
+
+[[Hatchan]] saves [[Silvers Rayleigh]] out at sea and subsequently befriends him.{{Cref|cap=506|ep=400}}
+
+Shiki escapes from Impel Down.{{Cref|cap=530|ep=431|Sengoku mentions the escape of Shiki.}}
+
+[[Shanks]] first meets [[Yasopp]] while sailing near [[Gecko Island]].{{Cref|nome=zero}}
+
+[[Portgas D. Ace]] is born as "Gol D. Ace". His mother, [[Portgas D. Rouge]], dies shortly after his birth.{{Cref|cap=551|ep=460}}
+
+Saul lidera um grupo de gigantes para recuperar os livros que os acadêmicos jogaram no lago em Ohara e os transportou para [[Elbaph]].{{Cref|cap=1066|pág=10-15|ep=1097|Shaka explica a Robin sobre as ações do Saul.}}
+
+Kuma protests against the corruption of King [[Bekori]] and the slavery of his citizens, causing Kuma to retaliate against the royal army which causes him to be imprisoned along with Ginny and other protestants. They are shortly rescued by [[Emporio Ivankov|Ivankov]] and [[Monkey D. Dragon|Dragon]]. They manage to force [[Bekori]] to back down, and form the [[Exército Revolucionário]] after the [[Ohara Incident]].{{Cref|cap=1097|pág=10-11|ep=|The details of the founding of the Revolutionary Army are revealed.}}{{Cref|cap=1066}}
+
+Nascimentos: [[Sabo]],{{Cref|nome=sbs77p154}} [[Sugar]],{{Cref|nome=sbs75}} [[Bepo]],{{Cref|nome=sbs84p42}} [[Ideo]],{{Cref|nome=sbs83}} [[Pascia]],{{Cref|cap=501|ep=395}} [[Charlotte Raisin]],{{Cref|nome=opmagazine}} [[Nojiko]],{{Cref|cap=77|pág=11|ep=35|Nojiko is 2 years older than Nami}}, [[Helmeppo]],{{Cref|nome=sbs110}} [[Koza]],[[Shimotsuki Kuina]], [[Raki]], [[Mozu and Kiwi|Kiwi]], [[Nero]],{{Cref|nome=vc}} [[Ulti]]{{Cref|nome=sbs97}}
+}}
+{{Linha do Tempo|21|eventos=
+[[Vinsmoke Judge]] attempts to genetically alter his unborn quadruplet sons in their [[Vinsmoke Sora|mother]]'s womb in order to give them superhuman capabilities and remove their sense of empathy. However, Sora takes a highly dangerous drug to combat its effects. Three of their sons are successfully modified while the drug causes [[Sanji|their third son]] to be born as a normal human. The drug also causes Sora to develop a terminal illness that lasts for a few years before eventually killing her.{{Cref|cap=852|ep=819}}
+
+Nascimentos: [[Vinsmoke Ichiji]], [[Vinsmoke Niji]], [[Sanji|Vinsmoke Sanji]], [[Vinsmoke Yonji]],{{Cref|sbs=7|pág=46|Sanji's age is revealed.}}{{Cref|cap=833|pág=6|ep=793|A young Ichiji mentions that he and his brothers were born on the same day}}, [[Roronoa Zoro]]{{Cref|nome=sbs4}}, [[Charlotte Panna]],{{Cref|nome=opmagazine}} [[Conis]], [[Mozu and Kiwi|Mozu]],[[Jigoku Benten]],{{Cref|nome=vc}} [[Uta]]{{Cref|nome=4B|outro=4B}}
+}}
+{{Linha do Tempo|20|eventos=
+Saul é recebido por um [[Vegapunk#Realizações Científicas|clone perfeito do Vegapunk]] quando visita a biblioteca em Elbaph.{{Cref|cap=1134|pág=6-7}}
+
+Whitebeard claims [[Fish-Man Island]] under his protection. In doing so, pirates were not allowed to harm or capture the residents there.{{Cref|cap=645|ep=567|A fish-man remembers his childhood of when Whitebeard took over.}}
+
+On Elbaph, Jaguar D. Saul founds the [[Elbaph#Walrus School|Walrus School]] at King [[Harald]]'s request.{{Cref|cap=1134|pág=8-9}}
+
+[[Kozuki Oden]] and the [[Nine Red Scabbards]] try to defeat [[Kaidou]] to open the borders of [[País de Wano]], but failed. Oden is executed by Kaidou and [[Kurozumi Orochi]]. Before his wife [[Kozuki Toki]]'s demise, she uses the powers of the [[Toki Toki no Mi]] to send her [[Kozuki Momonosuke|son]] with the [[Ame no Habakiri]] and their retainers to safety 20 years into the future. {{Cref|cap=919|ep=909}}
+
+[[Kurozumi Higurashi]] is killed by Kaidou.{{Cref|cap=972|pág=16|ep=974|Kaidou mentions that he killed Higurashi.}}
+
+[[Kurozumi Semimaru]] dies of old age.{{Cref|nome=vc}}
+
+Inuarashi and Nekomamushi begin their feud.
+
+[[Yamato]] is imprisoned in a cave by Kaidou for wanting to be like Oden. He befriends three samurai while there and is read Oden's logbook by them before having his chains cut free. The samurai [[Shimotsuki Ushimaru]],[[Fugetsu Omusubi]], and [[Uzuki Tempura]] make one final effort to kill Kaidou and avenge Oden before being killed themselves.{{Cref|cap=1024|pág=8-15|ep=1048}}
+
+[[Scopper Gaban]] se muda para [[Elbaph]] e conhece [[Ripley]].{{Cref|cap=1139|pág=7, 12-13}}
+
+Nascimentos: [[Charlotte Mascarpone]], [[Charlotte Joscarpone]],{{Cref|nome=opmagazine}} [[Kyuin]],{{Cref|cap=755|pág=7-13|ep=692|ep2=693}} [[Nami]],{{Cref|nome=sbs4}} [[Manboshi]], [[Hattori]],{{Cref|nome=vc}} [[Sterry]],{{Cref|nome=c586|cap=586|ep=500}} [[Page One]],{{Cref|nome=sbs97}} [[Colon]]{{Cref|nome=c1139}}
+
+[[Bell-mère]], a Marine, is caught in a battle between Marines and pirates in the [[Oykot Kingdom]]. She survives and takes two orphans she finds, [[Nami]] and [[Nojiko]], back to [[Cocoyasi Village]]; she later adopts both girls as her daughters.{{Cref|cap=77|pág=17|ep=35}}
+}}
+{{Linha do Tempo|19|eventos=
+[[Boa Hancock]] and her sisters are kidnapped and become slaves of the [[World Noble|Celestial Dragon's]].{{Cref|cap=521|pág=14|Boa Hancock was 12 years old when she and her sisters were enslaved.}}
+
+Nascimentos: [[Usopp]], [[Monkey D. Luffy]],{{Cref|nome=sbs4}} [[Charlotte Yuen]],{{Cref|nome=opmagazine}} [[Kaya]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|18|eventos=
+[[Ringo]] falls in the hands of Kaidou and Kurozumi Orochi. [[Onimaru]] starts to protect the weapons left on graves against the [[Beasts Pirates]].
+
+The [[Charlotte Decuplets]] are born, the largest of [[Charlotte Linlin]]'s multiple births.{{Cref|sbs=85|pág=150|Oda refers to the decuplets for the first time.}}
+
+Nascimentos: [[Nefertari Vivi]],{{Cref|sbs=19|pág=26}} [[Koby]],{{Cref|nome=sbs110}} [[Camie]], [[Saldeath]], [[Marguerite]], [[Marianne]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|17|eventos=
+Queen [[Otohime]] begins her campaign of gathering signatures from her fellow [[fish-men]] and [[merfolk]] in order to appease the World Government so that fish-men and humans can coexist together in peace.{{Cref|cap=626|pág=7|ep=546|Flashback from 10 years ago, Otohime has been trying to gather signatures for 7 years.}}
+
+An incident on an island leaves five hundred soldiers being held hostage by pirates. The pirates demand their captain be made the king of the island in exchange for the release of the five hundred captives. The [[World Government]] sends in one thirteen-year-old boy to end the hostage situation; he kills the five hundred soldiers and then the pirates when they open fire on him. The boy later goes on to become the top killing machine of the secret [[CP9]]: [[Rob Lucci]].{{Cref|nome=c422|cap=422|ep=305|Rob Lucci's story.}}
+
+An unnamed [[King (Title)|king]] of an unnamed kingdom visited Kamabakka Kingdom on [[Momoiro Island]]. After he returned, he was an [[okama]]. This incident tore the kingdom and the family apart, and they were later exiled. [[Bellett]], son of this unnamed king, became a pirate and would later blame [[Emporio Ivankov]] for this incident.{{Cref||cap=537|ep=439|Bellett goes over his history.}}
+
+[[Portgas D. Ace]] and [[Sabo]] start saving up money in order to buy a pirate ship, leave [[Dawn Island]], and become pirates.
+
+[[Tony Tony Chopper]] is born on [[Drum Island]].{{Cref|sbs=19|pág=26}} He becomes an outcast of his herd because of his blue nose.{{Cref|cap=140|pág=12-13|ep=84}}
+
+As the original “Corazón”, [[Vergo]] passes on the name to [[Donquixote Rosinante]].{{Cref|nome=vc}}
+
+Nascimentos: [[Matsuge]], [[Shalria]],{{Cref|nome=vc}} [[Charlotte Nougat]]{{Cref|nome=opmagazine}}, [[Hibari]]{{Cref|nome=sbs110}}
+}}
+{{Linha do Tempo|16|eventos=
+[[Fisher Tiger]], who was enslaved by the [[World Noble|Celestial Dragons]] for several years, breaks free and heads back to [[Fish-Man Island]]. He talks with King [[Neptune]] about deciding to go back to [[Mary Geoise]] and free all of the slaves that he regretfully left behind.
+
+The extermination of the people of [[Flevance]] occurs. [[Trafalgar D. Water Law|Trafalgar Law]] is left the lone survivor and is recruited into the [[Donquixote Pirates]].
+
+[[Vergo]] left the Donquixote Pirates to go on a secret mission.{{Cref|nome=vc}}
+
+Nascimentos: [[Shirahoshi]],{{Cref|cap=621|pág=10|ep=540}} [[Rebecca]],{{Cref|cap=739|pág=10|ep=672}} [[Dellinger]],{{Cref|nome=sbs75}} [[Karoo]], [[Super Spot-Billed Duck Troops|Ivan X]], [[Super Spot-Billed Duck Troops|Cowboy]], [[Momoo]],{{Cref|nome=vc}} [[Charlotte Pudding]]{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|15|eventos=
+A year after escaping, the adventurer [[Fisher Tiger]] goes back and scales the [[Red Line]] in order to attack [[Mary Geoise]], starting a rebellion that ultimately frees all of the slaves of the [[World Noble|Celestial Dragons]], including [[Boa Hancock]] and her sisters.{{Cref|nome=c521|cap=521|ep=415|Hancock was 16 when freed, and she is now 31.}}
+
+Fisher Tiger rebrands the mark of the Celestial Dragons on the freed [[fish-man|fish-men]] slaves into the mark of the sun and forms the [[Sun Pirates]].{{Cref|nome=c521}}
+
+The Boa sisters are found by [[Gloriosa]], [[Silvers Rayleigh]] and [[Shakuyaku]], who take them back to [[Amazon Lily]].{{Cref|nome=c521}}
+
+Under the orders of [[Donquixote Doflamingo]], [[Vergo]] joins the Marines.
+
+The Nox Expedition party becomes the [[Nox Pirates]] after being chased by the World Government for searching for poneglyphs.{{Cref|nome=sbs86|sbs=86|pág=170|Tale of the Nox Pirates}}
+
+[[Foxy]]'s boxing license is revoked as he is caught cheating with a weapon.{{Cref|nome=vc}}
+
+Nascimentos: [[Charlotte Flampe]],{{Cref|cap=891|pág=3-5|ep=865}} [[Super Spot-Billed Duck Troops|Stomp]], [[Super Spot-Billed Duck Troops|Kentauros]], [[Carrot]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|14|eventos=
+Elbaph prince [[Loki]] kills his father [[Harald|King Harald]] in order to obtain the royal family's [[Devil Fruit]], he then stabs [[Jarul]] through the head in the conflict and flees the country, though Jarul survives.{{Cref|cap=1137|pág=2-11|Road reveals this event happened 14 years ago.}}
+
+[[Tom's Workers]] completes the first [[Sea Train]], the [[Puffing Tom]].{{Cref|cap=354|pág=17-19|ep=248|The Puffing Tom crosses the ocean for the first time.}}
+
+Bepo leaves Zou at the age of 8 to chase after his elder brother [[Zepo]]. When he climbed down Zou to get a view of the sea, he was swept away. He then boards a ship heading for the North Blue.{{Cref|nome=sbs84p42}}
+
+[[Spandam]] convence os [[Cinco Anciões]] a lhe darem autoridade para procurar as plantas de [[Pluton]].{{Cref|cap=355|pág=9-10|ep=249}}
+
+Vergo enters [[G-5]] base after personally requesting it.{{Cref|nome=vc}}
+
+A capitã [[Exército Revolucionário|Revolucionária]] das forças orientais, [[Ginny]], é capturada por um Nobre Mundial.{{Cref|cap=1097|pág=13|ep=}}
+
+Nascimentos: [[Chouchou]], [[Super Spot-Billed Duck Troops|Bourbon Jr.]], [[Super Spot-Billed Duck Troops|Hikoichi]],[[Chome]],{{Cref|nome=vc}} [[Charlotte Anglais]]{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|13|eventos=
+While being transported on a [[World Government]] ship, the [[Gomu Gomu no Mi]] is stolen by the [[Piratas do Ruivo]]. [[Who's-Who]], a member of [[CP9]] tasked with guarding the fruit, is put in prison for failing to protect it.{{Cref|cap=1017|pág=15-17|ep=|Who's-Who reveals that he was arrested after the Gomu Gomu no Mi was stolen from a World Government ship.}}{{Cref|cap=1018|pág=7|ep=}} Later that year, the Red Hair Pirates arrive at [[Foosha Village]] on [[Dawn Island]].{{Cref|dados=vivre card|card=0017}}
+
+Sometime before [[Shimotsuki Kouzaburou]] passed away he gives [[Roronoa Zoro|Zoro]] a pair of swords to aid in his training.{{Cref|nome=c1033|cap=1033|pág=11-15|ep=1060|Zoro as shown 13 years ago.}}
+
+Vivi becomes the vice leader of the [[Sand-Sand Clan]].{{Cref|cap=163|pág=17|ep=100}}
+
+[[Toto]] and his son [[Koza]] set off from [[Alubarna]] to set up a village in the Oasis of [[Yuba]].{{Cref|cap=164|pág=15-17|ep=100}}
+
+Shachi and Penguin's parents die in a tsunami. They are raised by Shachi's aunt and uncle, who make them do illegal activities.{{Cref|nome=lawnovel}}
+
+The [[Kuja]] empress [[Tritoma]] dies from [[Love Sickness]]. [[Boa Hancock]] becomes the new empress of the Kuja and captain of the [[Kuja Pirates]]. She is also given a position in the [[Shichibukai]].{{Cref|cap=522|ep=416|Hancock's rise to power.}}{{Cref|sbs=109|pág=78|Information about the Kuja empresses is revealed.}}
+
+[[Donquixote Rosinante]] and [[Trafalgar D. Water Law|Trafalgar Law]] travel to [[Minion Island]] to steal the [[Ope Ope no Mi]] to save Law's life; but are discovered by the Donquixote family after accidentally giving an intelligence letter to [[Vergo]], a member of Doflamingo's crew undercover as a Marine. Rosinante is killed by his brother and the island undergoes the [[Ito Ito no Mi#Techniques|Birdcage]], which kills everyone except [[X Drake|a boy]] that was a member of [[Barrels Pirates|a local pirate crew]].
+
+Doflamingo later recruits [[Sugar]] and [[Monet]] to his family.{{Cref|nome=sbs77p116}}
+
+[[Sanji]] is expelled from the [[Vinsmoke Family]] at the age of 8 by his father [[Vinsmoke Judge]], and he is allowed to leave the [[Germa Kingdom]] while they are invading [[Cozia|a country]] in the [[East Blue]]. He boards a nearby cruise ship called the [[Orbit]] and works there as a trainee chef for the next 2 years.{{Cref|cap=832|pág=14|ep=793|Reiju says Sanji was not in contact with his family in 13 years.}}
+
+While wandering around [[Swallow Island]], [[Bepo]] is bullied by two delinquents named [[Shachi]] and [[Penguin]]. [[Trafalgar D. Water Law|Trafalgar Law]] witnesses the beating and Shachi and Penguin pick a fight with him. Law defeats them and Bepo joins up with him.{{Cref|nome=sbs84p42}}
+
+[[Kawamatsu]] and Onimaru start to hide the weapons from grave robbers. Eventually, the kappa gets locked up in Udon after trying to procure food from the [[Flower Capital]] and eats rotten fish everyday for the next 13 years.{{Cref|cap=924|pág=12|ep=916|Prison guards were ordered to serve one poisonous fish a day to a prisoner.}}{{Cref|cap=936|pág=2|ep=931|Kawamatsu says he has eaten rotten fish for 13 years.}}
+
+Foxy eats the [[Noro Noro no Mi]].{{Cref|nome=vc}}
+
+Nascimentos: [[Nora Gitsune]],{{Cref|nome=vc}} [[Charlotte Wafers]]{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|12|eventos=
+[[Sugar]], aged 10, eats the [[Hobi Hobi no Mi]]. As a side effect of the Devil Fruit, she remains biologically ten years old forever.{{Cref|nome=sbs75}}
+
+[[Zeff|"Red-Leg Zeff"]] and his [[Cook Pirates]] sail to the [[Grand Line]] to find the [[All Blue]].{{Cref|nome=c48|cap=48|pág=5|ep=23}}
+
+Ginny returns to the Sorbet Kingdom after two years of her capture and abuse from the World Noble, carrying a newborn child with her to leave at the church before she passed away from [[Sapphire Scales]]. Kuma arrives at the church to find the child to which he would begin raising her, naming her [[Jewelry Bonney]].{{Cref|nome=c1098|cap=1098|ep=}}
+
+[[Monkey D. Luffy]], aged 7, accidentally eats the [[Gomu Gomu no Mi]] kept by [[Piratas do Ruivo]], giving him rubber powers and an inability to swim. [[Higuma]] is eaten by a [[Lord of the Coast|Sea King]] that attempts to eat Luffy but is saved by [[Shanks]], the latter’s left arm is ultimately ripped off by the Sea King. Shanks leaves Luffy's hometown after staying there for almost a year.{{Cref|cap=1|ep=4|Shanks and Luffy's story.}}
+
+Shortly after Shanks' departure, Luffy is taken by his grandfather [[Monkey D. Garp]] to train with [[Curly Dadan]] and meets his adopted brother [[Portgas D. Ace]].{{Cref|cap=582|pág=16-19|vol=59|ep=493}} Luffy soon forms a brotherhood with Ace and [[Sabo]] based on their shared desire to become pirates.{{Cref|cap=585|pág=14|vol=60|ep=497}}
+
+Disgusted by [[Porchemy]]'s weakness and failure to reclaim treasure stolen by Ace, [[Bluejam]] shoots Porchemy.{{Cref|cap=584|pág=12|vol=59|ep=495}}
+
+The Celestial Dragons come to visit the [[Goa Kingdom]] on [[Dawn Island]]. In preparation for their arrival, the Kingdom's royals hire the [[Bluejam Pirates]] to set fire to the [[Gray Terminal]],{{Cref|cap=587|pág=2|vol=60|ep=501}} but most who reside there are saved from being burnt to death by [[Monkey D. Dragon]] and the [[Revolutionary Army|Revolutionaries]].{{Cref|cap=587|pág=15|vol=60|ep=502|The Revolutionaries save the residents of the Gray Terminal from the inferno.}}
+
+[[Sabo]] is attacked by the [[World Noble]] [[Jalmack|Saint Jalmack]] and presumed dead.{{Cref|cap=588|pág=5-8|vol=60|ep1=502|ep2=503|Sabo is attacked by Saint Jalmack.}} He is rescued by Dragon, but loses his memories and joins the revolutionaries.{{Cref|cap=794|pág=5-9|vol=79|ep1=737|ep2=738|Sabo is saved by Dragon and joins Revolutionary Army.}}
+
+Shanks arrives in [[Sabaody Archipelago]] and meets [[Silvers Rayleigh|Rayleigh]].{{Cref|cap=506|pág=15|ep=400}}
+
+The pirate captain [[Mont Blanc Cricket]] arrives at [[Jaya]]. He stays to search for the truth about whether his ancestor was a liar so that he may be liberated from his family curse. His crew abandons him shortly afterward.{{Cref|cap=228|pág=7-12|vol=25|ep=148|Mont Blanc Cricket tells Straw Hats about his past.}}
+
+[[Chouchou]]'s owner, [[Hocker]], sets up his pet shop in [[Orange Town]].{{Cref|nome=c12|cap=12|ep=6|Chouchou's story.}}
+
+The famous actress [[Victoria Cindry]] dies in a tragic accident.{{Cref|cap=448|pág=3|ep=342|Nami learns that Cindry was an actress who died after falling off the stage ten years ago.}} Dr. [[Hogback]] meets the [[Shichibukai|Warlord of the Sea]] [[Gecko Moria]], along with [[Absalom]] and [[Perona]].
+
+[[Hatchan]] visits [[Shakuyaku]] and [[Silvers Rayleigh]] for the last time after joining the [[Sun Pirates]].{{Cref|cap=498|pág=6|vol=51|ep=392|Two years ago, Shakuyaku said that it had been 10 years since she last met Hatchan.}}
+
+The [[Revolutionary Army|revolutionaries]] start to look for [[Nico Robin]].{{Cref|revista=4|pág=114}}
+
+The [[Sun Pirates]] meet [[Koala]], a young girl who was a [[slave]] of the Celestial Dragons.{{Cref|cap=622|vol=63|pág=15|ep=541|The Sun Pirates meet Koala.}} [[Fisher Tiger]] rebrands her slave mark into the mark of the sun, making her the first human to bear the Sun Pirates' emblem.{{Cref|cap=622|vol=63|pág=18|ep=541|Fisher Tiger rebrands Koala's slave mark.}}
+
+Upon returning Koala to her home island, Fisher Tiger is ambushed by a group of Marines led by [[Rear Admiral]] [[Strawberry]].{{Cref|cap=623|pág=10|vol=63|ep=543}} After barely escaping the island with a Marine ship stolen by his crew, Tiger chooses to die rather than receive a transfusion of the human blood on the ship.
+
+Angered by Tiger's death, [[Arlong]] heads back to [[Foolshout Island]] to get revenge on the humans who betrayed Tiger, only to be defeated and captured by [[Vice Admiral]] [[Borsalino]].{{Cref|cap=623|pág=19|vol=63|ep=544|Arlong is defeated by Borsalino.}} He is then imprisoned in [[Impel Down]].
+
+[[Charlotte Wiro]] nasce.{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|11|eventos=
+[[Jinbe]] agrees to the [[World Government]]'s terms and becomes one of the [[Shichibukai]], which allows [[Arlong]] to be released from prison. Unfortunately, this led to a massive disagreement between Jinbe and Arlong that caused the [[Sun Pirates]] to disband into three factions: The [[Arlong Pirates]], the [[Macro Pirates]], and Jinbe's crew.{{Cref|cap=624|pág=12-16|vol=63|ep=544}}
+
+[[Zeff]] returns from the Grand Line. A storm sinks the [[Orbit]] and Zeff's [[Cooking George|pirate ship]]. Zeff and [[Sanji]] end up stranded on an island with very little food for 85 days and are eventually saved.{{Cref|nome=c57|cap=57|ep=26}} [[Baratie]] is opened.
+
+[[Who's-Who]] breaks out of prison.{{Cref|nome=vc}}
+
+[[Shimotsuki Kuina|Kuina]] and [[Roronoa Zoro]] made a promise for one of them to become the greatest swords-person. After Kuina dies, [[Shimotsuki Koushirou|Koushirou]] gives Zoro the [[Wado Ichimonji]] to reach his goal.{{Cref|dados=vivre card|card=0040}}
+
+Nascimentos: [[Ninjin]], [[Piiman]], [[Tamanegi]], [[Aisa]],{{Cref|nome=vc}} [[Charlotte De-Chat]]{{Cref|nome=opmagazine}}
+}}
+{{Linha do Tempo|10|eventos=
+After capturing ships holding Heavenly Tribute for the [[World Noble|Celestial Dragons]] and blackmailing the World Government for the position, [[Donquixote Doflamingo]] becomes a Warlord of the Sea.
+
+Doflamingo frames [[Riku Doldo III]] and his soldiers for various crimes against their own citizens before swooping in and claiming the position of king of [[Dressrosa]].
+
+[[Scarlett]] is killed by Donquixote pirate [[Diamante]].{{Cref|nome=c721|cap=721|ep=651}}
+
+[[Arlong]] invades [[Cocoyasi Village]] and begins to build his empire. [[Bell-mère]] is murdered by him and Nami is conscripted into the [[Arlong Pirates]].
+
+[[Tom]] again stands trial for creating the [[Oro Jackson]] after the ten-year stay of execution to build the [[Sea Train]] (extended by four years so the rail network could be finished).{{Cref|cap=355|pág=2|ep=249|Tom's Workers complete the remaining three tracks for the Sea Train.}} [[CP5]], led by [[Spandam]], frames Tom, who is carted away to [[Enies Lobby]]. [[Franky|Cutty Flam]] is presumed dead after attempting to stop the sea train carrying Tom, who was executed shortly after.
+
+Queen [[Otohime]] is assassinated by [[Hody Jones]] who frames a human for it, causing an uproar on Fish-Man Island.
+
+A Princesa [[Shirahoshi]] é "marcada" por [[Vander Decken IX]], tornando-a um alvo para seus [[Mato Mato no Mi|poderes]].
+
+Hody steals the energy pills from the Tamate Box and resigns from the Neptune army. In case of another theft, the [[Minister of the Right]] places explosives inside the box that will detonate the moment it is opened.
+
+Shirahoshi is locked inside Hard-Shell Tower of [[Ryugu Palace]] to protect her from Decken's [[Mato Mato no Mi|projectile gifts and threats]].
+
+Pekoms lead the other minks of the [[Nox Pirates]] who could not continue their journey, leaving just Pedro and Zepo. Later, Pekoms and his group arrived at Big Mom's territory. There, their lives were saved and they entered into her care.{{Cref|nome=sbs86}}
+
+[[Minatomo (Wano)|Minatomo]] sells the blueprints to Kaidou's mansion at a pawnshop. Sometime later, Ashura Doji stole the blueprints from [[Rakuda]] and ran over to Kuri with them.{{Cref|cap=929|pág=6-7|ep=922|Franky tries to find the blueprints.}}{{Cref|cap=952|pág=11|ep=953|Kin'emon gets the blueprints from Ashura Doji.}}
+
+After hearing about Davy Jones, [[Foxy]] starts to amass a crew through [[Davy Back Fight]]s.{{Cref|nome=vc}}
+
+Despite [[Ashura Doji]]'s warning to wait, many of his friends head over to [[Onigashima]] to fight Kaidou. They eventually got killed.{{Cref|cap=950|pág=8-11|ep=950|Ashura Doji's distraught}}
+
+Nascimentos: [[Charlotte Normande]],{{Cref|nome=opmagazine}} [[Chimney]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|9|eventos=
+A violent war occurs on [[Kuraigana Island]], coating the island in blood and dead bodies and ingraining a violent personality into the [[Humandrill]]s of the island.{{Cref|cap=592|pág=7|volume=60|ep=509|Mihawk talked about the violent war happening on Kuraigana Island.}}
+
+Koala joins the Revolutionary Army.
+
+Nascimentos: [[Charlotte Dolce and Dragée]],{{Cref|nome=opmagazine}} [[Mocha]]{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|8|eventos=
+Dr. [[Hiriluk]] finds [[Tony Tony Chopper]] and saves his life. He takes Chopper in as his assistant and surrogate son.{{Cref|nome=Drum}}
+
+[[Gan Fall]] is replaced as the God of Skypiea by [[Enel]] in a coup d'État.{{Cref|cap=255|pág=10|ep=168}}{{Cref|nome=c274|cap=274|ep=180}}
+
+A meeting is held at [[Mary Geoise]] with the World Counsel to discuss [[Monkey D. Dragon|Dragon]] and his Revolutionary movement.{{Cref|cap=142|pág=6|ep=91}}
+
+Two fans of the book on [[Mont Blanc Noland]], [[Masira]] and his sworn brother [[Shoujou]], show up at [[Jaya]] to help Mont Blanc Cricket in his efforts to settle things with his ancestor.{{Cref|cap=228|pág=14-15|ep=148}}
+
+Nascimentos: [[Charlotte Anana]],{{Cref|nome=opmagazine}} [[Tama]],{{Cref|nome=c911a|cap=911|pág=17|}}
+}}
+{{Linha do Tempo|7|eventos=
+The [[Usopp Pirates]] are formed.
+
+Hiriluk dies; upon his death, Tony Tony Chopper goes to live with [[Kureha|Doctor Kureha]], who begins to teach him how to be a real doctor.{{Cref|nome=Drum}}
+
+Kuma is told by a doctor that Bonney's [[Sapphire Scales]] is incurable and will take effect when Bonney turns 10, forcing him to avoid telling Bonney the truth.{{Cref|nome=c1098|cap=1098|ep=}}
+
+[[Nico Robin]] enters the [[Grand Line]] and encounters the Red Line.{{Cref|cap=490|pág=10-11|ep=385|Robin revealed to have entered the Grand Line 5 years ago.}}
+
+[[Rob Lucci]], [[Kaku]] and [[Kalifa]] from [[CP9]] go undercover and join the [[Galley-La Company]] in order to learn more about [[Pluton]]'s blueprints. [[Blueno]] goes to [[Water 7]] with them but gets work as a bartender instead.
+
+[[Brook]] is captured on [[Thriller Bark]], where his shadow is taken by [[Gecko Moria]] and transferred to the corpse of the samurai [[Ryuma (Zombie)|Ryuma]]. Brook manages to escape after wreaking havoc on Thriller Bark and creating his legacy among its inhabitants as "The Humming Swordsman".
+}}
+{{Linha do Tempo|6|eventos=
+[[Bekori]] returns to the [[Sorbet Kingdom]] and attempts to burn his former citizens alive. He and his forces are however stopped by Kuma in an event that would be labeled as the [[Solo Revolution]]. Afterwards Kuma would be made the official [[King (Title)|King]] of the [[Sorbet Kingdom]].{{Cref|nome=c1098|cap=1098|ep=}}{{Cref|nome=c1099|cap=1099|ep=}}
+
+Cutty Flam shows up alive at [[Water 7]]. He receives [[Pluton]]'s blueprints from [[Iceburg]]. Cutty Flam assumes the name '[[Franky]]'.
+
+Nico Robin is hired by [[Crocodile]] into [[Baroque Works]] as his partner.
+
+On the blue seas Loki is defeated and captured by [[Shanks]].{{Cref|cap=1136|pág=10|Jarul reveals Shanks captured Loki.}} He is brought back to Elbaph and is subsequently imprisoned on [[Treasure Tree Adam]] within the countries underworld.{{Cref|cap=1130|pág=11}}{{Cref|cap=1131|pág=4|Loki reveals he has been imprisoned for six years.}}
+
+Shanks acquires the status of [[Four Emperors|Emperor]].{{Cref|cap=957|ep=958|Shanks' Emperor history and bounty are revealed.}}
+
+[[Toko]] nasce.{{Cref|nome=vc}}
+}}
+{{Linha do Tempo|5|eventos=
+Captain [[Kuro]] fakes his own death and takes on the name Klahadore. He becomes the butler for [[Kaya]]'s family.
+
+A drought starts in [[Arabasta]], with the [[Nefertari Cobra|king]] being suspected of causing it with the use of [[Dance Powder]].
+
+[[Morgan|Axe-Hand Morgan]] is honored for bringing in the infamous "[[Nugire Yainu|Captain Kuro]]" and begins his rise to power in the Marines.{{Cref|sbs=6|pág=124|Kuro and Morgan's story.}}
+
+The [[Franky Family]] begins to collect {{B}}200,000,000.
+
+[[Portgas D. Ace]], aged 17, leaves Luffy's [[Foosha Village|hometown]].
+
+Pedro and Zepo, who continued searching for poneglyphs, eventually set their sights on Big Mom's poneglyph. They infiltrate [[Whole Cake Island]] in an attempt to steal poneglyphs from the [[Piratas da Big Mom]] and by coincidence, Pedro and Pekoms came face to face once again. Pedro and Zepo are defeated and forced to spin Big Mom's punishment wheel; [[Zepo]] subsequently lands on the "100 years" panel and Big Mom, using the powers of the [[Soru Soru no Mi]], steals his remaining 30 years, killing him. 
+
+She initially plans to take the remaining 70 from Pedro, though she agrees to [[Pekoms]]' pleas to reduce the punishment by a decade. Pedro then gouges out his own eye in an effort to further quell her anger, and impressed by this, she removes only 50 years from his lifespan.{{Cref|cap=846|ep=812}}
+}}
+{{Linha do Tempo|4|eventos=
+[[Nefertari Vivi|Vivi]] and [[Igaram]] join [[Baroque Works]] to find out information on who runs it. 
+
+The [[Spade Pirates]] are founded by [[Portgas D. Ace]] and [[Masked Deuce]].{{Cref|novel=A1|Masked Deuce was introduced along with Portgas D. Ace's backstory.}}
+
+[[Kaya]]'s parents die. Soon afterward, Kaya falls ill.{{Cref|cap=26|ep=10|Jango and Kuro talk about Kaya.}}
+
+[[Koby]] accidentally ends up as the chore boy for the pirate [[Alvida]].{{Cref|cap=2|ep=1|Koby's story.}}
+
+In defiance of Dr. Vegapunk, [[Caesar Clown]] performs an experiment involving chemical weaponry on [[Punk Hazard]]. The experiment destroys the island's entire ecosystem and leaves many prisoners paralyzed.
+
+[[Kuri|Amigasa village]] experiences a famine. [[Portgas D. Ace]] and [[Spade Pirates|his crew]] were captured by the villagers of Amigasa, who stole their food. The pirates freed themselves but were able to stay in the village as a guest for a few weeks. [[Tama]] takes a liking to Ace and decides to become an enchanting kunoichi for when he returns.
+
+Ace and his crew arrive on [[Onigashima]] to fight [[Kaidou]]. He fights [[Yamato]] and as they fight, Ace learns Yamato's desire to leave [[País de Wano]].{{Cref|cap=999|ep=}}
+
+Ace derrota o [[Shichibukai|Corsário]] [[Hanafuda]], causando a necessidade de um substituto após sua expulsão.{{Cref|nome=sbs109|sbs=109|pág=160|Informações sobre o Corsário Hanafuda são reveladas.}}
+
+Mais tarde, Hanafuda é morto por piratas inimigos a caminho de ver seus filhos [[Ulti]] e [[Page One]], [[Kaidou]] então cuida dos dois e os recruta para sua tripulação.{{Cref|nome=sbs111|sbs=111|pág=162|A história e a família do Hanafuda são reveladas.}}{{Cref|nome=sbs100|sbs=100|pág=100|O passado de Ulti e Page One é revelado.}}
+
+[[Smiley]] nasce.{{Cref|nome=vc}}
+
+Kuma and Bonney find Vegapunk after the incident on Punk Hazard and request if he can cure her [[Sapphire Scales]] disease, Vegapunk agrees on the condition that he can study and clone his body to create cyborgs he would go on to dub as [[Pacifista]]'s, with Saturn over hearing this conversation.{{Cref|cap=1099|pág=14-17|ep=}} [[Borsalino|Kizaru]] arrives at Vegapunk's island along with a marine fleet with [[X Drake]] on board that surrounds the island, Saturn on a Den Den Mushi relays various terms Kuma needs to follow before Bonney can be cured, including joining [[Shichibukai]] as a replacement for the one Ace defeated, becoming a human weapon and having his memories erased.
+
+Kuma agrees to these terms and for the next six months Bonney and Kuma would undergo treatment for the Sapphire Scales and to Modify Kuma's body, though during this time Kuma and Bonney would eat and dance with Vegapunk, Sentomaru, and Kizaru. After a total of six months Bonney would be returned to the [[Sorbet Kingdom]] under government watch from [[CP8]] agent [[Alpha]].{{Cref|cap=1100|pág=1-14|ep=}} During this time news would spread all over the world that Kuma was the newly elected warlord, as he Kuma sailed he stopped by the [[East Blue]] awaiting further orders from the world government.{{Cref|cap=1100|pág=15-17|ep=}}
+}}
+{{Linha do Tempo|3|eventos=
+On [[Mt. Colubo]] a 16 year old Luffy was training a [[Gomu Gomu no Mi/Techniques#Gomu Gomu no Ono|special attack]] he planned to use for later while Kuma observed him from a distance thinking back to a conversation he had with Dragon before disappearing shortly after. Luffy vaguely senses his presence before going back to train. Sometime after he writes multiple letters to Bonney but they were intercepted by [[Alpha]] and ripped up. Vegapunk works on Kuma's modification's while speaking with [[Stussy]] on whether a clone with a will or a human with no will was a more tragic life. 
+
+
+Kuma asked Vegapunk on what it would mean to lose his free will to which the scientist explains that it would mean that Kuma would lose all emotions and memories but he would ensure that he would maintain conscious thought for about another year, to which Kuma decided to write another letter to Bonney for her birthday.{{Cref|cap=1101|pág=3-9|ep=}}
+
+September 1st{{Cref|nome=vivre card|dados=vivre card|card=0511}}: Bonney celebrates her Ninth birthday with the residents of [[Sorbet Kingdom]], but later on is deeply upset when she learned another letter didnt get sent. {{Cref|cap=1101|pág=11-12|ep=}}
+
+[[Hocker]] vai ao hospital e nunca mais retorna, deixando Chouchou sozinho.{{Cref|nome=c12}}
+
+[[Mocha]] and [[Sind]] were kidnapped and brought to [[Punk Hazard]] to be the first two subjects for the [[gigantification]] experiment.{{Cref|cap=673|pág=4|ep=599|Yarisugi mentions years since incident}}{{Cref|cap=686|pág=4|ep=612|Flashback}}
+
+[[Cavendish]] appears in the New World as a powerful new [[Super Rookie]].{{Cref|cap=704|ep=634}}
+
+[[Aramaki]] starts his latest fast.{{Cref|cap=905|pág=13|ep=883|Ryokugyu mentions the latest time he has eaten anything.}}
+}}{{Linha do Tempo|BASE}}
+
+===Pre-timeskip events ===
+Observação: Isto está sendo escrito como se estivesse olhando para trás nos eventos. Por favor, tenha em mente que as pessoas do mundo de One Piece podem não saber dos eventos como o leitor está sendo informado. O principal exemplo são os eventos de Alabasta e o encobrimento do Governo Mundial em vários eventos.
+{{Linha do Tempo|TOPO}}
+{{Linha do Tempo|2|eventos=
+<!--Observação: Isto está sendo escrito como se estivesse olhando para trás nos eventos. Por favor, tenha em mente que as pessoas do mundo de One Piece podem não saber dos eventos como o leitor está sendo informado. O principal exemplo são os eventos de Alabasta e o encobrimento do Governo Mundial em vários eventos.-->
+War erupts on [[Broc Coli Island]].{{Cref|nome=c828|cap=828|pág=14-17|ep=787|Broc Coli Island is shown.}}
+
+[[Nero]] joins [[CP9]].{{Cref|nome=vc}}
+
+Six months later, Bonney's [[Sapphire Scales]] have been fully cured but Alpha refuses to allow her outside claiming she needs to stay until she turns ten. [[Conney]] overhears that Alpha is a government agent and orchestrates a plan to allow Bonney to escape to sea to find Kuma, disguising herself as an elderly Bonney while the real Bonney goes off to an escape ship with [[Gyogyo]]. Alpha catches on and attempts to brutalize Bonney and execute her accomplices so Bonney uses her [[Toshi Toshi no Mi#Distortion Future|ability]] to defeat Alpha and go off to sea.{{Cref|nome=c1101|cap=1101|pág=13-17|ep=}} 
+
+[[Krieg|Don Krieg]] leaves the [[East Blue]] to conquer the [[Grand Line]]. Within a week he is defeated by [[Dracule Mihawk]] but manages to escape with his main ship.{{Cref|cap=48|ep=23|Mihawk defeats Krieg's fleet.}}
+
+[[Monkey D. Luffy|Luffy]] leaves [[Foosha Village]] on his quest to become the Pirate King. He subsequently frees [[Koby]] from [[Alvida]] by defeating her.
+
+[[Roronoa Zoro|Zoro]] saves [[Rika]] from [[Soro]], [[Helmeppo]]'s dog. For defying him and killing Soro, Helmeppo has Zoro crucified for nine days without food or water. Luffy rescues Zoro and recruits him as his first crew member. Koby joins the Marines.
+
+[[Nami]] agrees to travel with Luffy for their mutual convenience. Luffy, Nami, and Zoro defeat [[Buggy]] and his crew at [[Orange Town]], obtaining a map of the Grand Line.
+
+[[Kuro|Klahadore]] plans to kill [[Kaya]] and inherit her fortune, but the Straw Hats help [[Usopp]] defeat him and his crew. They receive the [[Going Merry]] from [[Merry]], and Usopp joins their crew. The [[Straw Hat Pirates]]' jolly roger is established.
+
+Zoro has two katanas broken by [[Dracule Mihawk]], and then Luffy defeats [[Krieg|Don Krieg]] at the [[Baratie]], and [[Sanji]] joins the Straw hats.
+
+At [[Cocoyasi Village]], [[Arlong]] breaks his agreement with Nami and is subsequently defeated along with his entire crew. Nami joins the Straw Hats for real this time.
+
+Having defeated three people with high bounties, Luffy receives his first [[bounty]] from the Marines: 30 million [[Belly|bellies]]. The Straw Hats enter the Grand Line.
+
+The newly formed [[Bonney Pirates]] storm a marine guarded island in an attempt to look for Kuma but he vanishes away not wanting Bonney to find him for her own sake. Kuma however muses over Luffy's bounty finding it ironic how both his and Dragon's child became pirates.{{Cref|nome=ch1102|cap=1102|ep=|Kuma's final year.}}
+
+[[Thatch]] discovers the [[Yami Yami no Mi]]. [[Marshall D. Teach]] murders him and steals the fruit. [[Portgas D. Ace]] leaves the [[Moby Dick]] to find him.
+
+Teach adopts the name Blackbeard, and his [[Blackbeard Pirates|crew]] raid Drum Island. [[Wapol]] flees in fear.{{Cref|cap=133|pág=19|ep=80}}
+
+The Revolutionary army leads a coup in [[Vira]] causing it to be taken over.{{Cref|cap=96|ep=45|pág=3|Vira's coup is mentioned.}}{{Cref|nome=yellow|dados=yellow|pág=208|The Revolutionary Army is revealed to have been behind the coup d'état in Vira.}}
+
+Zoro buys the [[Sandai Kitetsu]] and [[Yubashiri]] from [[Ipponmatsu]] at [[Loguetown]].{{Cref|nome=c955|cap=955|pág=15|ep=956}}
+
+Feburary 18:{{Cref|dados=vivre card|excard=0131}}{{Cref|dados=vivre card|excard=0132}} Luffy and Usopp create Mr. Snowman and Snow Queen, but they get destroyed in their bickering.
+
+Feburary 19:{{Cref|dados=vivre card|excard=0141}} [[Igaram]] creates three Henohenounchi dummies and tries to head over to Arabasta, but [[Nico Robin|Miss All Sunday]] blows up his ship.
+
+The Straw Hats befriend [[Nefertari Vivi]], defeat Wapol, recruit [[Tony Tony Chopper]], meet [[Dorry]] and [[Brogy]], and head to [[Arabasta]]. [[Dalton]] is appointed as ruler of the renamed [[Sakura Kingdom]]. When they dismantle [[Baroque Works]] and take down [[Crocodile]], the government covers it up. Crocodile is arrested by [[Tashigi]] and [[Smoker]] in [[Arabasta]], both of whom are promoted for their efforts. The drought ends and peace returns to the country. Princess [[Nefertari Vivi|Vivi]] returns after having disappeared a few years prior. [[Nico Robin]] joins the Straw Hats.
+
+[[Enel]] is defeated by the Straw Hats. [[Gan Fall]] returns as [[God (Title)|God]] of [[Skypiea]]. The war between the [[Skypieans]] and [[Shandia]] ends.
+
+[[Foxy]]'s [[Davy Back Fight]] winning streak, after 920 victories, is broken.
+
+[[CP9]] leader [[Spandam]] accidentally summons a [[Buster Call]] to [[Enies Lobby]], annihilating the island of justice.
+
+[[Shu]] uses his [[Sabi Sabi no Mi]] powers to rust Yubashiri.
+
+[[Rob Lucci]] and his CP9 comrades are defeated by Luffy and the Straw Hat’s.{{Cref|cap=427|ep=309}} The destruction is blamed on the Straw Hats, all of whom are assigned bounties.
+
+The [[Going Merry]] sinks.
+
+Kuma meets with [[Vegapunk]] and gets a look at the [[Pacifista]] he had developed, Vegapunk asks Kuma if he heard about the incident with the Straw Hats at Enies Lobby prompting Kuma to reveal that their captain Luffy is Dragons son, while also drawing a comparison between Luffy's powers and [[Nika]]. 
+
+March 22:{{Cref|dados=vivre card|card=1713}} Vegapunk creates his [[Vegapunk#Satellites|satellites]]. Along with them, he creates the [[Seraphim]]; Pacifista clones of the [[Shichibukai|Warlords]]: [[S-Snake]],[[S-Hawk]],[[S-Bear]], and [[S-Shark]].
+
+March 25:{{Cref|dados=vivre card|card=0012}} The Thousand Sunny is manufactured. [[Franky]] joins the Straw Hats.
+
+A small time Mafia thug known as [[Duval]] is hunted down by bounty hunters as a result of his striking resemblance to [[Sanji]]'s new bounty poster. Marines from the Marine HQ are also deployed after him at the behest of [[Vinsmoke Judge]].{{Cref|cap=826|ep=785|The reason for Duval being constantly pursued is revealed.}}
+
+[[Shanks]] makes contact with [[Edward Newgate|Whitebeard]]. Despite Marine efforts, the two meet with each other. Two days prior to their meeting, "Fire Fist" [[Portgas D. Ace|Ace]] was defeated by [[Marshall D. Teach|Blackbeard]]. He is handed into the Marines, who set a date for his execution. The World Government summons the [[Shichibukai]] to rally together with the Marines for a war against Whitebeard. Blackbeard is appointed to the position of Warlord of the Sea for his role in bringing in Ace.
+
+The [[Exército Revolucionário]] conquer [[Centaurea]].{{Cref|cap=440|ep=324|The Revolutionaries discuss their victory in Centaurea.}}
+
+[[Shusui]] is given to [[Roronoa Zoro]] by [[Ryuma (Zombie)|Ryuma]]. Over a thousand shadows abducted by Warlord [[Gecko Moria]] are returned to their original owners. Most suspect Moria was defeated; however, Moria retains Warlord status and no reports are released on any such defeat. [[Brook]] joins the Straw Hats.
+
+At the [[Sabaody Archipelago]], Luffy punches the [[World Noble]] [[Charlos]] in the face, sparking the [[Celestial Dragon Hit-and-Run Incident]]: [[Bartholomew Kuma]] sends each member of the [[Straw Hat Pirates]] flying to a separate island.
+
+Afterwards Vegapunk on the orders of [[Jaygarcia Saturn]] erases the last of Kumas will but not before honoring Kuma's request with a built in command that will allow him to protect their ship.{{Cref|nome=ch1102}}
+
+[[Monkey D. Luffy|Luffy]] becomes the first male to ever set foot on [[Amazon Lily]].
+
+Monkey D. Luffy, captain of the Straw Hat Pirates, breaks into [[Impel Down]], from which [[Buggy]] happens to be trying to escape. 241 prisoners successfully escape the prison, marking the first mass breakout in its history. Meanwhile Blackbeard invades Impel Down to liberate and recruit the former chief jailer of Impel Down, [[Shiryu]], and several convicts from the apocryphal Level 6: [[Vasco Shot]], [[Catarina Devon]], [[Sanjuan Wolf]], and [[Avalo Pizarro]].
+
+The Manticore from Impel Down escapes the prison and is caught by the [[Piratas da Big Mom]], in which [[Charlotte Mont-d'Or]] seals it in a book.{{Cref|cap=847|ep=812}}
+
+Kaidou and [[King]] attempt to head to [[Marineford]] to kill Whitebeard but are stopped by [[Shanks]] and the [[Piratas do Ruivo]].{{Cref|nome=c533|cap=533|pág=3|ep=434|Shanks and Kaidou come into contact.}}{{Cref|nome=vc}}
+
+A day later the [[Summit War of Marineford]] takes place. Both Luffy's and Ace's heritage are revealed to the public. Portgas D. Ace dies when Admiral [[Sakazuki|Akainu]]'s magma fist goes through his chest. Edward Newgate dies standing up at [[Marineford]]. [[Marshall D. Teach]] somehow steals and assimilates Whitebeard's [[Gura Gura no Mi|Devil Fruit power]], making him the only human known to wield the power of two [[Devil Fruits]]. The battle is brought to an end with the arrival of Shanks and the Red Hair Pirates. Buggy and Shanks see eachother for the first time in 22 years. Other pirates start to invade Whitebeard's territory after hearing of his death.
+
+Doflamingo is ordered to kill [[Gecko Moria]], as his Warlord title was revoked for being deemed to too weak, before he can be killed Moria is rescued by Hogback and Absalom and taken into hiding.{{Cref|nome=vc}}
+
+[[Monkey D. Garp]] and [[Sengoku]] resign from their Marine positions.
+
+Monkey D. Luffy, [[Jinbe]], [[Trafalgar D. Water Law|Trafalgar Law]], and the [[Heart Pirates]] are the first males ever permitted to set foot on [[Amazon Lily]], an island that is usually off-limits to men.
+
+Luffy, Jinbe, and [[Silvers Rayleigh]] return to Marineford. They sailed around the island once, Luffy rang the [[Ox Bell]] sixteen times and gave a silent prayer, and they left once again on the [[Perfume Yuda|Kuja pirates ship]].
+
+The original childhood lab of [[Vegapunk|Dr. Vegapunk]] on [[Karakuri Island]] explodes after [[Franky]] presses a self-destruct button in the lab. This event becomes known to the world as the "[[Nightmare of Baldimore]]". Soon after that, Franky causes another incident, which would become known as the [[Legend of the Sacred Burning Beast of Baldimore]].
+
+Monkey D. Luffy decides to disband the Straw Hat Pirates for two years in order to allow the crew to train and become stronger.
+
+Buggy is invited into the Seven Warlords of the Sea and accepts.{{Cref|cap=593|ep=512}}{{Cref|cap=700|pág=13|ep=629}}
+
+Sabo regains his memory of Luffy and Ace before he decides to find the [[Mera Mera no Mi]].
+}}{{Linha do Tempo|BASE}}
+
+===During the timeskip===
+{{Linha do Tempo|TOPO}}
+{{Linha do Tempo|1|eventos=
+
+January 8: [[Battle Frankies/General Franky|General Franky]] is manufactured.{{Cref|dados=vivre card|card=0008}}
+
+A great battle takes place between the [[Marines]] and the combined forces of [[Duval]] and his [[Rosy Life Riders]], [[Hatchan]], and [[Bartholomew Kuma]], over the [[Straw Hat Pirates]]' ship, the [[Thousand Sunny]]. In the end, the Marines were forced to retreat, with the Rosy Life Riders, Hatchan, and Kuma sustaining serious damage. The Thousand Sunny was left unharmed.
+
+An argument occurs between [[Admiral]]s [[Kuzan|Aokiji]] and [[Sakazuki|Akainu]] for the vacant position of [[Fleet Admiral]]. The two engage in a duel to the death on [[Punk Hazard]], which lasted for ten days and left both men severely wounded. In the end, Sakazuki wins and is promoted to the position of fleet admiral. This results in the transfer of [[Marineford]] to the [[New World]], the relocation of the [[G-1]] branch, the resignation of Aokiji from the Marines, and the reconstruction of the Marines. The battle causes one side of Punk Hazard to be permanently embroiled in flames, leaving the other half permanently frozen over. [[Marines#World Military Draft|The World Military draft]] is held, and the two vacant Admiral positions are filled by [[Issho]] and [[Aramaki]].
+
+After defeating the remnants of the Whitebeard Pirates in the [[Payback War]], [[Marshall D. Teach]] acquires great notoriety in the [[New World]] by conquering [[Edward Newgate|Whitebeard]]'s former sphere of influence, attacking and murdering Devil Fruit users, and stealing their abilities to increase the abilities of his crew, resulting in Teach usurping Whitebeard's previous status as one of the [[Four Emperors]].{{Cref|cap=820|pág=11-12|ep=773}}
+
+[[Kuzan]] becomes a [[Officer|Titanic Captain]] of the [[Piratas do Barba Negra]].{{Cref|cap=1081|pág=8-13|ep=1115|Kuzan joins the Blackbeard Pirates.}}
+
+The [[Piratas da Big Mom]] take over and protect [[Fish-Man Island]] in exchange for ten tons of sweets a month.{{Cref|cap=610|pág=13|ep=528|Pappug explains how Linlin took over Newgate's protection.}}
+
+The [[Kid Pirates]] get into a battle with the [[Piratas do Ruivo]] leading to [[Benn Beckman]] shooting off [[Eustass Kid]]'s arm.{{Cref|sbs=107|pág=178|Beckman is confirmed to be the one who took Kid's arm.}}
+
+[[Bartolomeo]] appears in the New World as a powerful new Super Rookie.
+
+[[Trafalgar D. Water Law|Trafalgar Law]] obtains a bounty of {{B}}440,000,000 for unknown reasons. The [[Rocky Port Incident]]: An event involving Trafalgar Law, [[Koby]], former Rocks pirate [[Ochoku]], and the Emperor Blackbeard, its aftermath results in Koby being dubbed a hero of the marines and promotion to [[Captain (Marine Rank)|Captain]], Ochoku's defeat, and Blackbeard's takeover of their territory in [[Hachinosu]].{{Cref|nome=c903|cap=903|pág=13|ep=879|Kyros talks about Koby's heroism.}}{{Cref|cap=1059|pág=14|ep=1088|Blackbeard mentions the Rocky Port Incident.}}
+
+Law send's the disembodied (but living) hearts of 100 pirates at Rocky Port to Marineford{{Cref|cap=1081|pág=17|ep=1115}}, he is appointed to a Warlord of the Sea position.{{Cref|cap=659|pág=18|ep=584|Law is introduced as a Warlord of the Sea after the timeskip.}}
+ 
+[[Edward Weevil]] is appointed to a Warlord of the Sea position.{{Cref|cap=802|pág=8|ep=751}}
+
+[[X Drake]] allies with the Beasts Pirates and aides in the destruction of Amigasa Village.{{Cref|cap=912|pág=6|ep=894|Hitetsu mentions X Drake.}}
+
+Os Piratas Kid invadem [[Totto Land]] e derrotam o [[Piratas da Big Mom#Três Doces Comandantes|Comandante Doce]] da Big Mom, [[Charlotte Snack]], além de saquear uma cópia de seu Road Poneglyph.{{Cref|sbs=111|pág=|Kid é revelado por ter machucado Snack.}}
+
+[[Worst Generation]] pirate's [[Capone Bege]], [[Scratchmen Apoo]], and [[Urouge]] each invaded Big Mom's territory. While the other two were defeated,{{Cref|cap=837|pág=8-9|ep=798}} Bege and his crew ally with the Big Mom pirates, though Bege secretly began planning the assassination of Big Mom.{{Cref|cap=869|pág=16|ep=839|Bege is disappointed of his year long plans being ruined.}} He marries [[Charlotte Chiffon]] to seal the alliance.{{Cref|cap=807|pág=9|ep=756}}{{Cref|cap=834|pág=9|ep=795}} 
+
+[[Kozuki Hiyori|Komurasaki]] gradually tricks [[Bingo]] into giving away all of his money, and then later spends it all.{{Cref|cap=928|ep=921}}
+
+[[Capone Pez]] nasce.{{Cref|nome=vc}}
+
+[[Spandam]] is promoted to chief of [[CP0]].
+
+Former members of [[CP9]] uncover a plot in where his father [[Spandine]] was scheming some kind of takeover with former Level 6 prisoners from [[Impel Down]] as well as parties from the [[Underworld]]. They attacked and destroyed the parties involved and for their efforts were reinstated as agents of CP0. Spandine is stripped of his authority and reduced to a sickbed. Spandam is demoted to a subordinate under [[Rob Lucci]].{{Cref|sbs=109|pág=110}}
+
+}}{{Linha do Tempo|BASE}}
+
+===Current Storyline===
+{{Linha do Tempo|TOPO}}
+{{Linha do Tempo|0|eventos=
+The prince and king of the Goa Kingdom die of a suspicious death, resulting in [[Sterry]] ascending to the throne.{{Cref|cap=905|pág=9|ep=883|A brief history of the Goa Kingdom mentions the event happen a few months prior to the chapter.}}
+
+[[Kin'emon]], [[Kikunojo|Kiku]], [[Raizo]], [[Kurozumi Kanjuro|Kanjuro]], and [[Kozuki Momonosuke]] arrive in the [[País de Wano]] of this year from 20 years ago, having been sent forward through time by the powers of the [[Toki Toki no Mi]]. While Kiku stays at Wano, the rest left to recruit allies.{{Cref|cap=920|ep=910|ep2=911|The Kozuki's family's past is revealed}}
+
+[[Kozuki Momonosuke]] eats [[Vegapunk]]'s [[Artificial Devil Fruit#Artificial Zoan|man-made Devil Fruit]].
+
+The [[Fake Straw Hat Crew]] recruit famous pirates but are unmasked by [[Sentomaru]], who has been promoted into the Marines. The real [[Straw Hat Pirates]] reunite at [[Sabaody Archipelago]] and word gets out that they are back in action. Upon pursuit by marines, they escape with their [[coating|coated ship]] into the sea. With help from various groups of people, the Straw Hats set off for [[Fish-Man Island]].
+
+As punishment for helping the Straw Hats, [[Bartholomew Kuma]] was enslaved by the Celestial Dragons some point later.{{Cref|nome=vc}}
+
+Madam [[Shyarly]] of the Mermaid Cafe predicts the destruction of Fish-Man Island at the hands of Straw Hat Luffy. Meanwhile, [[Hody Jones]], captain of the [[New Fish-Man Pirates]], and [[Vander Decken IX]], captain of the [[Flying Pirates]], form an alliance and initiate a rebellion against the [[Ryugu Kingdom]]. [[Shirahoshi|Princess Shirahoshi]] manifests her ability to summon [[Sea King]]s in order to stop [[Noah]] from falling onto [[Fish-Man Island]]. She is revealed to be the ancient weapon, Poseidon. [[Jinbe]] donates blood to [[Monkey D. Luffy|Luffy]] in the very first human-fish-man blood transfusion since it was outlawed.
+
+Jinbe promises to join the Straw Hats once he finished taking care of his duties.
+
+[[Neptune]] frees the human pirates; makes the Fish-Man subordinates work under him; and arrests Hody, officers of the New Fish-Man Pirates, and Vander Decken. Some of the human pirates were later captured by G-5.
+
+The Straw Hat Pirates are targeted by [[Charlotte Linlin|Big Mom]] after Luffy challenges her and declares himself as the future protector of Fish-Man Island. Luffy gives Tamago and Pekoms the treasure that Caribou stole, including the Tamate Box with an [[explosive]] inside of it.
+
+The Straw Hats enter the [[New World]].
+
+The Straw Hats form an alliance with the [[Heart Pirates]] in order to dethrone [[Kaidou]]. [[Smiley]] eats the candy, causing a poisonous gas that can petrify people to spread across Punk Hazard. The group defeats and kidnaps [[Caesar Clown]] at [[Punk Hazard]] before continuing to [[Dressrosa]] in order to take down [[Donquixote Doflamingo]]. Both [[Vergo]] and [[Monet]] die.
+
+G-5 take the children from Punk Hazard to see Vegapunk.
+
+An alliance between the [[Kid Pirates|Kid]], [[On Air Pirates|On Air]] and [[Hawkins Pirates]] to depose the Emperor [[Shanks]] is formed.
+
+[[Jinbe]] places [[Caribou]] in a G-5 Marine base. The [[Caribou Pirates]] tried to rescue him, but got captured as he sails free. Caribou ends up on one of Kaidou's favorite islands. The Caribou Pirates meet up on the island with a Marine ship. They defeat Scotch and destroyed the factory, but Caribou is taken by [[X Drake]] and is later taken prisoner in Wano.
+
+[[Zou]] is invaded by [[Jack]] and his division of the [[Beasts Pirates]], who cause mass devastation while hunting the ninja, [[Raizo]].
+
+All toys on the island of Dressrosa return to their original forms after [[Sugar]] loses consciousness. [[Sabo]], the second-in-command of the [[Exército Revolucionário]], consumes the [[Mera Mera no Mi]], which previously belonged to his late brother, [[Portgas D. Ace]]. Donquixote Doflamingo is defeated, his [[Donquixote Pirates|crew]] is arrested, and reign over Dressrosa is returned to the [[Riku Family]]. Doflamingo's fall sends many nations that depended on him into chaos, allowing the Revolutionaries to increase their victories.
+
+Seven crews pledge their allegiance to the Straw Hat Pirates, forming the [[Straw Hat Grand Fleet]], which consists of over 5000 members. Due to the events from their reunion at Sabaody Archipelago until Dressrosa, all of the Straw Hats receive new [[Bounty|bounties]], with updated pictures on their posters, and [[Sanji]]'s status is changed to "Wanted Only Alive".
+
+After confronting Kaidou, the [[On Air Pirates]] and [[Hawkins Pirates]] become subordinates of the Beasts Pirates while Kid remains prisoner.
+ 
+Jack attacks Doflamingo's escort. He sinks two of the ships, but is ultimately defeated. He survives, and the newspapers falsely report him as dead.
+
+The Blackbeard Pirates attack the Revolutionaries' island base of [[Baltigo]], resulting in the base being completely destroyed in which the new base is located in [[Momoiro Island]].{{Cref|cap=904|ep=880|New Revolutionary Army base revealed.}}
+
+[[Brook]] of the [[Straw Hat Pirates]] creates copies of [[Charlotte Linlin]]'s [[Poneglyph|Road Poneglyph]] after infiltrating her storeroom, making the Straw Hats one of the few factions in the world to have possession of one at the time.
+
+O Tamatebako explode, causando a queda do Chateau Whole Cake.{{Cref|cap=871|pág=16-17|ep=842}}
+
+[[Bartolomeo]] and his [[Barto Club|crew]] travel to [[Gartel Island]], they burn the Red Hair pirates flag and replace them with Luffy’s.{{Cref|capa=875}}
+ 
+[[Pedro]] se explode com dinamite para que os Chapéus de Palha avancem.{{Cref|cap=877|pág=6-17|ep=849}}
+
+[[Charlotte Katakuri]] is defeated by Luffy.{{Cref|nome=c896|cap=896|pág=6-9, 12-15|ep=871|Katakuri is defeated by Luffy.}}
+
+[[Morgans]] reports the details of the [[Straw Hat Pirates|Sanji Retrieval Team]]'s successful raid against the Emperors [[Charlotte Linlin]] to the entire world. Morgans also reveals to the world of Sanji's heritage, the formation of the [[Straw Hat Grand Fleet]], and the addition of the former [[Shichibukai|Warlord of the Sea]] [[Jinbe]] to the Straw Hat Pirates. Following this news, [[Germa Kingdom]] is officially expelled from the Government for their attempted alliance. It is also reported that Luffy is considered by certain parts of the world to be a fifth Emperor.{{Cref|cap=903|ep=878|Morgans report on the events of Whole Cake Island is revealed.}}
+
+[[Absalom]] arrives on [[Pirate Island]] and is killed by the [[Piratas do Barba Negra]]. The [[Suke Suke no Mi]] gets eaten by [[Shiryu]].{{Cref|cap=925|ep=917|Shiryu has Absalom's powers.}}
+
+March 3:{{Cref|dados=vivre card|card=1257}} Luffy washes up on [[Kuri]] Beach in [[País de Wano]] and saves [[Kurozumi Tama|Tama]] from a group of [[Beasts Pirates]].
+
+[[Shimotsuki Yasuie]] gets executed. [[Roronoa Zoro]] makes a deal to replace [[Shusui]] with [[Enma]]. [[Charlotte Linlin]] and [[Kaidou]] decide to form a temporary alliance with their pirate crews.
+
+Durante o [[Levely]], [[Bartholomew Kuma]] é recuperado com sucesso pelo [[Exército Revolucionário]], o [[Issho|Almirante Fujitora]] ajuda vários escravos a escapar de [[Mary Geoise]] fazendo com que o [[Aramaki|Almirante Ryokugyu]] lute com ele.{{Cref|cap=1085}}
+
+[[Nefertari Cobra]] pergunta aos [[Cinco Anciões]] sobre o destino de sua ancestral [[Nefertari D. Lili]] levando ao ocupante do [[Trono Vazio]]; [[Imu]] revelando-se a Cobra e se envolvendo com Sabo e Cobra na tentativa de matá-los. Sabo consegue escapar com Cobra confiando a Sabo que conte a Vivi e Luffy a verdade deste evento.
+
+Nefertari Cobra morre devido aos ferimentos de Imu e sua filha Vivi é sequestrada pela [[CP0]], mas ela é resgatada involuntariamente por [[Wapol]]. Publicamente, a morte de Cobra é atribuída a Sabo e Vivi é declarada desaparecida.{{Cref|cap=1054|ep=1081}}{{Cref|cap=1085|pág=14-17|ep=}}
+
+O sistema [[Shichibukai]] é abolido e a Marinha começa a atacar os antigos Corsários.{{Cref|cap=956|ep=957}}
+
+[[Amazon Lily]] é atacada pela Marinha e sua unidade [[Seraphim]], em uma tentativa de capturar [[Boa Hancock]], bem como os [[Piratas do Barba Negra]], levando vários marinheiros e piratas a serem petrificados e Hancock sendo subjugada por Barba Negra. Antes que algo mais aconteça, [[Silvers Rayleigh]] chega e assusta os piratas e Marinheiros. Pouco depois, o capitão [[Koby]] é feito refém pelos piratas do Barba Negra.{{Cref|cap=1059|ep=1088}}
+
+17 de Março:{{Cref|dados=vivre card|card=1624}} Durante o [[Festival do Fogo]] em [[Onigashima]] os afiliados da [[Aliança Ninja-Pirata-Mink-Samurai]] iniciam um ataque. [[Kurozumi Orochi]] é traído.
+
+[[Charlotte Lola|Lola]] se casa com [[Gotti]].{{Cref|cap=993}}
+
+[[Kurozumi Kanjuro]] se revela um traidor e sua [[Fude Fude no Mi|pintura de Oden]] mata [[Ashura Doji]].{{Cref|cap=1008}}
+
+[[Hera]] nasce.{{Cref|cap=1011}}
+
+Kanjuro cria [[Kazenbo]] antes de sucumbir aos ferimentos fatais causados ​​por Kiku e Kin'emon.{{Cref|cap=1030|pág=7-10, 12|ep=1055|ep2=}}
+
+A Imperatriz [[Charlotte Linlin|Big Mom]] é derrotada por [[Eustass Kid]] e [[Trafalgar D. Water Law|Trafalgar Law]].{{Cref|cap=1040}}
+
+[[Izo]] é morto pelo agente da [[CP0]] [[Maha]].{{Cref|cap=1041}}
+
+Orochi é incendiado por Kazenbo e decapitado por [[Denjiro]], ele é posteriormente incinerado.{{Cref|cap=1057|pág=12-15|ep=1085}}
+
+O agente da CP0 [[Guernika]] é mortalmente ferido por [[Kaidou]]. Ele consegue tirar uma foto de [[Monkey D. Luffy|Luffy]] em sua [[Gomu Gomu no Mi/Técnicas Gear 5|forma desperta]] antes de morrer.{{Cref|cap=1043|pág=2-6|ep=1070}}{{Cref|cap=1053|pág=3|ep=1080|Um marinheiro afirma que a foto do Gear 5 foi enviada por Guernika.}}
+
+O Imperador Kaidou é derrotado por Luffy.{{Cref|cap=1050}}
+
+O [[Ataque à Onigashima]] termina com uma vitória para a [[Aliança Ninja-Pirata-Mink-Samurai]], com [[Kozuki Momonosuke]] se declarando o [[Xógum]] de [[País de Wano|Wano]].{{Cref|cap=1051}}
+
+Por seu envolvimento nas derrotas de dois Imperadores, Luffy, Kid e Law recebem uma recompensa de {{B}}3.000.000.000. Luffy e [[Buggy]] substituem Kaidou e Big Mom como os novos Imperadores.{{Cref|cap=1053}}
+
+O Almirante [[Aramaki|Ryokugyu]] derrota e detém [[King]] e [[Queen]] e é impedido de matar o recém-eleito Imperador Luffy devido a [[Shanks]] e recua.{{Cref|cap=1055}}
+
+[[Reino Lulusia]] é aniquilado por ordem de [[Imu]] depois que Sabo, que partiu do reino, tentou contatar seus companheiros revolucionários na tentativa de dizer a eles que ele não era responsável pelo assassinato do [[Nefertari Cobra|Rei Cobra]] e pelo que ele viu em [[Mary Geoise]].{{Cref|cap=1060}}
+
+Os Piratas do Chapéu de Palha chegam a Egghead e fazem uma aliança temporária com [[Jewelry Bonney]] e também com [[Vegapunk]], que foi declarado para ser executado por pesquisar o [[Século Vazio]]. Os Marinheiros, o Almirante [[Borsalino|Kizaru]], o ancião [[Jaygarcia Saturn]] e a [[CP0]] chegam a Egghead para confrontá-lo.
+
+[[Charlotte Pudding]] é sequestrada por Kuzan e [[Van Augur]].{{Cref|nome=históriadecapa|capa=1062|capa2=1064|ep=1093|Pudding é sequestrada por Kuzan e Van Augur.}}
+
+[[Edward Weevil]] é derrotado e capturado pelo Almirante Ryokugyu.{{Cref|nome=c1073|cap=1073|pág=11-14|ep=1105}}
+
+Vinsmoke Judge e Caesar Clown formam a [[NEO MADS]].{{Cref|nome=NEO|capa=1077|capa2=1078}}
+
+Em [[Elbaph]], Eustass Kid é confrontado por Shanks, que ordenou que lhe desse seus road poneglyph, levando a uma batalha onde Kid e Killer são rapidamente derrotados, forçando sua tripulação a desistir de seus poneglyphs, [[Dorry]] e [[Brogy]] destroem o [[Victoria Punk]], marcando o fim atual dos [[Piratas Kid]].{{Cref|cap=1079|ep=1112}}
+
+Na [[Ilha Winner]], Trafalgar Law é derrotado por Barba Negra e seu [[Polar Tang]] é afundado marcando o fim atual dos [[Piratas Heart]], a vida de Law é salva por [[Bepo]].{{Cref|cap=1081|ep=1115}}
+
+[[Vice-Almirante]] [[T Bone]] é morto no [[Reino Pepe]] devido à sua recompensa da [[Cross Guild]].{{Cref|nome=c1082|cap=1082|pág=2, 4|ep=1116}}
+
+[[Donquixote Mjosgard|Mjosgard]] é executado pelo líder dos [[Cavaleiros de Deus]] [[Figarland Garling]] por ajudar e proteger [[Shirahoshi]] dos Nobres Mundiais.{{Cref|nome=Garling}}
+
+Em [[Hachinosu]], [[Monkey D. Garp]] e a [[SWORD]] realizam uma operação de resgate para libertar Koby dos [[Piratas do Barba Negra]]. A batalha leva ao resgate bem-sucedido de Koby, no entanto Garp é derrotado e congelado por [[Kuzan]], enquanto capturado vivo seu condição público é deixado desconhecido para o mundo.{{Cref|cap=1088|ep=1122}}
+
+[[Perona]] liberta [[Gecko Moria|Moria]] com sucesso de seu aprisionamento em Hachinosu.{{Cref|cap=1080|pág=9|ep=1113}}{{Cref|cap=1126|pág=11|ep=}}
+
+Início do [[Incidente de Egghead]]: Um evento catastrófico envolvendo os [[Piratas do Chapéu de Palha]], [[Jewelry Bonney]], Vegapunk, os Marinheiros, [[Borsalino|Kizaru]], os [[Cinco Anciões]], Bartholomew Kuma e os [[Piratas Guerreiros Gigantes]].
+
+Vegapunk é morto por Kizaru, disparando uma mensagem pré-gravada detalhando segredos do [[Mundo]].{{Cref|cap=1108|pág=11-15|ep=|Vegapunk é apunhalado no peito por Kizaru.}}
+
+O Gigante de Ferro [[Emet]] desperta após 200 anos de sono.{{Cref|cap=1111|pág=18-19|ep=}}
+
+Emet libera uma explosão massiva de [[Haki/Haoshoku Haki#Amarração|Tonalidade Régia]] através de um nó que foi selado dentro dele por [[Joy Boy]], nocauteando os Marinheiros e enviando 4 dos 5 anciões de volta para [[Mary Geoise]], e permitindo que os Piratas do Chapéu de Palha, Piratas Guerreiros Gigantes, Kuma e Bonney escapem de Egghead e naveguem para [[Elbaph]].{{Cref|cap=1123|pág=3-5, 17|ep=}}
+
+Após o incidente de Egghead e as revelações da mensagem pré-gravada: [[Punk Records]] é desconectado de Egghead e flutua para longe graças a [[Vegapunk/Edison|Edison]].{{Cref|cap=1125|pág=7, 14-15|ep=}}
+
+[[Jaygarcia Saturn]] é destituído de sua imortalidade por [[Imu]] por permitir que Luffy escapasse.{{Cref|cap=1125|pág=10-13|ep=|Saturn perde sua imortalidade.}} Sua posição como um dos Cinco Anciões e prestígio de Deidade Guerreira da Defesa Científica é assumida por [[Figarland Garling]].{{Cref|nome=promoção|cap=1125|pág=9-10|ep=|Figarland Garling é nomeado o novo 5º ancião.}}
+
+[[Bartolomeo]] e sua tripulação são confrontados e derrotados pelos Piratas do Ruivo, antes que pudessem partir seu [[Going Luffy-senpai|navio]] é afundado por [[Yasopp]] deixando seus destinos desconhecidos.{{Cref|cap=1126|pág=5-9|ep=}}
+
+Dois dias após deixar Egghead, o [[Thousand Sunny]] é capturado por [[Muginn]] após passar pela Zona da Névoa do Sono, trazendo-o para [[Road]]. Ele aprisiona os seis chapéus de palha a bordo dentro do [[País dos Deuses]] em Elbaph.{{Cref|nome=c1129|cap=1129|pág=14|ep=}}
+
+Depois de acordar, Luffy mata o [[Glutbunny]] antes de ser encontrado por Zoro e Sanji, que cozinha seus restos para comida.{{Cref|cap=1129|pág=8-9|ep=}} Mais tarde, os três salvam Nami e Usopp do [[Iscat]] e, mais tarde, Chopper.
+
+Os chapéus de palha escapam do Road enquanto cavalgam Iscat e chegam ao Submundo de Elbaph. Luffy faz contato com [[Loki]] e faz um acordo para libertá-lo.{{Cref|cap=1130|pág=12-15|ep=}}
+
+Road é dominado por [[Gerd]] e [[Goldberg]], depois que eles se apresentam aos chapéus de palha e os dão oficialmente as boas-vindas a Elbaph.{{Cref|cap=1132|pág=10-17|ep=}}
+
+O [[Great Eirik]] chega a Elbaph e se reagrupa com a tripulação, Robin se reúne com [[Jaguar D. Saul|Saul]] depois de vinte e dois anos.{{Cref|cap=1133|pág=1-17|ep=}}
+
+Os [[Cavaleiros de Deus]] fazem contato em Elbaph.
+
+}}{{Linha do Tempo|BASE}}
+
+==Referências==
+{{Referências}}
+
+==Navegação do Site==
+{{História Navibox}}
+[[ar:ONE PIECE تاريخ ون بيس]]
+[[en:World Timeline]]
+[[es:Historia de One Piece]]
+[[fr:Calendrier de One Piece]]
+[[id:Garis Waktu Dunia]]
+[[ja:年表]]
+[[pl:Linia czasu]]
+[[ru:Хронология]]
+[[tr:Dünya Zaman Çizelgesi]]
+[[zh:航海王歷史年表]]
+[[Categoria:História| ]]
+[[Categoria:Listas]]

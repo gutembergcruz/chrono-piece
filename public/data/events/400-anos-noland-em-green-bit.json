@@ -1,0 +1,21 @@
+{
+  "id": "400-anos-noland-em-green-bit",
+  "year": {
+    "CM": 1120,
+    "EC": 3720
+  },
+  "title": "Noland em Green Bit",
+  "subtitle": "Herói dos Tontatta",
+  "whatHappened": "Durante suas jornadas, Noland chega em Green Bit, onde ele protege os anões dos humanos; ele é feito um herói e uma estátua é erguida em sua homenagem.",
+  "keyCharacters": [
+    "Mont Blanc Noland",
+    "Tribo Tontatta"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 711",
+      "type": "manga"
+    }
+  ]
+}

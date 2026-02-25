@@ -1,0 +1,20 @@
+{
+  "id": "atual-jack-ataca-escolta-de-doflamingo",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Jack Ataca Escolta de Doflamingo",
+  "subtitle": "Falsamente declarado morto",
+  "whatHappened": "Jack ataca a escolta de Doflamingo. Ele afunda dois dos navios, mas é derrotado. Ele sobrevive, e os jornais falsamente o reportam como morto.",
+  "keyCharacters": [
+    "Jack"
+  ],
+  "importance": "local",
+  "sources": [
+    {
+      "label": "Capítulo 824",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "10-anos-invasao-de-arlong-em-cocoyasi",
+  "year": {
+    "CM": 1531,
+    "EC": 4121
+  },
+  "title": "Invasão de Arlong em Cocoyasi",
+  "subtitle": "Morte de Bell-mère",
+  "whatHappened": "Arlong invade a Vila Cocoyasi e começa a construir seu império. Bell-mère é assassinada por ele e Nami é recrutada para os Piratas Arlong.",
+  "keyCharacters": [
+    "Arlong",
+    "Nami",
+    "Bell-mère"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 77",
+      "type": "manga"
+    }
+  ]
+}

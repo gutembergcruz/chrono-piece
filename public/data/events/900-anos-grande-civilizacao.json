@@ -1,0 +1,24 @@
+{
+  "id": "900-anos-grande-civilizacao",
+  "year": {
+    "CM": 600,
+    "EC": 3200
+  },
+  "title": "Grande Civilização",
+  "subtitle": "Reino Antigo domina o mundo",
+  "whatHappened": "Uma grande civilização domina o planeta de um canto a outro, e grandes armas de destruição em massa são construídas.",
+  "keyCharacters": [
+    "Grande Reino"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 395",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 277",
+      "type": "anime"
+    }
+  ]
+}

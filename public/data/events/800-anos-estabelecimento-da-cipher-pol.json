@@ -1,0 +1,24 @@
+{
+  "id": "800-anos-estabelecimento-da-cipher-pol",
+  "year": {
+    "CM": 700,
+    "EC": 3300
+  },
+  "title": "Estabelecimento da Cipher Pol",
+  "subtitle": "Enies Lobby é protegida",
+  "whatHappened": "A Cipher Pol é estabelecida e está estacionada em Enies Lobby para protegê-la.",
+  "keyCharacters": [
+    "Cipher Pol"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 426 - pág. 6",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 308",
+      "type": "anime"
+    }
+  ]
+}

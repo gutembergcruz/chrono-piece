@@ -1,0 +1,21 @@
+{
+  "id": "atual-traicao-de-kanjuro-revelada",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Traição de Kanjuro Revelada",
+  "subtitle": "Pintura de Oden mata Ashura Doji",
+  "whatHappened": "Kurozumi Kanjuro se revela um traidor e sua pintura de Oden mata Ashura Doji.",
+  "keyCharacters": [
+    "Kurozumi Kanjuro",
+    "Ashura Doji"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 1014",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "3000-anos-construcao-em-elbaph",
+  "year": {
+    "CM": -1500,
+    "EC": 1100
+  },
+  "title": "Construção em Elbaph",
+  "subtitle": "Instalação antiga erguida",
+  "whatHappened": "Uma instalação foi construída em Elbaph, a ilha dos gigantes, cuja função permanece misteriosa até os dias atuais.",
+  "keyCharacters": [
+    "Gigantes de Elbaph"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 1144 - pág. 2-3",
+      "type": "manga"
+    }
+  ]
+}

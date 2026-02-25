@@ -1,0 +1,23 @@
+{
+  "id": "atual-luffy-declarado-quinto-imperador",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Luffy Declarado Quinto Imperador",
+  "subtitle": "Notícias do ataque a Big Mom",
+  "whatHappened": "Morgans reporta os detalhes do ataque bem-sucedido da Equipe de Resgate de Sanji contra a Imperatriz Charlotte Linlin para o mundo inteiro. Morgans também revela a herança de Sanji, a formação da Grande Frota do Chapéu de Palha, e a adição do ex-Shichibukai Jinbe aos Piratas do Chapéu de Palha. Luffy é considerado por certas partes do mundo como um quinto Imperador.",
+  "keyCharacters": [
+    "Monkey D. Luffy",
+    "Morgans",
+    "Sanji",
+    "Jinbe"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 903",
+      "type": "manga"
+    }
+  ]
+}

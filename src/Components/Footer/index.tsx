@@ -1,33 +1,12 @@
 'use client'
 
-import { useState, useMemo, useRef, useEffect } from 'react'
+import { useRef, useEffect, useState } from 'react'
 import { LuChevronsLeft, LuChevronLeft, LuChevronRight, LuChevronsRight, LuCalendar, LuX } from 'react-icons/lu'
 import './styles.scss'
-import eventsData from '@/datas/years.json'
-
-interface YearData {
-  CM: string | number
-  EC: string | number
-}
+import { useTimeline } from '@/contexts/TimelineContext'
 
 export function Footer() {
-  const years: YearData[] = useMemo(() => {
-    const uniqueYears = new Map<string, YearData>()
-    
-    eventsData.eventos_principais.forEach(event => {
-      const key = `${event.CM}-${event.EC}`
-      if (!uniqueYears.has(key)) {
-        uniqueYears.set(key, {
-          CM: event.CM,
-          EC: event.EC
-        })
-      }
-    })
-    
-    return Array.from(uniqueYears.values())
-  }, [])
-
-  const [selectedYearIndex, setSelectedYearIndex] = useState(0)
+  const { years, selectedYearIndex, setSelectedYearIndex, selectedYear } = useTimeline()
   const [isModalOpen, setIsModalOpen] = useState(false)
   const timelineItemsRef = useRef<(HTMLDivElement | null)[]>([])
 
@@ -70,8 +49,6 @@ export function Footer() {
     setSelectedYearIndex(years.length - 1)
   }
 
-  const selectedYear = years[selectedYearIndex]
-
   return (
     <footer className="footer-container">
       <div className="mobile-year-selector">
@@ -111,7 +88,7 @@ export function Footer() {
             <div 
               key={`${year.CM}-${year.EC}`} 
               className="timeline-item"
-              ref={(el) => (timelineItemsRef.current[index] = el)}
+              ref={(el) => { timelineItemsRef.current[index] = el }}
             >
               <div 
                 className={`timeline-marker ${selectedYearIndex === index ? 'active' : ''}`}

@@ -1,0 +1,21 @@
+{
+  "id": "atual-morte-de-absalom",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Morte de Absalom",
+  "subtitle": "Shiryu obtém Suke Suke no Mi",
+  "whatHappened": "Absalom chega na Ilha Pirata e é morto pelos Piratas do Barba Negra. A Suke Suke no Mi é comida por Shiryu.",
+  "keyCharacters": [
+    "Absalom",
+    "Shiryu"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 925",
+      "type": "manga"
+    }
+  ]
+}

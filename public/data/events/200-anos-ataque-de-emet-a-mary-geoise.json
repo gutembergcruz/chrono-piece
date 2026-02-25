@@ -1,0 +1,25 @@
+{
+  "id": "200-anos-ataque-de-emet-a-mary-geoise",
+  "year": {
+    "CM": 1300,
+    "EC": 3900
+  },
+  "title": "Ataque de Emet a Mary Geoise",
+  "subtitle": "O Gigante de Ferro desperta",
+  "whatHappened": "Emet aparece e ataca Mary Geoise, mas fica sem energia antes de causar dano. Jaygarcia Saturn dos Cinco Anciões ordena que pesquisadores o estudem em segredo.",
+  "keyCharacters": [
+    "Emet",
+    "Jaygarcia Saturn"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1067",
+      "type": "manga"
+    },
+    {
+      "label": "Capítulo 1120",
+      "type": "manga"
+    }
+  ]
+}

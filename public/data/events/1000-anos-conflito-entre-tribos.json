@@ -1,0 +1,21 @@
+{
+  "id": "1000-anos-conflito-entre-tribos",
+  "year": {
+    "CM": 500,
+    "EC": 3100
+  },
+  "title": "Conflito entre Tribos",
+  "subtitle": "Braços Longos vs Pernas Longas",
+  "whatHappened": "Um conflito entre a Tribo dos Braços Longos e a Tribo dos Pernas Longas começa, durando séculos.",
+  "keyCharacters": [
+    "Tribo dos Braços Longos",
+    "Tribo dos Pernas Longas"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capa do Capítulo 884",
+      "type": "manga"
+    }
+  ]
+}

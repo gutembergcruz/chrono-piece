@@ -1,0 +1,20 @@
+{
+  "id": "atual-despertar-de-emet",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Despertar de Emet",
+  "subtitle": "200 anos de sono",
+  "whatHappened": "O Gigante de Ferro Emet desperta após 200 anos de sono.",
+  "keyCharacters": [
+    "Emet"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1118",
+      "type": "manga"
+    }
+  ]
+}

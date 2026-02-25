@@ -1,0 +1,21 @@
+{
+  "id": "atual-vitoria-em-onigashima",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Vitória em Onigashima",
+  "subtitle": "Momonosuke se torna Xógum",
+  "whatHappened": "O Ataque à Onigashima termina com uma vitória para a Aliança Ninja-Pirata-Mink-Samurai, com Kozuki Momonosuke se declarando o Xógum de Wano.",
+  "keyCharacters": [
+    "Kozuki Momonosuke",
+    "Aliança Ninja-Pirata-Mink-Samurai"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1051",
+      "type": "manga"
+    }
+  ]
+}

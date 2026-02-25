@@ -1,0 +1,22 @@
+{
+  "id": "atual-incidente-de-punk-hazard",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Incidente de Punk Hazard",
+  "subtitle": "Derrota de Caesar Clown",
+  "whatHappened": "Smiley come o doce, causando um gás venenoso que pode petrificar pessoas a se espalhar por Punk Hazard. O grupo derrota e sequestra Caesar Clown antes de continuar para Dressrosa. Vergo e Monet morrem.",
+  "keyCharacters": [
+    "Caesar Clown",
+    "Vergo",
+    "Monet"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 658-699",
+      "type": "manga"
+    }
+  ]
+}

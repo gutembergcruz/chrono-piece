@@ -1,0 +1,20 @@
+{
+  "id": "400-anos-partida-de-noland-de-vira",
+  "year": {
+    "CM": 1120,
+    "EC": 3720
+  },
+  "title": "Partida de Noland de Vira",
+  "subtitle": "Início da jornada lendária",
+  "whatHappened": "Calendário do Círculo do Mar 1120, 21 de Junho: Noland parte de Vira com sua tripulação. Seguindo o Log Pose, eles encontram um mercador vendendo um artefato incomum de Skypiea chamado de 'waver'.",
+  "keyCharacters": [
+    "Mont Blanc Noland"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 228",
+      "type": "manga"
+    }
+  ]
+}

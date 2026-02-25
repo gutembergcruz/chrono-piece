@@ -1,0 +1,24 @@
+{
+  "id": "800-anos-desaparecimento-das-armas-antigas",
+  "year": {
+    "CM": 700,
+    "EC": 3300
+  },
+  "title": "Desaparecimento das Armas Antigas",
+  "subtitle": "Poneglyphs são criados",
+  "whatHappened": "As armas antigas desaparecem sob circunstâncias misteriosas. Os únicos vestígios deixados para trás de sua civilização são os Poneglyphs construídos pela Família Kozuki.",
+  "keyCharacters": [
+    "Família Kozuki"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 818 - pág. 13",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 770",
+      "type": "anime"
+    }
+  ]
+}

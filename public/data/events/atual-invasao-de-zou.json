@@ -1,0 +1,21 @@
+{
+  "id": "atual-invasao-de-zou",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Invasão de Zou",
+  "subtitle": "Jack ataca os Minks",
+  "whatHappened": "Zou é invadida por Jack e sua divisão dos Piratas das Feras, que causam devastação em massa enquanto caçam o ninja Raizo.",
+  "keyCharacters": [
+    "Jack",
+    "Raizo"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 809",
+      "type": "manga"
+    }
+  ]
+}

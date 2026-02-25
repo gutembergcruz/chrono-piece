@@ -1,0 +1,20 @@
+{
+  "id": "atual-assassinato-de-t-bone",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Assassinato de T Bone",
+  "subtitle": "Morto por recompensa da Cross Guild",
+  "whatHappened": "Vice-Almirante T Bone é morto no Reino Pepe devido à sua recompensa da Cross Guild.",
+  "keyCharacters": [
+    "T Bone"
+  ],
+  "importance": "local",
+  "sources": [
+    {
+      "label": "Capítulo 1082",
+      "type": "manga"
+    }
+  ]
+}

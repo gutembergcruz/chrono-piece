@@ -1,0 +1,21 @@
+{
+  "id": "atual-road-dominado",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Road Dominado",
+  "subtitle": "Gerd e Goldberg assumem controle",
+  "whatHappened": "Road é dominado por Gerd e Goldberg, depois que eles se apresentam aos chapéus de palha e os dão oficialmente as boas-vindas a Elbaph.",
+  "keyCharacters": [
+    "Gerd",
+    "Goldberg"
+  ],
+  "importance": "local",
+  "sources": [
+    {
+      "label": "Capítulo 1131",
+      "type": "manga"
+    }
+  ]
+}

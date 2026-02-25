@@ -1,0 +1,34 @@
+{
+  "id": "800-anos-familia-riku-assume-dressrosa",
+  "year": {
+    "CM": 700,
+    "EC": 3300
+  },
+  "title": "Família Riku assume Dressrosa",
+  "subtitle": "Donquixote partem para Mary Geoise",
+  "whatHappened": "A Família Riku se torna a nova governante do Reino de Dressrosa depois que a Família Donquixote deixa o país para viver em Mary Geoise, e pede desculpas sinceras aos Anões que sofreram sob a escravidão nas mãos da Família Donquixote.",
+  "keyCharacters": [
+    "Família Riku",
+    "Família Donquixote",
+    "Tribo Tontatta"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 722",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 653",
+      "type": "anime"
+    },
+    {
+      "label": "Capítulo 726",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 658",
+      "type": "anime"
+    }
+  ]
+}

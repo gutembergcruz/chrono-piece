@@ -1,0 +1,22 @@
+{
+  "id": "atual-sequestro-de-charlotte-pudding",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Sequestro de Charlotte Pudding",
+  "subtitle": "Capturada por Kuzan",
+  "whatHappened": "Charlotte Pudding é sequestrada por Kuzan e Van Augur.",
+  "keyCharacters": [
+    "Charlotte Pudding",
+    "Kuzan",
+    "Van Augur"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 1064",
+      "type": "manga"
+    }
+  ]
+}

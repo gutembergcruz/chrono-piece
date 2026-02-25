@@ -1,0 +1,21 @@
+{
+  "id": "atual-casamento-de-lola-e-gotti",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Casamento de Lola e Gotti",
+  "subtitle": "União celebrada",
+  "whatHappened": "Lola se casa com Gotti.",
+  "keyCharacters": [
+    "Lola",
+    "Gotti"
+  ],
+  "importance": "local",
+  "sources": [
+    {
+      "label": "Capítulo 996",
+      "type": "manga"
+    }
+  ]
+}

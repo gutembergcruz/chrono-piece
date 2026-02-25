@@ -1,0 +1,22 @@
+{
+  "id": "atual-derrota-de-doflamingo",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Derrota de Doflamingo",
+  "subtitle": "Libertação de Dressrosa",
+  "whatHappened": "Donquixote Doflamingo é derrotado, sua tripulação é presa e o reinado sobre Dressrosa retorna à Família Riku. A queda de Doflamingo envia muitas nações que dependiam dele ao caos, permitindo que os Revolucionários aumentem suas vitórias.",
+  "keyCharacters": [
+    "Donquixote Doflamingo",
+    "Monkey D. Luffy",
+    "Riku Doldo III"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 785",
+      "type": "manga"
+    }
+  ]
+}

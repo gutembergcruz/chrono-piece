@@ -1,0 +1,21 @@
+{
+  "id": "atual-aniquilacao-do-reino-lulusia",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Aniquilação do Reino Lulusia",
+  "subtitle": "Ordem de Imu",
+  "whatHappened": "Reino Lulusia é aniquilado por ordem de Imu depois que Sabo, que partiu do reino, tentou contatar seus companheiros revolucionários na tentativa de dizer a eles que ele não era responsável pelo assassinato do Rei Cobra e pelo que ele viu em Mary Geoise.",
+  "keyCharacters": [
+    "Imu",
+    "Sabo"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1060",
+      "type": "manga"
+    }
+  ]
+}

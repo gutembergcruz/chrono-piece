@@ -1,0 +1,20 @@
+{
+  "id": "659-anos-nascimento-de-oars",
+  "year": {
+    "CM": 882,
+    "EC": 3472
+  },
+  "title": "Nascimento de Oars",
+  "subtitle": "O lendário demônio gigante",
+  "whatHappened": "Oars nasce, destinado a se tornar um dos gigantes mais temidos da história.",
+  "keyCharacters": [
+    "Oars"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "SBS Volume 50",
+      "type": "sbs"
+    }
+  ]
+}

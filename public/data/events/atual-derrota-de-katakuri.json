@@ -1,0 +1,21 @@
+{
+  "id": "atual-derrota-de-katakuri",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Derrota de Katakuri",
+  "subtitle": "Luffy vence o comandante",
+  "whatHappened": "Charlotte Katakuri é derrotado por Luffy.",
+  "keyCharacters": [
+    "Charlotte Katakuri",
+    "Monkey D. Luffy"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 896",
+      "type": "manga"
+    }
+  ]
+}

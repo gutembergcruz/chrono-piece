@@ -1,0 +1,22 @@
+{
+  "id": "atual-execucao-de-mjosgard",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Execução de Mjosgard",
+  "subtitle": "Morto por Figarland Garling",
+  "whatHappened": "Mjosgard é executado pelo líder dos Cavaleiros de Deus Figarland Garling por ajudar e proteger Shirahoshi dos Nobres Mundiais.",
+  "keyCharacters": [
+    "Mjosgard",
+    "Figarland Garling",
+    "Shirahoshi"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1086",
+      "type": "manga"
+    }
+  ]
+}

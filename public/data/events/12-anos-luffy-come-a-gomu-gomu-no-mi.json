@@ -1,0 +1,25 @@
+{
+  "id": "12-anos-luffy-come-a-gomu-gomu-no-mi",
+  "year": {
+    "CM": 1529,
+    "EC": 4119
+  },
+  "title": "Luffy Come a Gomu Gomu no Mi",
+  "subtitle": "Poderes de borracha",
+  "whatHappened": "Monkey D. Luffy, aos 7 anos, acidentalmente come a Gomu Gomu no Mi mantida pelos Piratas do Ruivo, ganhando poderes de borracha e incapacidade de nadar. Shanks salva Luffy de um Rei do Mar, perdendo seu braço esquerdo no processo. Shanks deixa a cidade natal de Luffy após ficar lá por quase um ano.",
+  "keyCharacters": [
+    "Monkey D. Luffy",
+    "Shanks"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 4",
+      "type": "anime"
+    }
+  ]
+}

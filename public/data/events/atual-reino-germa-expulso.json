@@ -1,0 +1,20 @@
+{
+  "id": "atual-reino-germa-expulso",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Reino Germa Expulso",
+  "subtitle": "Punição por aliança tentada",
+  "whatHappened": "Seguindo as notícias, o Reino Germa é oficialmente expulso do Governo por sua tentativa de aliança.",
+  "keyCharacters": [
+    "Vinsmoke Judge"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 903",
+      "type": "manga"
+    }
+  ]
+}

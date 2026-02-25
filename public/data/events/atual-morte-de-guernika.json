@@ -1,0 +1,21 @@
+{
+  "id": "atual-morte-de-guernika",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Morte de Guernika",
+  "subtitle": "Agente CP0 morto por Kaidou",
+  "whatHappened": "O agente da CP0 Guernika é mortalmente ferido por Kaidou. Ele consegue tirar uma foto de Luffy em sua forma desperta antes de morrer.",
+  "keyCharacters": [
+    "Guernika",
+    "Kaidou"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 1043",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "800-anos-one-piece-e-escondido",
+  "year": {
+    "CM": 700,
+    "EC": 3300
+  },
+  "title": "One Piece é Escondido",
+  "subtitle": "O tesouro lendário",
+  "whatHappened": "Joy Boy armazena um tesouro mítico apelidado de 'One Piece' na última ilha da Grand Line, que viria a ser conhecida como Laugh Tale.",
+  "keyCharacters": [
+    "Joy Boy"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 967 - pág. 18-19",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 968",
+      "type": "anime"
+    }
+  ]
+}

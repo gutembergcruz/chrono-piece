@@ -1,0 +1,21 @@
+{
+  "id": "atual-destruicao-de-baltigo",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Destruição de Baltigo",
+  "subtitle": "Base dos Revolucionários atacada",
+  "whatHappened": "Os Piratas do Barba Negra atacam a base da ilha dos Revolucionários em Baltigo, resultando na base sendo completamente destruída. A nova base é localizada na Ilha Momoiro.",
+  "keyCharacters": [
+    "Marshall D. Teach",
+    "Monkey D. Dragon"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 904",
+      "type": "manga"
+    }
+  ]
+}

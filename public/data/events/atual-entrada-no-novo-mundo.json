@@ -1,0 +1,20 @@
+{
+  "id": "atual-entrada-no-novo-mundo",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Entrada no Novo Mundo",
+  "subtitle": "Chapéus de Palha cruzam a Red Line",
+  "whatHappened": "Os Chapéus de Palha entram no Novo Mundo.",
+  "keyCharacters": [
+    "Piratas do Chapéu de Palha"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 654",
+      "type": "manga"
+    }
+  ]
+}

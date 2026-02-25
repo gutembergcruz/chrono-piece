@@ -1,0 +1,23 @@
+{
+  "id": "atual-chegada-a-egghead",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Chegada a Egghead",
+  "subtitle": "Aliança com Vegapunk e Bonney",
+  "whatHappened": "Os Piratas do Chapéu de Palha chegam a Egghead e fazem uma aliança temporária com Jewelry Bonney e também com Vegapunk, que foi declarado para ser executado por pesquisar o Século Vazio. Os Marinheiros, o Almirante Kizaru, o ancião Jaygarcia Saturn e a CP0 chegam a Egghead para confrontá-lo.",
+  "keyCharacters": [
+    "Vegapunk",
+    "Jewelry Bonney",
+    "Kizaru",
+    "Jaygarcia Saturn"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1062-1124",
+      "type": "manga"
+    }
+  ]
+}

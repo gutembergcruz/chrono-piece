@@ -1,0 +1,23 @@
+{
+  "id": "atual-incidente-de-egghead",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Incidente de Egghead",
+  "subtitle": "Evento catastrófico",
+  "whatHappened": "Início do Incidente de Egghead: Um evento catastrófico envolvendo os Piratas do Chapéu de Palha, Jewelry Bonney, Vegapunk, os Marinheiros, Kizaru, os Cinco Anciões, Bartholomew Kuma e os Piratas Guerreiros Gigantes.",
+  "keyCharacters": [
+    "Vegapunk",
+    "Jewelry Bonney",
+    "Kizaru",
+    "Bartholomew Kuma"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1089-1124",
+      "type": "manga"
+    }
+  ]
+}

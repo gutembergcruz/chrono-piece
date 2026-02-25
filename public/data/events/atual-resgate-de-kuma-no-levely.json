@@ -1,0 +1,22 @@
+{
+  "id": "atual-resgate-de-kuma-no-levely",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Resgate de Kuma no Levely",
+  "subtitle": "Fujitora ajuda escravos",
+  "whatHappened": "Durante o Levely, Bartholomew Kuma é recuperado com sucesso pelo Exército Revolucionário. O Almirante Fujitora ajuda vários escravos a escapar de Mary Geoise, fazendo com que o Almirante Ryokugyu lute com ele.",
+  "keyCharacters": [
+    "Bartholomew Kuma",
+    "Fujitora",
+    "Ryokugyu"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1083",
+      "type": "manga"
+    }
+  ]
+}

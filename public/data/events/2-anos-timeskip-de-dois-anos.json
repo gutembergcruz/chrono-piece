@@ -1,0 +1,20 @@
+{
+  "id": "2-anos-timeskip-de-dois-anos",
+  "year": {
+    "CM": 1539,
+    "EC": 4129
+  },
+  "title": "Timeskip de Dois Anos",
+  "subtitle": "Treinamento da tripulação",
+  "whatHappened": "Monkey D. Luffy decide dissolver os Piratas do Chapéu de Palha por dois anos para permitir que a tripulação treine e se torne mais forte.",
+  "keyCharacters": [
+    "Piratas do Chapéu de Palha"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 597",
+      "type": "manga"
+    }
+  ]
+}

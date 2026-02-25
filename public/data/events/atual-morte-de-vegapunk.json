@@ -1,0 +1,21 @@
+{
+  "id": "atual-morte-de-vegapunk",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Morte de Vegapunk",
+  "subtitle": "Mensagem pré-gravada revelada",
+  "whatHappened": "Vegapunk é morto por Kizaru, disparando uma mensagem pré-gravada detalhando segredos do Mundo.",
+  "keyCharacters": [
+    "Vegapunk",
+    "Kizaru"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1114",
+      "type": "manga"
+    }
+  ]
+}

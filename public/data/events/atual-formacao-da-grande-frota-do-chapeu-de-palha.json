@@ -1,0 +1,26 @@
+{
+  "id": "atual-formacao-da-grande-frota-do-chapeu-de-palha",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Formação da Grande Frota do Chapéu de Palha",
+  "subtitle": "Sete tripulações juram lealdade",
+  "whatHappened": "Sete tripulações juram lealdade aos Piratas do Chapéu de Palha, formando a Grande Frota do Chapéu de Palha, que consiste em mais de 5000 membros.",
+  "keyCharacters": [
+    "Cavendish",
+    "Bartolomeo",
+    "Sai",
+    "Ideo",
+    "Leo",
+    "Hajrudin",
+    "Orlumbus"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 800",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "year": {
+    "CM": 1517,
+    "EC": 4107
+  },
+  "events": [
+    {
+      "id": "24-anos-execucao-de-gol-d-roger",
+      "title": "Execução de Gol D. Roger",
+      "subtitle": "Início da Grande Era dos Piratas",
+      "importance": "global"
+    },
+    {
+      "id": "24-anos-shanks-inicia-sua-jornada",
+      "title": "Shanks Inicia sua Jornada",
+      "subtitle": "Novo capitão pirata",
+      "importance": "regional"
+    }
+  ]
+}

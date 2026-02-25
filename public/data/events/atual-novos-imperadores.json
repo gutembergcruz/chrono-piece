@@ -1,0 +1,23 @@
+{
+  "id": "atual-novos-imperadores",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Novos Imperadores",
+  "subtitle": "Luffy e Buggy ascendem",
+  "whatHappened": "Por seu envolvimento nas derrotas de dois Imperadores, Luffy, Kid e Law recebem uma recompensa de 3.000.000.000 de berries. Luffy e Buggy substituem Kaidou e Big Mom como os novos Imperadores.",
+  "keyCharacters": [
+    "Monkey D. Luffy",
+    "Buggy",
+    "Eustass Kid",
+    "Trafalgar Law"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1053",
+      "type": "manga"
+    }
+  ]
+}

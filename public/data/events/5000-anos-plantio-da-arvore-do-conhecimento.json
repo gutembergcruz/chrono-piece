@@ -1,0 +1,20 @@
+{
+  "id": "5000-anos-plantio-da-arvore-do-conhecimento",
+  "year": {
+    "CM": -3500,
+    "EC": -900
+  },
+  "title": "Plantio da Árvore do Conhecimento",
+  "subtitle": "Início da história de Ohara",
+  "whatHappened": "A Árvore do Conhecimento foi plantada pelo antigo povo de Ohara, marcando o início de uma longa tradição de busca pelo conhecimento na ilha.",
+  "keyCharacters": [
+    "Povo de Ohara"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Yellow Databook - pág. 233",
+      "type": "databook"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "atual-profecia-de-shyarly",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Profecia de Shyarly",
+  "subtitle": "Destruição da Ilha dos Homens-Peixe",
+  "whatHappened": "Madam Shyarly do Mermaid Cafe prevê a destruição da Ilha dos Homens-Peixe pelas mãos de Luffy do Chapéu de Palha.",
+  "keyCharacters": [
+    "Madam Shyarly",
+    "Monkey D. Luffy"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 610",
+      "type": "manga"
+    }
+  ]
+}

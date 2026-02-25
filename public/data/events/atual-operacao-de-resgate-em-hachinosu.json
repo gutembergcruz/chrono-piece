@@ -1,0 +1,22 @@
+{
+  "id": "atual-operacao-de-resgate-em-hachinosu",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Operação de Resgate em Hachinosu",
+  "subtitle": "Garp capturado",
+  "whatHappened": "Em Hachinosu, Monkey D. Garp e a SWORD realizam uma operação de resgate para libertar Koby dos Piratas do Barba Negra. A batalha leva ao resgate bem-sucedido de Koby, no entanto Garp é derrotado e congelado por Kuzan, enquanto capturado vivo sua condição pública é deixada desconhecida para o mundo.",
+  "keyCharacters": [
+    "Monkey D. Garp",
+    "Koby",
+    "Kuzan"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1088",
+      "type": "manga"
+    }
+  ]
+}

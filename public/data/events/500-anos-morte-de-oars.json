@@ -1,0 +1,20 @@
+{
+  "id": "500-anos-morte-de-oars",
+  "year": {
+    "CM": 1000,
+    "EC": 3600
+  },
+  "title": "Morte de Oars",
+  "subtitle": "Congelado nas Terras do Norte",
+  "whatHappened": "Oars, um governante de uma nação de bandidos de todo o mundo, morre de congelamento viajando pelas Terras do Norte e permanece preservado no gelo.",
+  "keyCharacters": [
+    "Oars"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 456",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "years": [
+    {
+      "id": "5000-anos",
+      "CM": -3500,
+      "EC": -900,
+      "approx": true,
+      "label": "~5000 anos atrás"
+    },
+    {
+      "id": "4000-anos",
+      "CM": -2500,
+      "EC": 100,
+      "approx": true,
+      "label": "~4000 anos atrás"
+    },
+    {
+      "id": "3000-anos",
+      "CM": -1500,
+      "EC": 1100,
+      "approx": true,
+      "label": "~3000 anos atrás"
+    },
+    {
+      "id": "1500-anos",
+      "CM": 0,
+      "EC": 2600,
+      "approx": true,
+      "label": "~1500 anos atrás"
+    },
+    {
+      "id": "1100-anos",
+      "CM": 402,
+      "EC": 3002,
+      "approx": true,
+      "label": "~1100 anos atrás"
+    },
+    {
+      "id": "1000-anos",
+      "CM": 500,
+      "EC": 3100,
+      "approx": true,
+      "label": "~1000 anos atrás"
+    },
+    {
+      "id": "900-anos",
+      "CM": 600,
+      "EC": 3200,
+      "approx": true,
+      "label": "~900 anos atrás"
+    },
+    {
+      "id": "830-anos",
+      "CM": 670,
+      "EC": 3270,
+      "approx": true,
+      "label": "~830 anos atrás"
+    },
+    {
+      "id": "800-anos",
+      "CM": 700,
+      "EC": 3300,
+      "approx": true,
+      "label": "~800 anos atrás"
+    },
+    {
+      "id": "700-anos",
+      "CM": 800,
+      "EC": 3400,
+      "approx": true,
+      "label": "~700 anos atrás"
+    },
+    {
+      "id": "659-anos",
+      "CM": 882,
+      "EC": 3472,
+      "approx": false,
+      "label": "659 anos atrás"
+    },
+    {
+      "id": "500-anos",
+      "CM": 1000,
+      "EC": 3600,
+      "approx": true,
+      "label": "~500 anos atrás"
+    },
+    {
+      "id": "460-anos",
+      "CM": 1040,
+      "EC": 3640,
+      "approx": true,
+      "label": "~460 anos atrás"
+    },
+    {
+      "id": "441-anos",
+      "CM": 1100,
+      "EC": 3690,
+      "approx": false,
+      "label": "441 anos atrás"
+    },
+    {
+      "id": "400-anos",
+      "CM": 1120,
+      "EC": 3720,
+      "approx": true,
+      "label": "~400 anos atrás"
+    },
+    {
+      "id": "300-anos",
+      "CM": 1200,
+      "EC": 3800,
+      "approx": true,
+      "label": "~300 anos atrás"
+    },
+    {
+      "id": "200-anos",
+      "CM": 1300,
+      "EC": 3900,
+      "approx": true,
+      "label": "~200 anos atrás"
+    },
+    {
+      "id": "77-anos",
+      "CM": 1464,
+      "EC": 4054,
+      "approx": false,
+      "label": "77 anos atrás"
+    },
+    {
+      "id": "78-anos",
+      "CM": 1463,
+      "EC": 4053,
+      "approx": false,
+      "label": "78 anos atrás"
+    },
+    {
+      "id": "38-anos",
+      "CM": 1503,
+      "EC": 4093,
+      "approx": false,
+      "label": "38 anos atrás"
+    },
+    {
+      "id": "28-anos",
+      "CM": 1513,
+      "EC": 4103,
+      "approx": false,
+      "label": "28 anos atrás"
+    },
+    {
+      "id": "26-anos",
+      "CM": 1515,
+      "EC": 4105,
+      "approx": false,
+      "label": "26 anos atrás"
+    },
+    {
+      "id": "25-anos",
+      "CM": 1516,
+      "EC": 4106,
+      "approx": false,
+      "label": "25 anos atrás"
+    },
+    {
+      "id": "24-anos",
+      "CM": 1517,
+      "EC": 4107,
+      "approx": false,
+      "label": "24 anos atrás"
+    },
+    {
+      "id": "22-anos",
+      "CM": 1519,
+      "EC": 4109,
+      "approx": false,
+      "label": "22 anos atrás"
+    },
+    {
+      "id": "20-anos",
+      "CM": 1521,
+      "EC": 4111,
+      "approx": false,
+      "label": "20 anos atrás"
+    },
+    {
+      "id": "19-anos",
+      "CM": 1522,
+      "EC": 4112,
+      "approx": false,
+      "label": "19 anos atrás"
+    },
+    {
+      "id": "12-anos",
+      "CM": 1529,
+      "EC": 4119,
+      "approx": false,
+      "label": "12 anos atrás"
+    },
+    {
+      "id": "10-anos",
+      "CM": 1531,
+      "EC": 4121,
+      "approx": false,
+      "label": "10 anos atrás"
+    },
+    {
+      "id": "2-anos",
+      "CM": 1539,
+      "EC": 4129,
+      "approx": false,
+      "label": "2 anos atrás"
+    },
+    {
+      "id": "atual",
+      "CM": 1541,
+      "EC": 4131,
+      "approx": false,
+      "label": "Presente (1541 ECM)"
+    }
+  ]
+}

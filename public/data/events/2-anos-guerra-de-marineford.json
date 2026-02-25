@@ -1,0 +1,24 @@
+{
+  "id": "2-anos-guerra-de-marineford",
+  "year": {
+    "CM": 1539,
+    "EC": 4129
+  },
+  "title": "Guerra de Marineford",
+  "subtitle": "Morte de Ace e Barba Branca",
+  "whatHappened": "A Guerra do Ápice de Marineford acontece. A herança de Luffy e Ace é revelada ao público. Portgas D. Ace morre quando o punho de magma do Almirante Akainu atravessa seu peito. Edward Newgate morre em pé em Marineford. Marshall D. Teach rouba o poder da Akuma no Mi de Barba Branca. A batalha termina com a chegada de Shanks.",
+  "keyCharacters": [
+    "Portgas D. Ace",
+    "Edward Newgate",
+    "Marshall D. Teach",
+    "Shanks",
+    "Monkey D. Luffy"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 550-580",
+      "type": "manga"
+    }
+  ]
+}

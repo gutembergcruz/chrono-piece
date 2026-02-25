@@ -1,0 +1,20 @@
+{
+  "id": "atual-sacrificio-de-pedro",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Sacrifício de Pedro",
+  "subtitle": "Explosão com dinamite",
+  "whatHappened": "Pedro se explode com dinamite para que os Chapéus de Palha avancem.",
+  "keyCharacters": [
+    "Pedro"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 877",
+      "type": "manga"
+    }
+  ]
+}

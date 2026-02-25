@@ -1,0 +1,21 @@
+{
+  "id": "atual-rebeliao-em-fish-man-island",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Rebelião em Fish-Man Island",
+  "subtitle": "Hody Jones e Vander Decken",
+  "whatHappened": "Hody Jones, capitão dos Novos Piratas Homens-Peixe, e Vander Decken IX, capitão dos Piratas Voadores, formam uma aliança e iniciam uma rebelião contra o Reino Ryugu.",
+  "keyCharacters": [
+    "Hody Jones",
+    "Vander Decken IX"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 611-653",
+      "type": "manga"
+    }
+  ]
+}

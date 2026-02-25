@@ -1,0 +1,21 @@
+{
+  "id": "atual-festival-do-fogo-em-onigashima",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Festival do Fogo em Onigashima",
+  "subtitle": "17 de Março - Início do ataque",
+  "whatHappened": "17 de Março: Durante o Festival do Fogo em Onigashima os afiliados da Aliança Ninja-Pirata-Mink-Samurai iniciam um ataque. Kurozumi Orochi é traído.",
+  "keyCharacters": [
+    "Aliança Ninja-Pirata-Mink-Samurai",
+    "Kurozumi Orochi"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 985",
+      "type": "manga"
+    }
+  ]
+}

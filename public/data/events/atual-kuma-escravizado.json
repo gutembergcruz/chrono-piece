@@ -1,0 +1,20 @@
+{
+  "id": "atual-kuma-escravizado",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Kuma Escravizado",
+  "subtitle": "Punição por ajudar os Chapéus de Palha",
+  "whatHappened": "Como punição por ajudar os Chapéus de Palha, Bartholomew Kuma foi escravizado pelos Dragões Celestiais.",
+  "keyCharacters": [
+    "Bartholomew Kuma"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 908",
+      "type": "manga"
+    }
+  ]
+}

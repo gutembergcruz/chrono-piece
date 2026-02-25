@@ -1,0 +1,24 @@
+{
+  "id": "4000-anos-construcao-do-palacio-de-alubarna",
+  "year": {
+    "CM": -2500,
+    "EC": 100
+  },
+  "title": "Construção do Palácio de Alubarna",
+  "subtitle": "Erguido no Reino de Alabasta",
+  "whatHappened": "Foi construído o Palácio de Alubarna, que se tornaria a sede do Reino de Alabasta por milênios.",
+  "keyCharacters": [
+    "Reino de Alabasta"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 188 - Volume 21",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 115",
+      "type": "anime"
+    }
+  ]
+}

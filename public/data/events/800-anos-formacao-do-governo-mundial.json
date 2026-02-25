@@ -1,0 +1,29 @@
+{
+  "id": "800-anos-formacao-do-governo-mundial",
+  "year": {
+    "CM": 700,
+    "EC": 3300
+  },
+  "title": "Formação do Governo Mundial",
+  "subtitle": "Os Vinte Reis sobem a Mary Geoise",
+  "whatHappened": "Os Vinte membros da realeza criam o Governo Mundial e se mudam para Mary Geoise. Conforme chegam ao poder, eles controlam e censuram tudo o que aconteceu nos últimos 100 anos, ao mesmo tempo em que proíbem mundialmente a capacidade de pesquisar e ler os Poneglyphs.",
+  "keyCharacters": [
+    "Vinte Reis",
+    "Governo Mundial"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 497",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 391",
+      "type": "anime"
+    },
+    {
+      "label": "Capítulo 395",
+      "type": "manga"
+    }
+  ]
+}

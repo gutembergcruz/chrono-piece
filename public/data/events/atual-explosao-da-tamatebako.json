@@ -1,0 +1,20 @@
+{
+  "id": "atual-explosao-da-tamatebako",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Explosão da Tamatebako",
+  "subtitle": "Queda do Chateau Whole Cake",
+  "whatHappened": "A Tamatebako explode, causando a queda do Chateau Whole Cake.",
+  "keyCharacters": [
+    "Charlotte Linlin"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 900",
+      "type": "manga"
+    }
+  ]
+}

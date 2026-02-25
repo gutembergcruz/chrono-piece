@@ -1,0 +1,20 @@
+{
+  "year": {
+    "CM": 1300,
+    "EC": 3900
+  },
+  "events": [
+    {
+      "id": "200-anos-alianca-com-a-ilha-dos-homens-peixe",
+      "title": "Aliança com a Ilha dos Homens-Peixe",
+      "subtitle": "Primeiro Levely",
+      "importance": "global"
+    },
+    {
+      "id": "200-anos-ataque-de-emet-a-mary-geoise",
+      "title": "Ataque de Emet a Mary Geoise",
+      "subtitle": "O Gigante de Ferro desperta",
+      "importance": "global"
+    }
+  ]
+}

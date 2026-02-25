@@ -1,0 +1,24 @@
+{
+  "id": "atual-derrota-de-eustass-kid",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Derrota de Eustass Kid",
+  "subtitle": "Shanks destrói Victoria Punk",
+  "whatHappened": "Em Elbaph, Eustass Kid é confrontado por Shanks, que ordenou que lhe desse seus road poneglyph, levando a uma batalha onde Kid e Killer são rapidamente derrotados. Dorry e Brogy destroem o Victoria Punk, marcando o fim atual dos Piratas Kid.",
+  "keyCharacters": [
+    "Eustass Kid",
+    "Shanks",
+    "Killer",
+    "Dorry",
+    "Brogy"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1079",
+      "type": "manga"
+    }
+  ]
+}

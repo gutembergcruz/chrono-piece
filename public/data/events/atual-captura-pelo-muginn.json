@@ -1,0 +1,21 @@
+{
+  "id": "atual-captura-pelo-muginn",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Captura pelo Muginn",
+  "subtitle": "Thousand Sunny levado a Road",
+  "whatHappened": "Dois dias após deixar Egghead, o Thousand Sunny é capturado por Muginn após passar pela Zona da Névoa do Sono, trazendo-o para Road. Ele aprisiona os seis chapéus de palha a bordo dentro do País dos Deuses em Elbaph.",
+  "keyCharacters": [
+    "Muginn",
+    "Piratas do Chapéu de Palha"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 1126",
+      "type": "manga"
+    }
+  ]
+}

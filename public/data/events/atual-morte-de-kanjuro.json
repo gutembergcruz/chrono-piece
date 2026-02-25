@@ -1,0 +1,22 @@
+{
+  "id": "atual-morte-de-kanjuro",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Morte de Kanjuro",
+  "subtitle": "Criação de Kazenbo",
+  "whatHappened": "Kanjuro cria Kazenbo antes de sucumbir aos ferimentos fatais causados por Kiku e Kin'emon.",
+  "keyCharacters": [
+    "Kurozumi Kanjuro",
+    "Kiku",
+    "Kin'emon"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 1014",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "900-anos-construcao-de-emet",
+  "year": {
+    "CM": 600,
+    "EC": 3200
+  },
+  "title": "Construção de Emet",
+  "subtitle": "O Gigante de Ferro é criado",
+  "whatHappened": "O Gigante de Ferro Emet é construído durante o Século Vazio.",
+  "keyCharacters": [
+    "Emet"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1067 - pág. 9-11",
+      "type": "manga"
+    }
+  ]
+}

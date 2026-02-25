@@ -1,0 +1,22 @@
+{
+  "id": "22-anos-formacao-do-exercito-revolucionario",
+  "year": {
+    "CM": 1519,
+    "EC": 4109
+  },
+  "title": "Formação do Exército Revolucionário",
+  "subtitle": "Dragon lidera a resistência",
+  "whatHappened": "Após o Incidente de Ohara, Kuma, Ginny, Ivankov e Dragon formam o Exército Revolucionário.",
+  "keyCharacters": [
+    "Monkey D. Dragon",
+    "Bartholomew Kuma",
+    "Emporio Ivankov"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 1097",
+      "type": "manga"
+    }
+  ]
+}

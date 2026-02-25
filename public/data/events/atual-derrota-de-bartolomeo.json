@@ -1,0 +1,22 @@
+{
+  "id": "atual-derrota-de-bartolomeo",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Derrota de Bartolomeo",
+  "subtitle": "Navio afundado por Yasopp",
+  "whatHappened": "Bartolomeo e sua tripulação são confrontados e derrotados pelos Piratas do Ruivo, antes que pudessem partir seu navio é afundado por Yasopp deixando seus destinos desconhecidos.",
+  "keyCharacters": [
+    "Bartolomeo",
+    "Yasopp",
+    "Shanks"
+  ],
+  "importance": "local",
+  "sources": [
+    {
+      "label": "Capítulo 1126",
+      "type": "manga"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "22-anos-nascimento-de-portgas-d-ace",
+  "year": {
+    "CM": 1519,
+    "EC": 4109
+  },
+  "title": "Nascimento de Portgas D. Ace",
+  "subtitle": "Filho do Rei dos Piratas",
+  "whatHappened": "Portgas D. Ace nasce como 'Gol D. Ace'. Sua mãe, Portgas D. Rouge, morre logo após seu nascimento.",
+  "keyCharacters": [
+    "Portgas D. Ace",
+    "Portgas D. Rouge"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 550",
+      "type": "manga"
+    }
+  ]
+}

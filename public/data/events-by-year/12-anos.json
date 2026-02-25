@@ -1,0 +1,20 @@
+{
+  "year": {
+    "CM": 1529,
+    "EC": 4119
+  },
+  "events": [
+    {
+      "id": "12-anos-luffy-come-a-gomu-gomu-no-mi",
+      "title": "Luffy Come a Gomu Gomu no Mi",
+      "subtitle": "Poderes de borracha",
+      "importance": "global"
+    },
+    {
+      "id": "12-anos-incidente-do-gray-terminal",
+      "title": "Incidente do Gray Terminal",
+      "subtitle": "Sabo é dado como morto",
+      "importance": "global"
+    }
+  ]
+}

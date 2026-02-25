@@ -3,69 +3,21 @@
 import { useState } from "react";
 import { LuChevronLeft, LuChevronRight } from "react-icons/lu";
 import "./styles.scss";
+import { useTimeline } from "@/contexts/TimelineContext";
+import { useEventsByYear } from "@/hooks/useEvents";
 
-interface Event {
-  id: string;
-  title: string;
-  period: string;
-  icon: string;
-}
+const importanceIcons: Record<string, string> = {
+  global: "🌍",
+  regional: "🗺️",
+  local: "📍"
+};
 
 export function Sidebar() {
-  const [selectedYear, setSelectedYear] = useState("1300 EC");
-  const [selectedEvent, setSelectedEvent] = useState("expansao-reino-briss");
+  const { selectedYear, selectedEventId, setSelectedEventId } = useTimeline();
+  const { events: eventsData, loading } = useEventsByYear(selectedYear?.id || null);
   const [isCollapsed, setIsCollapsed] = useState(false);
 
-  const events: Event[] = [
-    {
-      id: "expansao-reino-briss",
-      title: "Expansão do Reino Briss",
-      period: "1300s EC",
-      icon: "👑",
-    },
-    {
-      id: "chegada-grand-line",
-      title: "A Chegada da Grand Line",
-      period: "1300s EC",
-      icon: "⛵",
-    },
-    {
-      id: "queda-skypiea",
-      title: "A Queda de Skypiea",
-      period: "1330s EC",
-      icon: "⚔️",
-    },
-    {
-      id: "criacao-loja-armas",
-      title: "Criação da Loja de Armas",
-      period: "1350s EC",
-      icon: "⚔️",
-    },
-    {
-      id: "discriminacao-ilha",
-      title: "Discriminação na Ilha",
-      period: "1400s EC",
-      icon: "👤",
-    },
-    {
-      id: "levly-primeiro-rei",
-      title: "Levly, o Primeiro Rei",
-      period: "1450s EC",
-      icon: "👑",
-    },
-    {
-      id: "aparecimento-fish-men",
-      title: "Aparecimento dos Fish-Men",
-      period: "1470s EC",
-      icon: "🐉",
-    },
-    {
-      id: "batalha-green-bit",
-      title: "Batalha no Green Bit",
-      period: "1490s EC",
-      icon: "🏰",
-    },
-  ];
+  const events = eventsData?.events || [];
 
   const toggleSidebar = () => {
     setIsCollapsed(!isCollapsed);
@@ -84,19 +36,25 @@ export function Sidebar() {
         <h3>Acontecimentos ({events.length})</h3>
       </div>
       <div className={isCollapsed ? "sidebar-events-list collapsed" : "sidebar-events-list"}>
-        {events.map((event) => (
-          <div
-            key={event.id}
-            className={`event-item ${selectedEvent === event.id ? "active" : ""}`}
-            onClick={() => setSelectedEvent(event.id)}
-          >
-            <div className="event-icon">{event.icon}</div>
-            <div className="event-info">
-              <h4>{event.title}</h4>
-              <p>{event.period}</p>
+        {loading ? (
+          <div className="loading-state">Carregando...</div>
+        ) : events.length === 0 ? (
+          <div className="empty-state">Nenhum evento neste ano</div>
+        ) : (
+          events.map((event) => (
+            <div
+              key={event.id}
+              className={`event-item ${selectedEventId === event.id ? "active" : ""}`}
+              onClick={() => setSelectedEventId(event.id)}
+            >
+              <div className="event-icon">{importanceIcons[event.importance]}</div>
+              <div className="event-info">
+                <h4>{event.title}</h4>
+                <p>{event.subtitle}</p>
+              </div>
             </div>
-          </div>
-        ))}
+          ))
+        )}
       </div>
     </aside>
   );

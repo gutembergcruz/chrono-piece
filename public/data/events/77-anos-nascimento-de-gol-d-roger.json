@@ -1,0 +1,20 @@
+{
+  "id": "77-anos-nascimento-de-gol-d-roger",
+  "year": {
+    "CM": 1464,
+    "EC": 4054
+  },
+  "title": "Nascimento de Gol D. Roger",
+  "subtitle": "O futuro Rei dos Piratas",
+  "whatHappened": "Gol D. Roger nasce, destinado a se tornar o Rei dos Piratas e iniciar a Grande Era dos Piratas.",
+  "keyCharacters": [
+    "Gol D. Roger"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "SBS Volume 15",
+      "type": "sbs"
+    }
+  ]
+}

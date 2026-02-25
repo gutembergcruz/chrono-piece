@@ -1,0 +1,21 @@
+{
+  "id": "atual-morte-de-orochi",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Morte de Orochi",
+  "subtitle": "Incinerado por Kazenbo e decapitado",
+  "whatHappened": "Orochi é incendiado por Kazenbo e decapitado por Denjiro, ele é posteriormente incinerado.",
+  "keyCharacters": [
+    "Kurozumi Orochi",
+    "Denjiro"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 1048",
+      "type": "manga"
+    }
+  ]
+}

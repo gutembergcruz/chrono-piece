@@ -1,0 +1,21 @@
+{
+  "id": "atual-morte-de-izo",
+  "year": {
+    "CM": 1541,
+    "EC": 4131
+  },
+  "title": "Morte de Izo",
+  "subtitle": "Morto pelo agente CP0",
+  "whatHappened": "Izo é morto pelo agente da CP0 Maha.",
+  "keyCharacters": [
+    "Izo",
+    "Maha"
+  ],
+  "importance": "regional",
+  "sources": [
+    {
+      "label": "Capítulo 1053",
+      "type": "manga"
+    }
+  ]
+}

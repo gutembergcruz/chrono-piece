@@ -1,0 +1,24 @@
+{
+  "id": "830-anos-nascimento-de-amatsuki-toki",
+  "year": {
+    "CM": 670,
+    "EC": 3270
+  },
+  "title": "Nascimento de Amatsuki Toki",
+  "subtitle": "A viajante do tempo nasce",
+  "whatHappened": "Amatsuki Toki nasce, destinada a viajar 800 anos no futuro através dos poderes de sua Akuma no Mi.",
+  "keyCharacters": [
+    "Amatsuki Toki"
+  ],
+  "importance": "global",
+  "sources": [
+    {
+      "label": "Capítulo 964 - pág. 17",
+      "type": "manga"
+    },
+    {
+      "label": "Episódio 964",
+      "type": "anime"
+    }
+  ]
+}
