@@ -27,10 +27,10 @@ export function Sidebar() {
       const container = listRef.current;
       
       if (selectedElement) {
-        const elementTop = selectedElement.offsetTop;
-        container.scrollTo({
-          top: elementTop - 10,
-          behavior: 'smooth'
+        selectedElement.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start',
+          inline: 'nearest'
         });
       }
     }
