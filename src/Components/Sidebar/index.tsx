@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import { LuChevronLeft, LuChevronRight } from "react-icons/lu";
 import "./styles.scss";
 import { useTimeline } from "@/contexts/TimelineContext";
@@ -16,8 +16,25 @@ export function Sidebar() {
   const { selectedYear, selectedEventId, setSelectedEventId } = useTimeline();
   const { events: eventsData, loading } = useEventsByYear(selectedYear?.id || null);
   const [isCollapsed, setIsCollapsed] = useState(false);
+  const eventRefs = useRef<{ [key: string]: HTMLDivElement | null }>({});
+  const listRef = useRef<HTMLDivElement>(null);
 
   const events = eventsData?.events || [];
+
+  useEffect(() => {
+    if (selectedEventId && eventRefs.current[selectedEventId] && listRef.current) {
+      const selectedElement = eventRefs.current[selectedEventId];
+      const container = listRef.current;
+      
+      if (selectedElement) {
+        const elementTop = selectedElement.offsetTop;
+        container.scrollTo({
+          top: elementTop - 10,
+          behavior: 'smooth'
+        });
+      }
+    }
+  }, [selectedEventId]);
 
   const toggleSidebar = () => {
     setIsCollapsed(!isCollapsed);
@@ -35,7 +52,10 @@ export function Sidebar() {
       <div className={isCollapsed ? "sidebar-events-header collapsed" : "sidebar-events-header"}>
         <h3>Acontecimentos ({events.length})</h3>
       </div>
-      <div className={isCollapsed ? "sidebar-events-list collapsed" : "sidebar-events-list"}>
+      <div 
+        ref={listRef}
+        className={isCollapsed ? "sidebar-events-list collapsed" : "sidebar-events-list"}
+      >
         {loading ? (
           <div className="loading-state">Carregando...</div>
         ) : events.length === 0 ? (
@@ -44,6 +64,7 @@ export function Sidebar() {
           events.map((event) => (
             <div
               key={event.id}
+              ref={(el) => { eventRefs.current[event.id] = el; }}
               className={`event-item ${selectedEventId === event.id ? "active" : ""}`}
               onClick={() => setSelectedEventId(event.id)}
             >
