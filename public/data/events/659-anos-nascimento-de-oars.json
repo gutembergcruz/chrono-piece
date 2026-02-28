@@ -12,8 +12,9 @@
   ],
   "importance": "regional",
   "sources": [
-    {
+     {
       "label": "SBS Volume 50",
+      "url": "https://amzn.to/4rweacI",
       "type": "sbs"
     }
   ]

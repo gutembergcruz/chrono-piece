@@ -1,6 +1,7 @@
 'use client';
 
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import { useSearchParams, useRouter } from 'next/navigation';
 import type { Year, YearsData } from '@/types';
 
 interface TimelineContextType {
@@ -21,6 +22,8 @@ const STORAGE_KEYS = {
 };
 
 export function TimelineProvider({ children }: { children: ReactNode }) {
+  const searchParams = useSearchParams();
+  const router = useRouter();
   const [years, setYears] = useState<Year[]>([]);
   const [selectedYearIndex, setSelectedYearIndex] = useState(0);
   const [selectedEventId, setSelectedEventId] = useState<string | null>(null);
@@ -45,39 +48,61 @@ export function TimelineProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     if (years.length > 0 && !initialized) {
-      const savedYearIndex = localStorage.getItem(STORAGE_KEYS.YEAR_INDEX);
-      const savedEventId = localStorage.getItem(STORAGE_KEYS.EVENT_ID);
+      const urlEventId = searchParams.get('event');
+      const urlYearId = searchParams.get('year');
+      
+      let yearIndexToSet = years.length - 1;
+      let eventIdToSet: string | null = null;
 
-      if (savedYearIndex !== null) {
-        const index = parseInt(savedYearIndex, 10);
-        if (index >= 0 && index < years.length) {
-          setSelectedYearIndex(index);
+      if (urlYearId) {
+        const yearIndex = years.findIndex(y => y.id === urlYearId);
+        if (yearIndex !== -1) {
+          yearIndexToSet = yearIndex;
+        }
+      } else {
+        const savedYearIndex = localStorage.getItem(STORAGE_KEYS.YEAR_INDEX);
+        if (savedYearIndex !== null) {
+          const index = parseInt(savedYearIndex, 10);
+          if (index >= 0 && index < years.length) {
+            yearIndexToSet = index;
+          }
+        }
+      }
+
+      setSelectedYearIndex(yearIndexToSet);
+
+      if (urlEventId) {
+        eventIdToSet = urlEventId;
+        setSelectedEventId(urlEventId);
+        setInitialized(true);
+      } else {
+        const savedEventId = localStorage.getItem(STORAGE_KEYS.EVENT_ID);
+        if (savedEventId) {
+          eventIdToSet = savedEventId;
+          setSelectedEventId(savedEventId);
+          setInitialized(true);
         } else {
-          setSelectedYearIndex(years.length - 1);
-        }
-      } else {
-        setSelectedYearIndex(years.length - 1);
-      }
-
-      if (savedEventId) {
-        setSelectedEventId(savedEventId);
-      } else {
-        const mostRecentYear = years[years.length - 1];
-        if (mostRecentYear) {
-          fetch(`/data/events-by-year/${mostRecentYear.id}.json`)
-            .then(res => res.json())
-            .then(data => {
-              if (data.events && data.events.length > 0) {
-                setSelectedEventId(data.events[0].id);
-              }
-            })
-            .catch(err => console.error('Failed to load most recent event:', err));
+          const yearToLoad = years[yearIndexToSet];
+          if (yearToLoad) {
+            fetch(`/data/events-by-year/${yearToLoad.id}.json`)
+              .then(res => res.json())
+              .then(data => {
+                if (data.events && data.events.length > 0) {
+                  setSelectedEventId(data.events[0].id);
+                }
+                setInitialized(true);
+              })
+              .catch(err => {
+                console.error('Failed to load most recent event:', err);
+                setInitialized(true);
+              });
+          } else {
+            setInitialized(true);
+          }
         }
       }
-
-      setInitialized(true);
     }
-  }, [years, initialized]);
+  }, [years, initialized, searchParams]);
 
   useEffect(() => {
     if (initialized) {
@@ -92,6 +117,15 @@ export function TimelineProvider({ children }: { children: ReactNode }) {
   }, [selectedEventId, initialized]);
 
   const selectedYear = years[selectedYearIndex] || null;
+
+  useEffect(() => {
+    if (initialized && selectedYear && selectedEventId) {
+      const params = new URLSearchParams();
+      params.set('year', selectedYear.id);
+      params.set('event', selectedEventId);
+      router.replace(`/?${params.toString()}`, { scroll: false });
+    }
+  }, [selectedYear, selectedEventId, initialized, router]);
 
   return (
     <TimelineContext.Provider

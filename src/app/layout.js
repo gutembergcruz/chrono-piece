@@ -1,4 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import { Suspense } from "react";
 import "./globals.css";
 import { TimelineProvider } from "@/contexts/TimelineContext";
 
@@ -28,9 +29,11 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        <TimelineProvider>
-          {children}
-        </TimelineProvider>
+        <Suspense fallback={<div>Carregando...</div>}>
+          <TimelineProvider>
+            {children}
+          </TimelineProvider>
+        </Suspense>
       </body>
     </html>
   );
